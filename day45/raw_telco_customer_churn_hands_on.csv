@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,city,signup_date,monthly_spend_str,contract_months,churn_label
+CUST-0344,Bambang,Rahayu,Bandung,2020-01-01,Rp 971.134,24.0,No
+CUST-0695,Eko,Santoso,Surabaya,2020-01-02,,,No
+CUST-0907,Eko,Wijaya,Jakarta,2020-01-03,Rp 349.857,6.0,No
+CUST-0545,Eko,Lestari,Semarang,2020-01-04,Rp 1.391.344,1.0,No
+CUST-1847,Budi,Wijaya,Semarang,2020-01-05,Rp 580.864,24.0,No
+CUST-1566,Budi,Handayani,Bandung,2020-01-06,Rp 200.273,1.0,Yes
+CUST-1572,Maya,Kusuma,Surabaya,2020-01-07,Rp 1.068.488,24.0,Yes
+CUST-0945,Maya,Santoso,Surabaya,2020-01-08,Rp 484.214,24.0,No
+CUST-0819,Rina,Rahayu,Medan,2020-01-09,Rp 439.843,24.0,No
+CUST-0830,Dewi,Suryono,Jakarta,2020-01-10,Rp 1.497.067,24.0,No
+CUST-1573,Siti,Lestari,Makassar,2020-01-11,Rp 1.294.301,1.0,Yes
+CUST-0979,Siti,Handayani,Surabaya,2020-01-12,Rp 641.510,24.0,No
+CUST-1575,Bambang,Wijaya,Makassar,2020-01-13,Rp 1.471.379,24.0,Yes
+CUST-0786,Eko,Ningsih,Semarang,2020-01-14,,12.0,Yes
+CUST-0071,Dewi,Purnomo,Makassar,2020-01-15,Rp 1.125.933,24.0,No
+CUST-1007,Rini,Santoso,Jakarta,2020-01-16,Rp 95.694,,No
+CUST-0189,Budi,Santoso,Jakarta,2020-01-17,Rp 226.328,24.0,Yes
+CUST-1603,Joko,Handayani,Makassar,2020-01-18,Rp 967.973,6.0,Yes
+CUST-1270,Agus,Wijaya,Bandung,2020-01-19,Rp 1.353.585,6.0,No
+CUST-1305,Rina,Pratama,Surabaya,2020-01-20,Rp 954.428,24.0,No
+CUST-1321,Eko,Santoso,Bandung,2020-01-21,Rp 244.336,6.0,No
+CUST-1112,Eko,Pratama,Makassar,2020-01-22,Rp 217.852,6.0,No
+CUST-1640,Eko,Ningsih,Surabaya,2020-01-23,Rp 1.274.070,1.0,No
+CUST-1236,Budi,Handayani,Medan,2020-01-24,Rp 251.988,12.0,Yes
+CUST-0600,Budi,Wijaya,Bandung,2020-01-25,Rp 804.336,6.0,Yes
+CUST-0057,Agus,Wijaya,Bandung,2020-01-26,Rp 103.814,6.0,No
+CUST-1074,Rini,Kusuma,Makassar,2020-01-27,Rp 166.971,12.0,Yes
+CUST-1264,Dewi,Purnomo,Semarang,2020-01-28,,12.0,No
+CUST-0766,Eko,Lestari,Makassar,2020-01-29,Rp 1.049.313,6.0,No
+CUST-0687,Siti,Lestari,Bandung,2020-01-30,Rp 545.131,24.0,No
+CUST-1520,Maya,Suryono,Surabaya,2020-01-31,Rp 362.634,6.0,No
+CUST-0583,Siti,Rahayu,Semarang,2020-02-01,Rp 1.229.880,24.0,No
+CUST-0713,Bambang,Handayani,Makassar,2020-02-02,,24.0,Yes
+CUST-1806,Siti,Ningsih,Makassar,2020-02-03,Rp 835.939,24.0,No
+CUST-0384,Bambang,Wijaya,Bandung,2020-02-04,,12.0,Yes
+CUST-1923,Joko,Purnomo,Bandung,2020-02-05,,6.0,No
+CUST-0213,Maya,Pratama,Medan,2020-02-06,Rp 1.414.271,,No
+CUST-0383,Siti,Handayani,Makassar,2020-02-07,Rp 315.195,1.0,Yes
+CUST-0487,Joko,Suryono,Bandung,2020-02-08,Rp 872.793,12.0,No
+CUST-1718,Rina,Handayani,Jakarta,2020-02-09,,1.0,Yes
+CUST-0535,Dewi,Suryono,Semarang,2020-02-10,Rp 1.449.146,1.0,No
+CUST-1553,Joko,Wijaya,Jakarta,2020-02-11,Rp 446.636,24.0,No
+CUST-0125,Dewi,Rahayu,Semarang,2020-02-12,Rp 629.504,12.0,Yes
+CUST-0875,Siti,Suryono,Makassar,2020-02-13,Rp 1.475.147,1.0,Yes
+CUST-0553,Rini,Wijaya,Medan,2020-02-14,Rp 827.882,6.0,No
+CUST-0030,Joko,Wijaya,Bandung,2020-02-15,Rp 778.814,1.0,No
+CUST-1879,Maya,Rahayu,Bandung,2020-02-16,Rp 423.779,12.0,Yes
+CUST-1316,Siti,Lestari,Bandung,2020-02-17,Rp 1.066.977,6.0,No
+CUST-1419,Eko,Handayani,Makassar,2020-02-18,Rp 70.841,6.0,No
+CUST-1405,Budi,Santoso,Semarang,2020-02-19,Rp 121.793,6.0,Yes
+CUST-0343,Joko,Santoso,Bandung,2020-02-20,Rp 919.070,24.0,No
+CUST-0308,Maya,Pratama,Jakarta,2020-02-21,Rp 545.428,6.0,No
+CUST-1288,Rina,Pratama,Bandung,2020-02-22,Rp 1.432.309,24.0,No
+CUST-0773,Eko,Santoso,Makassar,2020-02-23,Rp 1.359.627,24.0,No
+CUST-1776,Rina,Ningsih,Medan,2020-02-24,Rp 1.084.874,1.0,Yes
+CUST-0112,Siti,Santoso,Jakarta,2020-02-25,Rp 1.236.311,1.0,No
+CUST-1484,Budi,Pratama,Bandung,2020-02-26,Rp 1.017.631,6.0,No
+CUST-0716,Joko,Purnomo,Bandung,2020-02-27,Rp 232.094,12.0,Yes
+CUST-0986,Joko,Pratama,Surabaya,2020-02-28,Rp 1.160.038,6.0,Yes
+CUST-1774,Rini,Ningsih,Semarang,2020-02-29,Rp 354.778,1.0,No
+CUST-1044,Rini,Handayani,Jakarta,2020-03-01,Rp 518.992,6.0,No
+CUST-0101,Siti,Santoso,Surabaya,2020-03-02,Rp 1.237.890,1.0,No
+CUST-0591,Siti,Rahayu,Medan,2020-03-03,Rp 827.962,6.0,No
+CUST-1058,Budi,Purnomo,Semarang,2020-03-04,Rp 1.296.914,12.0,No
+CUST-0290,Rini,Wijaya,Jakarta,2020-03-05,Rp 358.901,6.0,No
+CUST-0611,Maya,Ningsih,Bandung,2020-03-06,Rp 931.279,12.0,Yes
+CUST-1129,Maya,Pratama,Jakarta,2020-03-07,Rp 171.497,12.0,Yes
+CUST-0066,Budi,Rahayu,Bandung,2020-03-08,,6.0,No
+CUST-1918,Maya,Suryono,Semarang,2020-03-09,Rp 1.155.674,12.0,No
+CUST-0975,Bambang,Lestari,Bandung,2020-03-10,,12.0,No
+CUST-0306,Dewi,Santoso,Medan,2020-03-11,Rp 436.036,1.0,No
+CUST-1111,Budi,Lestari,Makassar,2020-03-12,,1.0,No
+CUST-1657,Budi,Ningsih,Bandung,2020-03-13,Rp 223.201,12.0,Yes
+CUST-0129,Agus,Suryono,Medan,2020-03-14,Rp 952.339,24.0,No
+CUST-0708,Eko,Suryono,Makassar,2020-03-15,Rp 1.404.909,6.0,No
+CUST-1799,Eko,Suryono,Semarang,2020-03-16,Rp 349.475,12.0,Yes
+CUST-1687,Bambang,Wijaya,Semarang,2020-03-17,Rp 1.115.788,6.0,No
+CUST-0421,Rini,Ningsih,Jakarta,2020-03-18,Rp 1.306.354,1.0,No
+CUST-1290,Siti,Handayani,Medan,2020-03-19,Rp 805.279,6.0,No
+CUST-0924,Siti,Lestari,Medan,2020-03-20,Rp 1.020.435,12.0,No
+CUST-0415,Rina,Handayani,Surabaya,2020-03-21,Rp 1.231.772,,Yes
+CUST-0454,Bambang,Rahayu,Surabaya,2020-03-22,Rp 427.979,12.0,No
+CUST-1532,Budi,Kusuma,Makassar,2020-03-23,Rp 480.499,12.0,No
+CUST-1357,Bambang,Purnomo,Makassar,2020-03-24,Rp 50.910,24.0,No
+CUST-0394,Bambang,Purnomo,Surabaya,2020-03-25,Rp 1.446.486,24.0,No
+CUST-0238,Bambang,Handayani,Makassar,2020-03-26,Rp 1.380.440,24.0,No
+CUST-0211,Eko,Kusuma,Bandung,2020-03-27,Rp 1.158.624,,Yes
+CUST-0212,Bambang,Kusuma,Surabaya,2020-03-28,Rp 164.660,24.0,No
+CUST-0702,Dewi,Santoso,Medan,2020-03-29,,6.0,No
+CUST-1851,Siti,Rahayu,Bandung,2020-03-30,Rp 197.743,12.0,No
+CUST-1681,Rina,Ningsih,Makassar,2020-03-31,Rp 73.084,1.0,Yes
+CUST-1083,Dewi,Kusuma,Semarang,2020-04-01,,12.0,No
+CUST-1607,Rina,Pratama,Jakarta,2020-04-02,Rp 1.443.203,6.0,No
+CUST-1054,Agus,Purnomo,Surabaya,2020-04-03,Rp 1.359.159,,No
+CUST-0533,Rina,Pratama,Semarang,2020-04-04,Rp 1.060.294,12.0,No
+CUST-1541,Siti,Rahayu,Makassar,2020-04-05,Rp 190.129,24.0,No
+CUST-0307,Siti,Kusuma,Medan,2020-04-06,Rp 447.538,12.0,No
+CUST-1483,Bambang,Lestari,Jakarta,2020-04-07,Rp 514.082,6.0,No
+CUST-1848,Joko,Purnomo,Semarang,2020-04-08,Rp 1.156.568,12.0,No
+CUST-0809,Agus,Santoso,Jakarta,2020-04-09,Rp 1.213.261,24.0,No
+CUST-0070,Budi,Santoso,Surabaya,2020-04-10,Rp 608.404,24.0,No
+CUST-0221,Maya,Suryono,Makassar,2020-04-11,,6.0,No
+CUST-1922,Rina,Wijaya,Medan,2020-04-12,Rp 114.538,12.0,No
+CUST-1455,Joko,Kusuma,Makassar,2020-04-13,Rp 469.248,1.0,No
+CUST-0472,Bambang,Rahayu,Jakarta,2020-04-14,Rp 704.364,12.0,No
+CUST-0369,Eko,Purnomo,Semarang,2020-04-15,Rp 219.625,6.0,Yes
+CUST-0240,Budi,Wijaya,Surabaya,2020-04-16,Rp 707.238,1.0,No
+CUST-0232,Rini,Rahayu,Surabaya,2020-04-17,Rp 1.287.105,6.0,Yes
+CUST-1285,Joko,Handayani,Makassar,2020-04-18,Rp 892.915,12.0,No
+CUST-0197,Eko,Kusuma,Semarang,2020-04-19,Rp 164.448,1.0,Yes
+CUST-0100,Agus,Ningsih,Semarang,2020-04-20,Rp 327.923,6.0,No
+CUST-1781,Bambang,Ningsih,Jakarta,2020-04-21,Rp 738.089,24.0,Yes
+CUST-1673,Budi,Kusuma,Makassar,2020-04-22,Rp 574.156,1.0,No
+CUST-0747,Budi,Suryono,Makassar,2020-04-23,Rp 570.154,1.0,No
+CUST-0367,Budi,Suryono,Bandung,2020-04-24,Rp 817.438,6.0,No
+CUST-0742,Agus,Ningsih,Makassar,2020-04-25,Rp 897.374,24.0,Yes
+CUST-1492,Rina,Lestari,Surabaya,2020-04-26,Rp 1.205.449,1.0,No
+CUST-1629,Rini,Purnomo,Jakarta,2020-04-27,Rp 544.402,6.0,No
+CUST-1131,Agus,Ningsih,Semarang,2020-04-28,Rp 1.217.926,1.0,No
+CUST-1438,Maya,Lestari,Makassar,2020-04-29,Rp 540.986,1.0,Yes
+CUST-0252,Rini,Wijaya,Jakarta,2020-04-30,Rp 130.378,1.0,No
+CUST-0890,Siti,Lestari,Makassar,2020-05-01,Rp 853.572,24.0,No
+CUST-1597,Bambang,Wijaya,Semarang,2020-05-02,Rp 902.458,12.0,Yes
+CUST-0515,Agus,Rahayu,Medan,2020-05-03,Rp 1.405.083,12.0,Yes
+CUST-1338,Eko,Pratama,Semarang,2020-05-04,Rp 1.102.789,24.0,No
+CUST-0638,Rini,Rahayu,Semarang,2020-05-05,Rp 1.380.770,,No
+CUST-1104,Maya,Ningsih,Semarang,2020-05-06,Rp 1.367.103,6.0,Yes
+CUST-1794,Siti,Wijaya,Makassar,2020-05-07,,1.0,No
+CUST-0926,Rina,Ningsih,Bandung,2020-05-08,Rp 815.255,24.0,Yes
+CUST-1842,Eko,Kusuma,Semarang,2020-05-09,Rp 858.289,6.0,No
+CUST-1158,Rini,Purnomo,Surabaya,2020-05-10,Rp 1.468.580,12.0,No
+CUST-1526,Bambang,Santoso,Surabaya,2020-05-11,Rp 1.171.093,12.0,No
+CUST-1461,Eko,Ningsih,Jakarta,2020-05-12,Rp 204.086,12.0,No
+CUST-0539,Siti,Purnomo,Bandung,2020-05-13,Rp 1.178.721,12.0,No
+CUST-1037,Eko,Lestari,Jakarta,2020-05-14,,6.0,No
+CUST-0793,Dewi,Rahayu,Surabaya,2020-05-15,Rp 698.658,1.0,Yes
+CUST-1522,Joko,Lestari,Surabaya,2020-05-16,Rp 355.167,6.0,No
+CUST-0837,Rina,Santoso,Medan,2020-05-17,Rp 1.049.895,,No
+CUST-1069,Siti,Wijaya,Semarang,2020-05-18,Rp 1.322.099,12.0,No
+CUST-0486,Eko,Kusuma,Surabaya,2020-05-19,Rp 471.025,24.0,No
+CUST-0511,Joko,Purnomo,Makassar,2020-05-20,Rp 168.916,24.0,No
+CUST-0496,Joko,Kusuma,Makassar,2020-05-21,Rp 482.815,24.0,No
+CUST-1363,Eko,Pratama,Jakarta,2020-05-22,Rp 1.024.925,1.0,Yes
+CUST-1669,Bambang,Ningsih,Jakarta,2020-05-23,Rp 526.702,12.0,No
+CUST-1433,Dewi,Wijaya,Semarang,2020-05-24,Rp 453.263,6.0,No
+CUST-0655,Agus,Pratama,Semarang,2020-05-25,Rp 317.431,24.0,No
+CUST-0860,Dewi,Handayani,Medan,2020-05-26,Rp 771.399,1.0,No
+CUST-1512,Eko,Ningsih,Bandung,2020-05-27,Rp 450.126,24.0,No
+CUST-1490,Rina,Lestari,Jakarta,2020-05-28,Rp 1.109.965,6.0,Yes
+CUST-1045,Agus,Rahayu,Semarang,2020-05-29,Rp 161.102,12.0,No
+CUST-0434,Siti,Purnomo,Jakarta,2020-05-30,Rp 1.012.848,6.0,No
+CUST-0375,Dewi,Santoso,Semarang,2020-05-31,Rp 394.462,12.0,No
+CUST-1055,Eko,Santoso,Surabaya,2020-06-01,Rp 759.455,12.0,No
+CUST-0711,Dewi,Lestari,Jakarta,2020-06-02,Rp 464.830,12.0,No
+CUST-0922,Agus,Suryono,Surabaya,2020-06-03,Rp 1.098.015,24.0,No
+CUST-0775,Maya,Santoso,Jakarta,2020-06-04,Rp 1.420.695,6.0,No
+CUST-1801,Rini,Purnomo,Bandung,2020-06-05,Rp 1.379.761,24.0,Yes
+CUST-1030,Dewi,Lestari,Medan,2020-06-06,Rp 895.968,6.0,No
+CUST-1821,Siti,Wijaya,Makassar,2020-06-07,Rp 720.785,1.0,Yes
+CUST-1625,Siti,Santoso,Makassar,2020-06-08,Rp 1.236.536,,No
+CUST-0417,Budi,Kusuma,Makassar,2020-06-09,Rp 1.040.823,6.0,Yes
+CUST-1594,Dewi,Lestari,Surabaya,2020-06-10,Rp 316.168,6.0,No
+CUST-1178,Rini,Purnomo,Semarang,2020-06-11,Rp 1.240.333,6.0,No
+CUST-1552,Bambang,Kusuma,Makassar,2020-06-12,Rp 671.882,,No
+CUST-0770,Joko,Ningsih,Bandung,2020-06-13,Rp 324.029,12.0,No
+CUST-0116,Rini,Ningsih,Makassar,2020-06-14,Rp 458.606,24.0,No
+CUST-0325,Joko,Santoso,Jakarta,2020-06-15,Rp 437.914,12.0,No
+CUST-1515,Joko,Kusuma,Surabaya,2020-06-16,Rp 802.850,24.0,No
+CUST-0439,Maya,Rahayu,Jakarta,2020-06-17,Rp 389.837,24.0,Yes
+CUST-0299,Budi,Ningsih,Jakarta,2020-06-18,Rp 229.171,,No
+CUST-1709,Rini,Rahayu,Jakarta,2020-06-19,Rp 229.352,12.0,No
+CUST-1404,Rini,Wijaya,Medan,2020-06-20,Rp 895.750,6.0,Yes
+CUST-0586,Maya,Lestari,Medan,2020-06-21,Rp 1.115.401,12.0,Yes
+CUST-0353,Dewi,Pratama,Semarang,2020-06-22,Rp 516.223,12.0,No
+CUST-1096,Dewi,Purnomo,Surabaya,2020-06-23,,24.0,Yes
+CUST-0544,Dewi,Lestari,Bandung,2020-06-24,Rp 234.476,1.0,No
+CUST-0508,Rina,Purnomo,Bandung,2020-06-25,Rp 1.376.307,1.0,No
+CUST-0555,Joko,Kusuma,Bandung,2020-06-26,Rp 765.638,12.0,No
+CUST-1739,Rina,Wijaya,Jakarta,2020-06-27,Rp 707.681,24.0,Yes
+CUST-1291,Budi,Handayani,Medan,2020-06-28,Rp 105.171,12.0,No
+CUST-0331,Maya,Santoso,Surabaya,2020-06-29,Rp 1.106.524,12.0,No
+CUST-1617,Rini,Purnomo,Jakarta,2020-06-30,Rp 815.699,6.0,No
+CUST-0121,Joko,Purnomo,Medan,2020-07-01,Rp 343.017,24.0,Yes
+CUST-1382,Rina,Kusuma,Medan,2020-07-02,Rp 209.607,1.0,No
+CUST-0368,Rina,Rahayu,Makassar,2020-07-03,Rp 605.912,1.0,No
+CUST-1005,Eko,Lestari,Makassar,2020-07-04,,,No
+CUST-0248,Rina,Handayani,Surabaya,2020-07-05,Rp 1.304.677,12.0,No
+CUST-1493,Bambang,Suryono,Surabaya,2020-07-06,Rp 924.127,24.0,Yes
+CUST-0562,Rini,Santoso,Surabaya,2020-07-07,Rp 1.104.928,6.0,No
+CUST-0136,Bambang,Pratama,Jakarta,2020-07-08,Rp 216.976,1.0,No
+CUST-1306,Rini,Suryono,Semarang,2020-07-09,,24.0,No
+CUST-0983,Maya,Lestari,Surabaya,2020-07-10,Rp 1.017.100,1.0,No
+CUST-1107,Rini,Santoso,Makassar,2020-07-11,Rp 341.034,6.0,No
+CUST-0362,Bambang,Purnomo,Semarang,2020-07-12,Rp 1.326.224,24.0,No
+CUST-1311,Rini,Pratama,Jakarta,2020-07-13,Rp 332.745,12.0,Yes
+CUST-0756,Maya,Rahayu,Semarang,2020-07-14,Rp 504.542,12.0,No
+CUST-1118,Maya,Handayani,Bandung,2020-07-15,Rp 949.807,1.0,No
+CUST-1869,Budi,Rahayu,Semarang,2020-07-16,Rp 975.608,1.0,No
+CUST-0110,Rini,Wijaya,Surabaya,2020-07-17,Rp 1.064.108,24.0,No
+CUST-0382,Eko,Kusuma,Jakarta,2020-07-18,Rp 212.417,6.0,No
+CUST-1511,Dewi,Santoso,Surabaya,2020-07-19,Rp 1.281.723,1.0,Yes
+CUST-1274,Siti,Rahayu,Makassar,2020-07-20,Rp 822.628,24.0,No
+CUST-1381,Maya,Suryono,Bandung,2020-07-21,Rp 733.417,6.0,No
+CUST-1866,Agus,Kusuma,Makassar,2020-07-22,Rp 1.472.592,1.0,No
+CUST-0680,Dewi,Rahayu,Surabaya,2020-07-23,,1.0,No
+CUST-1238,Joko,Ningsih,Surabaya,2020-07-24,Rp 221.109,24.0,No
+CUST-1583,Rini,Wijaya,Surabaya,2020-07-25,Rp 1.146.982,1.0,No
+CUST-1661,Bambang,Lestari,Medan,2020-07-26,Rp 188.111,12.0,No
+CUST-1165,Siti,Handayani,Bandung,2020-07-27,Rp 89.832,6.0,Yes
+CUST-0889,Agus,Wijaya,Surabaya,2020-07-28,Rp 635.258,,No
+CUST-1543,Dewi,Kusuma,Surabaya,2020-07-29,Rp 1.490.688,12.0,No
+CUST-0788,Rini,Ningsih,Makassar,2020-07-30,Rp 303.582,24.0,No
+CUST-1191,Budi,Santoso,Makassar,2020-07-31,Rp 1.025.334,12.0,No
+CUST-1367,Joko,Suryono,Surabaya,2020-08-01,Rp 301.424,12.0,No
+CUST-1346,Siti,Handayani,Jakarta,2020-08-02,Rp 1.100.941,6.0,No
+CUST-0857,Eko,Handayani,Medan,2020-08-03,Rp 782.763,24.0,Yes
+CUST-1079,Budi,Wijaya,Makassar,2020-08-04,Rp 1.035.959,1.0,Yes
+CUST-0693,Agus,Kusuma,Jakarta,2020-08-05,Rp 344.166,12.0,No
+CUST-0234,Siti,Santoso,Medan,2020-08-06,Rp 1.131.161,12.0,No
+CUST-1092,Budi,Purnomo,Surabaya,2020-08-07,Rp 1.493.648,,No
+CUST-1609,Joko,Ningsih,Bandung,2020-08-08,Rp 1.015.193,12.0,No
+CUST-0915,Eko,Purnomo,Semarang,2020-08-09,Rp 765.546,24.0,No
+CUST-1275,Budi,Suryono,Semarang,2020-08-10,Rp 1.388.602,1.0,No
+CUST-0481,Rina,Santoso,Surabaya,2020-08-11,Rp 72.985,24.0,No
+CUST-0520,Eko,Santoso,Makassar,2020-08-12,Rp 1.108.389,,Yes
+CUST-0122,Agus,Ningsih,Jakarta,2020-08-13,Rp 1.338.682,24.0,No
+CUST-1304,Joko,Pratama,Bandung,2020-08-14,,12.0,No
+CUST-1605,Rini,Purnomo,Medan,2020-08-15,,1.0,No
+CUST-1209,Bambang,Rahayu,Surabaya,2020-08-16,Rp 346.843,12.0,No
+CUST-0584,Bambang,Handayani,Bandung,2020-08-17,Rp 871.451,1.0,Yes
+CUST-1753,Bambang,Pratama,Bandung,2020-08-18,Rp 991.837,24.0,No
+CUST-0255,Siti,Rahayu,Makassar,2020-08-19,Rp 488.804,24.0,No
+CUST-0536,Agus,Kusuma,Medan,2020-08-20,Rp 716.973,24.0,No
+CUST-0451,Joko,Ningsih,Bandung,2020-08-21,Rp 455.042,6.0,No
+CUST-0050,Eko,Kusuma,Makassar,2020-08-22,Rp 585.617,6.0,No
+CUST-1426,Siti,Handayani,Jakarta,2020-08-23,Rp 281.333,1.0,No
+CUST-1491,Agus,Lestari,Makassar,2020-08-24,Rp 1.334.061,6.0,No
+CUST-1369,Rini,Rahayu,Jakarta,2020-08-25,Rp 64.515,24.0,No
+CUST-0758,Rina,Pratama,Jakarta,2020-08-26,Rp 1.329.493,6.0,No
+CUST-0737,Joko,Rahayu,Bandung,2020-08-27,Rp 878.934,6.0,No
+CUST-1139,Bambang,Rahayu,Makassar,2020-08-28,,12.0,No
+CUST-1510,Budi,Ningsih,Jakarta,2020-08-29,Rp 1.098.433,1.0,Yes
+CUST-1862,Joko,Kusuma,Medan,2020-08-30,Rp 786.241,1.0,No
+CUST-0174,Maya,Purnomo,Bandung,2020-08-31,,1.0,No
+CUST-0866,Agus,Lestari,Makassar,2020-09-01,Rp 209.706,6.0,No
+CUST-1170,Dewi,Ningsih,Makassar,2020-09-02,Rp 614.798,24.0,No
+CUST-0765,Rini,Suryono,Semarang,2020-09-03,Rp 399.543,12.0,No
+CUST-1695,Rina,Ningsih,Makassar,2020-09-04,Rp 72.759,1.0,Yes
+CUST-1721,Rini,Handayani,Bandung,2020-09-05,Rp 572.144,6.0,No
+CUST-1371,Joko,Lestari,Medan,2020-09-06,Rp 180.242,24.0,No
+CUST-0746,Dewi,Santoso,Makassar,2020-09-07,Rp 422.404,12.0,No
+CUST-0300,Maya,Suryono,Semarang,2020-09-08,,12.0,No
+CUST-0024,Eko,Wijaya,Bandung,2020-09-09,Rp 196.365,1.0,No
+CUST-1645,Budi,Ningsih,Jakarta,2020-09-10,Rp 338.566,1.0,No
+CUST-0987,Dewi,Rahayu,Surabaya,2020-09-11,Rp 1.499.781,24.0,No
+CUST-0064,Agus,Purnomo,Surabaya,2020-09-12,Rp 53.167,6.0,No
+CUST-0808,Bambang,Santoso,Jakarta,2020-09-13,Rp 976.075,24.0,Yes
+CUST-0731,Maya,Ningsih,Makassar,2020-09-14,Rp 254.803,1.0,No
+CUST-0882,Budi,Ningsih,Surabaya,2020-09-15,Rp 1.384.911,24.0,No
+CUST-0282,Rina,Pratama,Surabaya,2020-09-16,Rp 185.768,6.0,Yes
+CUST-0257,Bambang,Pratama,Jakarta,2020-09-17,Rp 1.434.842,12.0,No
+CUST-0355,Joko,Santoso,Makassar,2020-09-18,Rp 935.843,12.0,No
+CUST-0556,Dewi,Kusuma,Makassar,2020-09-19,,12.0,No
+CUST-0276,Budi,Pratama,Jakarta,2020-09-20,Rp 1.346.310,12.0,Yes
+CUST-1083,Siti,Rahayu,Makassar,2020-09-21,Rp 806.482,1.0,No
+CUST-0352,Eko,Suryono,Makassar,2020-09-22,Rp 430.871,1.0,No
+CUST-1804,Eko,Wijaya,Bandung,2020-09-23,Rp 1.162.555,,Yes
+CUST-1867,Maya,Lestari,Bandung,2020-09-24,Rp 1.393.665,6.0,No
+CUST-1300,Rina,Wijaya,Jakarta,2020-09-25,Rp 751.352,6.0,Yes
+CUST-0298,Maya,Wijaya,Medan,2020-09-26,Rp 507.553,6.0,No
+CUST-1788,Siti,Lestari,Surabaya,2020-09-27,Rp 1.193.970,24.0,No
+CUST-1790,Agus,Pratama,Bandung,2020-09-28,Rp 1.038.589,6.0,Yes
+CUST-0870,Rina,Santoso,Surabaya,2020-09-29,Rp 1.338.691,12.0,Yes
+CUST-0651,Rini,Lestari,Semarang,2020-09-30,Rp 1.054.145,,No
+CUST-1675,Agus,Handayani,Jakarta,2020-10-01,Rp 403.116,12.0,No
+CUST-0271,Rina,Kusuma,Medan,2020-10-02,Rp 1.400.906,24.0,Yes
+CUST-1693,Rina,Suryono,Semarang,2020-10-03,Rp 202.012,6.0,No
+CUST-0933,Siti,Purnomo,Semarang,2020-10-04,Rp 438.517,12.0,Yes
+CUST-1281,Joko,Pratama,Makassar,2020-10-05,Rp 804.282,12.0,Yes
+CUST-1224,Siti,Kusuma,Semarang,2020-10-06,Rp 870.326,12.0,No
+CUST-0026,Rina,Lestari,Jakarta,2020-10-07,Rp 72.200,12.0,No
+CUST-1394,Budi,Handayani,Bandung,2020-10-08,Rp 1.181.830,1.0,No
+CUST-0079,Agus,Purnomo,Jakarta,2020-10-09,Rp 574.331,6.0,Yes
+CUST-0858,Siti,Suryono,Bandung,2020-10-10,Rp 639.307,6.0,Yes
+CUST-0033,Joko,Suryono,Semarang,2020-10-11,Rp 1.223.586,24.0,No
+CUST-0395,Dewi,Pratama,Semarang,2020-10-12,Rp 599.961,1.0,Yes
+CUST-1550,Maya,Lestari,Medan,2020-10-13,Rp 118.476,24.0,No
+CUST-0495,Rina,Kusuma,Bandung,2020-10-14,Rp 305.838,12.0,No
+CUST-0612,Rini,Santoso,Semarang,2020-10-15,Rp 1.436.060,24.0,No
+CUST-0164,Dewi,Kusuma,Makassar,2020-10-16,Rp 152.088,,No
+CUST-0204,Eko,Kusuma,Surabaya,2020-10-17,Rp 564.650,12.0,No
+CUST-1008,Bambang,Suryono,Medan,2020-10-18,,6.0,No
+CUST-1858,Joko,Santoso,Jakarta,2020-10-19,Rp 765.257,6.0,No
+CUST-1286,Rini,Santoso,Medan,2020-10-20,Rp 55.742,6.0,Yes
+CUST-1802,Bambang,Pratama,Surabaya,2020-10-21,Rp 776.686,6.0,No
+CUST-1160,Joko,Purnomo,Bandung,2020-10-22,Rp 606.470,6.0,Yes
+CUST-0825,Budi,Ningsih,Jakarta,2020-10-23,Rp 1.459.515,,No
+CUST-0022,Maya,Wijaya,Jakarta,2020-10-24,Rp 280.781,6.0,No
+CUST-0603,Dewi,Wijaya,Bandung,2020-10-25,Rp 563.524,24.0,No
+CUST-0483,Agus,Suryono,Medan,2020-10-26,Rp 658.248,12.0,No
+CUST-0874,Joko,Ningsih,Semarang,2020-10-27,,6.0,No
+CUST-1408,Agus,Purnomo,Medan,2020-10-28,,,No
+CUST-0219,Maya,Ningsih,Surabaya,2020-10-29,Rp 362.494,24.0,No
+CUST-0460,Rina,Pratama,Makassar,2020-10-30,Rp 370.554,24.0,Yes
+CUST-1002,Eko,Kusuma,Semarang,2020-10-31,Rp 1.107.356,12.0,No
+CUST-1902,Dewi,Suryono,Medan,2020-11-01,Rp 775.421,24.0,No
+CUST-0818,Maya,Santoso,Makassar,2020-11-02,Rp 651.976,24.0,No
+CUST-1176,Maya,Suryono,Makassar,2020-11-03,Rp 295.344,24.0,No
+CUST-0060,Budi,Wijaya,Bandung,2020-11-04,Rp 321.914,24.0,No
+CUST-0322,Bambang,Purnomo,Surabaya,2020-11-05,,1.0,Yes
+CUST-0317,Eko,Ningsih,Surabaya,2020-11-06,Rp 182.568,12.0,No
+CUST-0074,Dewi,Purnomo,Surabaya,2020-11-07,Rp 857.416,6.0,No
+CUST-0163,Rina,Pratama,Semarang,2020-11-08,Rp 1.343.216,24.0,No
+CUST-0580,Rina,Suryono,Jakarta,2020-11-09,Rp 466.389,1.0,No
+CUST-0991,Siti,Lestari,Semarang,2020-11-10,Rp 525.233,12.0,No
+CUST-0577,Maya,Suryono,Medan,2020-11-11,Rp 217.628,,No
+CUST-1628,Joko,Santoso,Makassar,2020-11-12,Rp 613.515,12.0,No
+CUST-0618,Budi,Suryono,Makassar,2020-11-13,Rp 103.971,1.0,No
+CUST-1470,Eko,Handayani,Jakarta,2020-11-14,Rp 1.380.521,1.0,Yes
+CUST-0046,Rina,Pratama,Medan,2020-11-15,Rp 1.026.011,1.0,No
+CUST-1001,Dewi,Rahayu,Jakarta,2020-11-16,Rp 1.486.586,24.0,Yes
+CUST-1909,Siti,Pratama,Makassar,2020-11-17,Rp 1.330.094,,Yes
+CUST-1343,Dewi,Ningsih,Semarang,2020-11-18,Rp 735.836,6.0,No
+CUST-0573,Budi,Rahayu,Surabaya,2020-11-19,Rp 803.543,24.0,Yes
+CUST-0077,Joko,Ningsih,Makassar,2020-11-20,Rp 326.335,12.0,Yes
+CUST-0131,Siti,Ningsih,Bandung,2020-11-21,,6.0,No
+CUST-1450,Siti,Santoso,Surabaya,2020-11-22,Rp 1.359.390,24.0,Yes
+CUST-0772,Bambang,Santoso,Makassar,2020-11-23,Rp 123.737,1.0,No
+CUST-1425,Eko,Kusuma,Semarang,2020-11-24,Rp 1.302.157,12.0,Yes
+CUST-0484,Siti,Wijaya,Jakarta,2020-11-25,Rp 544.374,1.0,No
+CUST-0949,Bambang,Kusuma,Surabaya,2020-11-26,Rp 1.354.294,6.0,No
+CUST-0856,Bambang,Kusuma,Semarang,2020-11-27,,6.0,No
+CUST-0031,Budi,Wijaya,Medan,2020-11-28,Rp 1.022.754,24.0,No
+CUST-1504,Agus,Lestari,Bandung,2020-11-29,Rp 1.013.414,6.0,No
+CUST-1551,Dewi,Rahayu,Surabaya,2020-11-30,Rp 706.494,12.0,Yes
+CUST-0820,Joko,Purnomo,Jakarta,2020-12-01,Rp 1.261.533,24.0,No
+CUST-1352,Rini,Kusuma,Medan,2020-12-02,Rp 1.444.338,12.0,No
+CUST-0839,Dewi,Suryono,Semarang,2020-12-03,Rp 1.173.869,1.0,No
+CUST-1327,Siti,Suryono,Bandung,2020-12-04,,,No
+CUST-1502,Joko,Ningsih,Jakarta,2020-12-05,Rp 929.850,12.0,Yes
+CUST-1589,Rina,Wijaya,Semarang,2020-12-06,Rp 1.281.731,6.0,No
+CUST-1606,Agus,Ningsih,Semarang,2020-12-07,Rp 834.745,1.0,Yes
+CUST-1772,Rina,Handayani,Surabaya,2020-12-08,Rp 1.215.597,6.0,No
+CUST-1612,Rina,Handayani,Surabaya,2020-12-09,,1.0,No
+CUST-0345,Eko,Purnomo,Jakarta,2020-12-10,Rp 140.544,1.0,No
+CUST-0045,Dewi,Santoso,Makassar,2020-12-11,Rp 606.723,12.0,No
+CUST-1576,Rini,Santoso,Makassar,2020-12-12,Rp 694.439,6.0,No
+CUST-0169,Budi,Wijaya,Semarang,2020-12-13,Rp 255.345,12.0,No
+CUST-0304,Rini,Wijaya,Surabaya,2020-12-14,Rp 198.620,12.0,Yes
+CUST-0351,Rina,Kusuma,Bandung,2020-12-15,Rp 826.424,,No
+CUST-1705,Siti,Handayani,Bandung,2020-12-16,Rp 173.458,1.0,No
+CUST-0806,Agus,Kusuma,Semarang,2020-12-17,Rp 489.270,6.0,No
+CUST-0893,Maya,Santoso,Surabaya,2020-12-18,Rp 1.129.666,6.0,No
+CUST-1451,Rini,Rahayu,Jakarta,2020-12-19,Rp 1.448.427,12.0,No
+CUST-0694,Rina,Rahayu,Jakarta,2020-12-20,,1.0,No
+CUST-0412,Agus,Wijaya,Jakarta,2020-12-21,Rp 1.489.307,6.0,Yes
+CUST-0430,Joko,Ningsih,Bandung,2020-12-22,Rp 1.062.590,24.0,No
+CUST-1468,Dewi,Santoso,Surabaya,2020-12-23,Rp 476.002,6.0,No
+CUST-1402,Bambang,Rahayu,Surabaya,2020-12-24,Rp 1.024.476,12.0,No
+CUST-1396,Eko,Santoso,Bandung,2020-12-25,Rp 1.068.127,24.0,No
+CUST-1593,Agus,Pratama,Jakarta,2020-12-26,Rp 589.004,1.0,No
+CUST-0354,Siti,Suryono,Jakarta,2020-12-27,,24.0,No
+CUST-1759,Siti,Handayani,Semarang,2020-12-28,Rp 1.069.640,24.0,No
+CUST-1103,Agus,Kusuma,Makassar,2020-12-29,Rp 81.465,,No
+CUST-0531,Siti,Santoso,Medan,2020-12-30,Rp 965.223,6.0,No
+CUST-0186,Dewi,Suryono,Makassar,2020-12-31,Rp 287.244,1.0,Yes
+CUST-1272,Siti,Pratama,Surabaya,2021-01-01,Rp 870.125,24.0,No
+CUST-1329,Rini,Kusuma,Surabaya,2021-01-02,Rp 780.674,12.0,No
+CUST-0190,Bambang,Santoso,Surabaya,2021-01-03,Rp 69.595,6.0,Yes
+CUST-1234,Siti,Wijaya,Makassar,2021-01-04,Rp 576.155,24.0,No
+CUST-0301,Bambang,Suryono,Medan,2021-01-05,Rp 921.582,12.0,Yes
+CUST-0748,Rina,Kusuma,Semarang,2021-01-06,Rp 1.280.480,12.0,Yes
+CUST-1086,Budi,Santoso,Makassar,2021-01-07,Rp 1.338.531,12.0,No
+CUST-1211,Dewi,Suryono,Medan,2021-01-08,Rp 751.582,1.0,No
+CUST-1639,Budi,Pratama,Jakarta,2021-01-09,Rp 1.106.213,6.0,Yes
+CUST-1832,Rina,Santoso,Jakarta,2021-01-10,Rp 508.859,24.0,Yes
+CUST-0022,Dewi,Santoso,Surabaya,2021-01-11,Rp 546.170,6.0,Yes
+CUST-1663,Agus,Santoso,Bandung,2021-01-12,Rp 331.972,6.0,No
+CUST-1424,Agus,Purnomo,Surabaya,2021-01-13,,24.0,Yes
+CUST-0176,Bambang,Wijaya,Bandung,2021-01-14,Rp 506.118,6.0,No
+CUST-1712,Rina,Pratama,Medan,2021-01-15,,1.0,No
+CUST-1934,Bambang,Kusuma,Jakarta,2021-01-16,Rp 1.043.259,24.0,No
+CUST-1650,Eko,Purnomo,Makassar,2021-01-17,Rp 1.076.242,24.0,No
+CUST-0124,Siti,Ningsih,Bandung,2021-01-18,Rp 571.989,,No
+CUST-1907,Maya,Purnomo,Medan,2021-01-19,Rp 161.249,6.0,No
+CUST-0428,Eko,Handayani,Jakarta,2021-01-20,Rp 668.132,,No
+CUST-0745,Siti,Handayani,Makassar,2021-01-21,Rp 691.386,24.0,No
+CUST-0040,Dewi,Santoso,Bandung,2021-01-22,Rp 1.019.573,1.0,No
+CUST-0423,Bambang,Purnomo,Surabaya,2021-01-23,Rp 507.354,12.0,Yes
+CUST-1469,Dewi,Ningsih,Surabaya,2021-01-24,Rp 1.039.769,24.0,No
+CUST-0332,Dewi,Purnomo,Surabaya,2021-01-25,Rp 1.313.658,1.0,No
+CUST-0770,Siti,Wijaya,Medan,2021-01-26,Rp 394.355,24.0,No
+CUST-0195,Rina,Wijaya,Surabaya,2021-01-27,Rp 1.469.433,24.0,No
+CUST-1730,Siti,Ningsih,Semarang,2021-01-28,Rp 610.234,24.0,No
+CUST-1680,Joko,Purnomo,Jakarta,2021-01-29,Rp 437.525,1.0,Yes
+CUST-1756,Agus,Suryono,Medan,2021-01-30,Rp 661.191,6.0,Yes
+CUST-0323,Agus,Wijaya,Makassar,2021-01-31,Rp 186.876,24.0,No
+CUST-1227,Eko,Wijaya,Surabaya,2021-02-01,Rp 232.274,24.0,No
+CUST-0267,Agus,Rahayu,Jakarta,2021-02-02,Rp 650.929,6.0,No
+CUST-0956,Siti,Purnomo,Bandung,2021-02-03,Rp 1.155.545,24.0,No
+CUST-1466,Rini,Wijaya,Surabaya,2021-02-04,Rp 1.355.453,12.0,No
+CUST-1360,Bambang,Pratama,Jakarta,2021-02-05,Rp 1.013.986,24.0,Yes
+CUST-0068,Siti,Purnomo,Semarang,2021-02-06,Rp 202.568,12.0,No
+CUST-0994,Siti,Handayani,Bandung,2021-02-07,Rp 1.024.429,6.0,Yes
+CUST-1647,Maya,Rahayu,Semarang,2021-02-08,,1.0,No
+CUST-1062,Bambang,Wijaya,Makassar,2021-02-09,,6.0,No
+CUST-0706,Joko,Rahayu,Jakarta,2021-02-10,Rp 1.246.611,24.0,No
+CUST-1524,Agus,Handayani,Semarang,2021-02-11,,12.0,No
+CUST-1500,Bambang,Ningsih,Makassar,2021-02-12,Rp 650.491,1.0,No
+CUST-1447,Agus,Ningsih,Jakarta,2021-02-13,Rp 1.061.903,24.0,Yes
+CUST-1857,Eko,Purnomo,Jakarta,2021-02-14,,1.0,No
+CUST-0571,Bambang,Handayani,Semarang,2021-02-15,Rp 1.499.038,1.0,No
+CUST-0927,Agus,Lestari,Jakarta,2021-02-16,Rp 304.235,24.0,No
+CUST-0671,Joko,Lestari,Surabaya,2021-02-17,Rp 64.666,6.0,No
+CUST-1674,Budi,Purnomo,Jakarta,2021-02-18,Rp 265.773,24.0,No
+CUST-1230,Dewi,Santoso,Medan,2021-02-19,Rp 1.175.015,24.0,Yes
+CUST-0951,Dewi,Rahayu,Makassar,2021-02-20,Rp 697.836,,Yes
+CUST-0465,Joko,Rahayu,Jakarta,2021-02-21,Rp 698.875,12.0,No
+CUST-0433,Maya,Ningsih,Medan,2021-02-22,Rp 1.434.783,24.0,Yes
+CUST-0999,Budi,Lestari,Jakarta,2021-02-23,Rp 1.383.471,1.0,No
+CUST-1569,Eko,Kusuma,Jakarta,2021-02-24,Rp 501.232,24.0,No
+CUST-1618,Joko,Wijaya,Semarang,2021-02-25,Rp 353.134,,Yes
+CUST-1700,Dewi,Wijaya,Surabaya,2021-02-26,Rp 1.280.299,1.0,No
+CUST-1177,Dewi,Wijaya,Makassar,2021-02-27,Rp 1.363.728,,No
+CUST-0760,Dewi,Ningsih,Surabaya,2021-02-28,,12.0,No
+CUST-1024,Rina,Handayani,Bandung,2021-03-01,Rp 962.664,12.0,Yes
+CUST-1106,Joko,Suryono,Semarang,2021-03-02,Rp 422.526,1.0,No
+CUST-0681,Siti,Lestari,Semarang,2021-03-03,Rp 1.211.164,6.0,No
+CUST-0953,Eko,Lestari,Surabaya,2021-03-04,Rp 966.578,24.0,No
+CUST-0262,Dewi,Kusuma,Semarang,2021-03-05,Rp 780.095,24.0,Yes
+CUST-0568,Agus,Rahayu,Surabaya,2021-03-06,Rp 137.157,24.0,No
+CUST-1011,Joko,Santoso,Semarang,2021-03-07,,24.0,No
+CUST-0241,Rina,Purnomo,Jakarta,2021-03-08,Rp 942.405,24.0,No
+CUST-1064,Joko,Rahayu,Surabaya,2021-03-09,Rp 329.402,1.0,No
+CUST-0850,Eko,Handayani,Surabaya,2021-03-10,Rp 929.260,24.0,No
+CUST-0722,Rina,Purnomo,Medan,2021-03-11,Rp 1.032.322,24.0,No
+CUST-1476,Eko,Lestari,Semarang,2021-03-12,Rp 812.367,6.0,Yes
+CUST-1114,Joko,Handayani,Semarang,2021-03-13,Rp 1.091.248,24.0,No
+CUST-1689,Siti,Purnomo,Surabaya,2021-03-14,Rp 893.108,12.0,Yes
+CUST-0366,Eko,Kusuma,Jakarta,2021-03-15,Rp 1.424.266,1.0,No
+CUST-1877,Rina,Kusuma,Jakarta,2021-03-16,Rp 127.861,1.0,No
+CUST-1271,Rina,Pratama,Makassar,2021-03-17,Rp 204.056,1.0,No
+CUST-0615,Eko,Suryono,Jakarta,2021-03-18,Rp 301.824,12.0,No
+CUST-1702,Rini,Kusuma,Semarang,2021-03-19,Rp 1.050.748,24.0,No
+CUST-0528,Joko,Lestari,Medan,2021-03-20,,,Yes
+CUST-1611,Rini,Santoso,Surabaya,2021-03-21,Rp 1.343.485,12.0,No
+CUST-0072,Maya,Wijaya,Bandung,2021-03-22,Rp 1.112.672,6.0,No
+CUST-1262,Joko,Pratama,Medan,2021-03-23,Rp 787.115,24.0,No
+CUST-0260,Eko,Wijaya,Bandung,2021-03-24,Rp 1.488.156,12.0,No
+CUST-0052,Budi,Suryono,Medan,2021-03-25,Rp 435.857,24.0,No
+CUST-0199,Eko,Purnomo,Jakarta,2021-03-26,Rp 1.258.128,6.0,No
+CUST-0479,Rini,Ningsih,Semarang,2021-03-27,Rp 668.846,12.0,No
+CUST-0679,Siti,Kusuma,Bandung,2021-03-28,Rp 990.666,24.0,No
+CUST-0333,Eko,Santoso,Medan,2021-03-29,Rp 1.104.539,12.0,No
+CUST-1653,Eko,Suryono,Semarang,2021-03-30,Rp 968.943,1.0,No
+CUST-0620,Siti,Wijaya,Bandung,2021-03-31,Rp 253.736,24.0,No
+CUST-1654,Eko,Pratama,Surabaya,2021-04-01,,12.0,No
+CUST-0619,Dewi,Kusuma,Medan,2021-04-02,Rp 864.086,1.0,No
+CUST-1947,Budi,Lestari,Surabaya,2021-04-03,Rp 1.281.113,6.0,No
+CUST-0597,Agus,Kusuma,Jakarta,2021-04-04,Rp 693.286,24.0,No
+CUST-0939,Budi,Pratama,Surabaya,2021-04-05,Rp 1.382.184,24.0,No
+CUST-0989,Eko,Pratama,Surabaya,2021-04-06,Rp 688.543,6.0,No
+CUST-1765,Dewi,Ningsih,Makassar,2021-04-07,Rp 845.731,1.0,No
+CUST-0427,Joko,Kusuma,Medan,2021-04-08,Rp 1.204.614,6.0,No
+CUST-0592,Eko,Kusuma,Jakarta,2021-04-09,Rp 895.448,24.0,No
+CUST-0480,Rini,Ningsih,Surabaya,2021-04-10,Rp 1.442.316,12.0,No
+CUST-1421,Dewi,Handayani,Semarang,2021-04-11,Rp 1.007.487,1.0,No
+CUST-1308,Siti,Handayani,Bandung,2021-04-12,Rp 807.929,1.0,No
+CUST-1397,Dewi,Purnomo,Surabaya,2021-04-13,Rp 84.208,1.0,No
+CUST-0344,Siti,Handayani,Jakarta,2021-04-14,,6.0,No
+CUST-0549,Maya,Rahayu,Surabaya,2021-04-15,,6.0,No
+CUST-0753,Agus,Kusuma,Bandung,2021-04-16,Rp 1.134.753,12.0,No
+CUST-0399,Bambang,Santoso,Jakarta,2021-04-17,Rp 352.003,12.0,No
+CUST-0998,Dewi,Kusuma,Medan,2021-04-18,Rp 347.569,1.0,No
+CUST-0463,Rina,Rahayu,Jakarta,2021-04-19,Rp 324.803,12.0,No
+CUST-0437,Rini,Rahayu,Medan,2021-04-20,Rp 232.143,6.0,Yes
+CUST-0193,Eko,Wijaya,Jakarta,2021-04-21,Rp 500.960,12.0,Yes
+CUST-1495,Rini,Kusuma,Bandung,2021-04-22,Rp 1.334.587,6.0,No
+CUST-1354,Budi,Suryono,Bandung,2021-04-23,Rp 1.173.646,12.0,No
+CUST-0293,Bambang,Rahayu,Jakarta,2021-04-24,Rp 1.116.114,24.0,No
+CUST-1333,Budi,Santoso,Surabaya,2021-04-25,Rp 1.206.138,6.0,No
+CUST-1538,Maya,Ningsih,Bandung,2021-04-26,Rp 440.656,24.0,No
+CUST-0940,Bambang,Purnomo,Medan,2021-04-27,Rp 1.336.790,6.0,No
+CUST-1138,Bambang,Wijaya,Medan,2021-04-28,Rp 249.090,12.0,No
+CUST-0976,Budi,Ningsih,Semarang,2021-04-29,Rp 537.701,24.0,No
+CUST-0142,Siti,Wijaya,Makassar,2021-04-30,Rp 900.785,12.0,No
+CUST-1252,Budi,Santoso,Makassar,2021-05-01,Rp 199.212,6.0,No
+CUST-0003,Rini,Pratama,Makassar,2021-05-02,Rp 1.108.689,24.0,No
+CUST-0782,Siti,Kusuma,Medan,2021-05-03,Rp 611.507,1.0,Yes
+CUST-0582,Rini,Lestari,Semarang,2021-05-04,,12.0,Yes
+CUST-1919,Maya,Suryono,Makassar,2021-05-05,Rp 764.700,6.0,No
+CUST-1334,Eko,Ningsih,Makassar,2021-05-06,,24.0,No
+CUST-0340,Joko,Kusuma,Jakarta,2021-05-07,Rp 1.115.405,12.0,Yes
+CUST-0813,Siti,Suryono,Jakarta,2021-05-08,,24.0,No
+CUST-0409,Maya,Pratama,Jakarta,2021-05-09,Rp 761.675,12.0,No
+CUST-1221,Rina,Lestari,Surabaya,2021-05-10,Rp 159.523,12.0,No
+CUST-0266,Maya,Suryono,Makassar,2021-05-11,Rp 945.907,12.0,Yes
+CUST-0377,Budi,Suryono,Surabaya,2021-05-12,Rp 1.015.494,24.0,No
+CUST-1379,Budi,Ningsih,Semarang,2021-05-13,Rp 599.078,24.0,No
+CUST-1038,Joko,Handayani,Medan,2021-05-14,Rp 1.433.913,12.0,No
+CUST-0440,Maya,Lestari,Makassar,2021-05-15,Rp 1.317.545,1.0,No
+CUST-0272,Agus,Kusuma,Medan,2021-05-16,,1.0,No
+CUST-0185,Eko,Pratama,Jakarta,2021-05-17,Rp 1.084.796,1.0,No
+CUST-0980,Budi,Lestari,Makassar,2021-05-18,,6.0,Yes
+CUST-0245,Joko,Santoso,Bandung,2021-05-19,Rp 1.002.382,1.0,No
+CUST-0966,Eko,Handayani,Surabaya,2021-05-20,Rp 337.399,24.0,Yes
+CUST-0608,Maya,Santoso,Surabaya,2021-05-21,Rp 258.805,1.0,No
+CUST-0530,Maya,Pratama,Makassar,2021-05-22,Rp 1.499.228,24.0,No
+CUST-0446,Bambang,Ningsih,Jakarta,2021-05-23,Rp 952.445,6.0,No
+CUST-0846,Joko,Ningsih,Surabaya,2021-05-24,Rp 674.932,24.0,No
+CUST-1303,Budi,Pratama,Jakarta,2021-05-25,Rp 467.839,24.0,No
+CUST-1182,Agus,Wijaya,Semarang,2021-05-26,Rp 925.685,24.0,No
+CUST-1132,Maya,Pratama,Medan,2021-05-27,Rp 121.911,1.0,Yes
+CUST-0416,Agus,Handayani,Bandung,2021-05-28,Rp 187.287,12.0,No
+CUST-0274,Maya,Rahayu,Medan,2021-05-29,Rp 97.642,24.0,No
+CUST-1147,Budi,Ningsih,Medan,2021-05-30,Rp 773.796,1.0,No
+CUST-0251,Eko,Purnomo,Semarang,2021-05-31,Rp 920.880,1.0,Yes
+CUST-0414,Dewi,Handayani,Surabaya,2021-06-01,Rp 140.596,1.0,No
+CUST-1340,Eko,Handayani,Bandung,2021-06-02,Rp 1.095.775,12.0,No
+CUST-0311,Maya,Handayani,Surabaya,2021-06-03,Rp 384.073,12.0,No
+CUST-1499,Rini,Suryono,Makassar,2021-06-04,Rp 1.043.542,12.0,No
+CUST-0585,Dewi,Handayani,Medan,2021-06-05,Rp 1.473.751,12.0,No
+CUST-0426,Dewi,Ningsih,Makassar,2021-06-06,Rp 1.052.104,6.0,Yes
+CUST-1924,Agus,Rahayu,Jakarta,2021-06-07,Rp 1.330.630,12.0,Yes
+CUST-1836,Joko,Rahayu,Medan,2021-06-08,Rp 1.424.888,12.0,No
+CUST-0783,Agus,Handayani,Surabaya,2021-06-09,Rp 755.789,12.0,No
+CUST-1648,Agus,Santoso,Medan,2021-06-10,Rp 1.068.371,24.0,No
+CUST-1134,Rini,Ningsih,Jakarta,2021-06-11,Rp 1.285.355,24.0,Yes
+CUST-1056,Eko,Ningsih,Semarang,2021-06-12,Rp 567.083,12.0,No
+CUST-1516,Eko,Lestari,Makassar,2021-06-13,Rp 429.026,6.0,Yes
+CUST-0527,Rina,Kusuma,Makassar,2021-06-14,Rp 1.422.568,24.0,No
+CUST-0589,Maya,Wijaya,Surabaya,2021-06-15,,1.0,No
+CUST-0675,Rini,Wijaya,Medan,2021-06-16,,24.0,No
+CUST-0183,Rina,Santoso,Surabaya,2021-06-17,,1.0,No
+CUST-0171,Budi,Wijaya,Semarang,2021-06-18,,24.0,No
+CUST-1722,Maya,Lestari,Medan,2021-06-19,Rp 843.241,12.0,No
+CUST-0614,Maya,Pratama,Medan,2021-06-20,Rp 992.431,24.0,No
+CUST-1926,Bambang,Wijaya,Surabaya,2021-06-21,Rp 1.142.964,12.0,Yes
+CUST-1692,Bambang,Ningsih,Surabaya,2021-06-22,Rp 951.913,12.0,No
+CUST-0888,Siti,Pratama,Jakarta,2021-06-23,Rp 833.115,24.0,No
+CUST-0778,Siti,Wijaya,Semarang,2021-06-24,Rp 1.136.941,1.0,Yes
+CUST-0273,Agus,Ningsih,Jakarta,2021-06-25,Rp 1.104.966,1.0,No
+CUST-1588,Budi,Ningsih,Makassar,2021-06-26,Rp 963.315,24.0,Yes
+CUST-0721,Dewi,Handayani,Medan,2021-06-27,Rp 571.695,12.0,No
+CUST-0942,Dewi,Rahayu,Surabaya,2021-06-28,Rp 638.428,1.0,No
+CUST-0372,Bambang,Santoso,Medan,2021-06-29,Rp 1.457.136,6.0,No
+CUST-0223,Bambang,Lestari,Medan,2021-06-30,,12.0,Yes
+CUST-1351,Bambang,Suryono,Bandung,2021-07-01,Rp 439.332,24.0,Yes
+CUST-1688,Rini,Kusuma,Makassar,2021-07-02,Rp 763.983,12.0,No
+CUST-0810,Joko,Wijaya,Bandung,2021-07-03,,6.0,Yes
+CUST-0519,Siti,Wijaya,Medan,2021-07-04,Rp 287.330,6.0,No
+CUST-0335,Rini,Pratama,Surabaya,2021-07-05,,1.0,No
+CUST-1655,Eko,Pratama,Medan,2021-07-06,Rp 145.407,6.0,No
+CUST-1197,Dewi,Kusuma,Makassar,2021-07-07,Rp 1.073.679,12.0,No
+CUST-1561,Maya,Wijaya,Bandung,2021-07-08,Rp 395.404,1.0,No
+CUST-0631,Siti,Purnomo,Surabaya,2021-07-09,Rp 613.578,6.0,No
+CUST-0016,Rina,Lestari,Medan,2021-07-10,Rp 693.367,1.0,Yes
+CUST-0707,Eko,Wijaya,Semarang,2021-07-11,Rp 1.342.405,1.0,No
+CUST-0977,Siti,Rahayu,Makassar,2021-07-12,Rp 646.429,24.0,No
+CUST-1894,Rini,Kusuma,Makassar,2021-07-13,Rp 260.576,1.0,No
+CUST-1728,Budi,Purnomo,Semarang,2021-07-14,,1.0,No
+CUST-1815,Maya,Lestari,Medan,2021-07-15,Rp 1.446.289,6.0,No
+CUST-0943,Siti,Wijaya,Makassar,2021-07-16,Rp 931.144,12.0,Yes
+CUST-0466,Joko,Suryono,Surabaya,2021-07-17,Rp 1.475.911,12.0,No
+CUST-1668,Bambang,Handayani,Medan,2021-07-18,Rp 1.269.606,6.0,Yes
+CUST-0200,Bambang,Rahayu,Medan,2021-07-19,Rp 102.150,12.0,No
+CUST-1289,Maya,Suryono,Bandung,2021-07-20,Rp 1.004.679,1.0,No
+CUST-1084,Rini,Pratama,Makassar,2021-07-21,Rp 465.812,24.0,No
+CUST-1162,Bambang,Pratama,Makassar,2021-07-22,Rp 861.444,1.0,No
+CUST-1333,Siti,Wijaya,Semarang,2021-07-23,Rp 455.051,1.0,No
+CUST-1531,Rina,Pratama,Bandung,2021-07-24,Rp 555.862,24.0,No
+CUST-0757,Dewi,Rahayu,Bandung,2021-07-25,Rp 1.388.595,6.0,Yes
+CUST-1436,Dewi,Lestari,Makassar,2021-07-26,Rp 349.633,,No
+CUST-1449,Eko,Ningsih,Medan,2021-07-27,Rp 1.317.458,1.0,Yes
+CUST-1390,Agus,Santoso,Bandung,2021-07-28,Rp 94.164,6.0,Yes
+CUST-1266,Budi,Kusuma,Semarang,2021-07-29,,1.0,Yes
+CUST-0594,Maya,Lestari,Bandung,2021-07-30,Rp 1.289.279,1.0,No
+CUST-0044,Eko,Ningsih,Semarang,2021-07-31,Rp 964.306,12.0,Yes
+CUST-0275,Agus,Purnomo,Bandung,2021-08-01,Rp 1.133.492,6.0,No
+CUST-1627,Rini,Rahayu,Semarang,2021-08-02,Rp 353.656,1.0,No
+CUST-0102,Joko,Suryono,Bandung,2021-08-03,Rp 828.771,1.0,No
+CUST-0908,Joko,Ningsih,Bandung,2021-08-04,Rp 1.118.968,24.0,Yes
+CUST-1831,Budi,Rahayu,Surabaya,2021-08-05,Rp 959.605,24.0,No
+CUST-1477,Bambang,Handayani,Semarang,2021-08-06,Rp 733.963,24.0,No
+CUST-0108,Siti,Suryono,Semarang,2021-08-07,Rp 1.441.686,1.0,No
+CUST-1205,Eko,Pratama,Semarang,2021-08-08,Rp 1.030.428,1.0,No
+CUST-0498,Eko,Pratama,Jakarta,2021-08-09,Rp 1.366.239,24.0,No
+CUST-0131,Maya,Suryono,Bandung,2021-08-10,Rp 1.108.167,12.0,Yes
+CUST-1577,Maya,Purnomo,Semarang,2021-08-11,Rp 1.116.422,12.0,No
+CUST-0787,Joko,Purnomo,Makassar,2021-08-12,Rp 166.026,12.0,Yes
+CUST-0880,Joko,Purnomo,Jakarta,2021-08-13,Rp 571.224,12.0,No
+CUST-1785,Rina,Ningsih,Surabaya,2021-08-14,Rp 1.294.636,6.0,No
+CUST-1330,Rina,Kusuma,Semarang,2021-08-15,,24.0,No
+CUST-1488,Bambang,Ningsih,Semarang,2021-08-16,Rp 217.484,1.0,Yes
+CUST-0621,Rina,Wijaya,Jakarta,2021-08-17,Rp 522.854,24.0,No
+CUST-0073,Siti,Santoso,Bandung,2021-08-18,Rp 369.635,12.0,No
+CUST-1807,Siti,Suryono,Makassar,2021-08-19,Rp 1.391.668,1.0,Yes
+CUST-1245,Eko,Lestari,Surabaya,2021-08-20,Rp 1.308.552,6.0,No
+CUST-1342,Dewi,Santoso,Semarang,2021-08-21,Rp 774.541,24.0,No
+CUST-0863,Siti,Handayani,Bandung,2021-08-22,Rp 138.949,1.0,No
+CUST-0482,Agus,Ningsih,Makassar,2021-08-23,Rp 1.086.115,1.0,No
+CUST-1122,Joko,Ningsih,Makassar,2021-08-24,Rp 953.947,12.0,Yes
+CUST-0507,Maya,Rahayu,Surabaya,2021-08-25,Rp 1.457.304,12.0,No
+CUST-0705,Rina,Santoso,Medan,2021-08-26,Rp 860.482,24.0,Yes
+CUST-1462,Eko,Rahayu,Makassar,2021-08-27,Rp 537.771,6.0,No
+CUST-0467,Budi,Lestari,Medan,2021-08-28,Rp 802.581,1.0,No
+CUST-1193,Maya,Rahayu,Makassar,2021-08-29,Rp 1.469.932,12.0,No
+CUST-1361,Agus,Santoso,Surabaya,2021-08-30,Rp 1.059.726,24.0,No
+CUST-1503,Rina,Suryono,Jakarta,2021-08-31,Rp 1.024.365,,Yes
+CUST-0312,Agus,Handayani,Surabaya,2021-09-01,Rp 398.988,24.0,No
+CUST-1729,Joko,Ningsih,Surabaya,2021-09-02,Rp 1.128.224,12.0,No
+CUST-0406,Joko,Lestari,Jakarta,2021-09-03,Rp 1.137.894,6.0,No
+CUST-0728,Bambang,Ningsih,Jakarta,2021-09-04,Rp 510.069,1.0,Yes
+CUST-1174,Eko,Wijaya,Bandung,2021-09-05,Rp 751.385,12.0,No
+CUST-0310,Maya,Handayani,Makassar,2021-09-06,,1.0,No
+CUST-0227,Rini,Kusuma,Bandung,2021-09-07,Rp 425.122,24.0,No
+CUST-1741,Rini,Rahayu,Jakarta,2021-09-08,Rp 87.549,6.0,Yes
+CUST-1260,Maya,Pratama,Medan,2021-09-09,Rp 463.557,1.0,Yes
+CUST-1567,Budi,Santoso,Medan,2021-09-10,Rp 853.256,12.0,No
+CUST-0862,Eko,Ningsih,Surabaya,2021-09-11,Rp 52.322,1.0,No
+CUST-1310,Agus,Rahayu,Semarang,2021-09-12,Rp 460.668,1.0,Yes
+CUST-0149,Budi,Lestari,Surabaya,2021-09-13,Rp 1.328.045,24.0,No
+CUST-1413,Dewi,Ningsih,Surabaya,2021-09-14,Rp 910.790,6.0,No
+CUST-0744,Maya,Kusuma,Semarang,2021-09-15,Rp 931.401,6.0,No
+CUST-1014,Agus,Handayani,Makassar,2021-09-16,Rp 634.878,1.0,No
+CUST-1685,Rini,Handayani,Jakarta,2021-09-17,Rp 1.030.885,,No
+CUST-1880,Siti,Ningsih,Medan,2021-09-18,Rp 325.403,24.0,No
+CUST-0576,Bambang,Lestari,Surabaya,2021-09-19,,1.0,No
+CUST-0558,Rini,Handayani,Semarang,2021-09-20,Rp 219.199,24.0,Yes
+CUST-1430,Eko,Handayani,Bandung,2021-09-21,Rp 1.001.202,6.0,No
+CUST-1186,Joko,Kusuma,Surabaya,2021-09-22,Rp 544.667,6.0,No
+CUST-1380,Siti,Santoso,Medan,2021-09-23,Rp 1.133.894,24.0,No
+CUST-1341,Bambang,Lestari,Jakarta,2021-09-24,Rp 847.159,1.0,No
+CUST-0652,Bambang,Lestari,Surabaya,2021-09-25,Rp 705.912,6.0,No
+CUST-1000,Dewi,Suryono,Surabaya,2021-09-26,Rp 295.662,12.0,No
+CUST-0287,Dewi,Suryono,Makassar,2021-09-27,Rp 973.391,,No
+CUST-1830,Rina,Handayani,Semarang,2021-09-28,Rp 1.463.416,6.0,No
+CUST-1243,Rini,Pratama,Bandung,2021-09-29,Rp 1.247.125,6.0,No
+CUST-0629,Rini,Suryono,Bandung,2021-09-30,Rp 137.012,6.0,Yes
+CUST-0599,Rini,Handayani,Jakarta,2021-10-01,Rp 595.533,12.0,No
+CUST-1273,Rina,Purnomo,Medan,2021-10-02,Rp 1.392.095,12.0,No
+CUST-0833,Budi,Wijaya,Jakarta,2021-10-03,Rp 779.413,12.0,No
+CUST-1677,Bambang,Wijaya,Surabaya,2021-10-04,Rp 1.010.062,1.0,No
+CUST-1626,Siti,Lestari,Surabaya,2021-10-05,Rp 1.373.269,,No
+CUST-1068,Eko,Pratama,Bandung,2021-10-06,Rp 1.317.002,1.0,No
+CUST-1500,Bambang,Kusuma,Medan,2021-10-07,,12.0,No
+CUST-0475,Dewi,Santoso,Semarang,2021-10-08,Rp 684.587,24.0,No
+CUST-0944,Agus,Suryono,Medan,2021-10-09,Rp 542.554,1.0,No
+CUST-0910,Joko,Purnomo,Surabaya,2021-10-10,Rp 1.092.578,1.0,No
+CUST-1235,Rina,Handayani,Semarang,2021-10-11,Rp 466.131,1.0,Yes
+CUST-1448,Maya,Pratama,Medan,2021-10-12,Rp 412.337,12.0,Yes
+CUST-0610,Agus,Lestari,Medan,2021-10-13,Rp 566.562,6.0,No
+CUST-1890,Eko,Suryono,Semarang,2021-10-14,Rp 306.962,24.0,No
+CUST-1113,Rini,Pratama,Surabaya,2021-10-15,Rp 1.057.924,12.0,No
+CUST-1458,Dewi,Suryono,Medan,2021-10-16,Rp 943.549,24.0,Yes
+CUST-1042,Dewi,Santoso,Semarang,2021-10-17,Rp 750.174,12.0,Yes
+CUST-0494,Dewi,Santoso,Makassar,2021-10-18,,1.0,Yes
+CUST-1353,Rini,Kusuma,Makassar,2021-10-19,Rp 1.368.141,1.0,No
+CUST-0278,Maya,Wijaya,Surabaya,2021-10-20,,6.0,No
+CUST-1895,Rina,Rahayu,Semarang,2021-10-21,Rp 1.165.206,6.0,No
+CUST-0359,Agus,Rahayu,Makassar,2021-10-22,Rp 1.357.769,24.0,Yes
+CUST-1299,Rini,Suryono,Semarang,2021-10-23,,6.0,No
+CUST-0237,Eko,Kusuma,Medan,2021-10-24,Rp 848.501,6.0,No
+CUST-0552,Rina,Rahayu,Surabaya,2021-10-25,Rp 1.419.472,24.0,Yes
+CUST-1916,Eko,Lestari,Makassar,2021-10-26,Rp 357.802,12.0,No
+CUST-0937,Rina,Rahayu,Medan,2021-10-27,Rp 804.196,6.0,Yes
+CUST-0209,Maya,Ningsih,Jakarta,2021-10-28,Rp 738.346,12.0,No
+CUST-1422,Joko,Handayani,Jakarta,2021-10-29,Rp 424.669,1.0,No
+CUST-1860,Eko,Kusuma,Surabaya,2021-10-30,,6.0,No
+CUST-0059,Rini,Lestari,Makassar,2021-10-31,Rp 1.354.421,1.0,Yes
+CUST-0632,Rina,Pratama,Makassar,2021-11-01,Rp 1.183.802,1.0,No
+CUST-1623,Dewi,Lestari,Makassar,2021-11-02,Rp 333.270,12.0,No
+CUST-1908,Bambang,Wijaya,Semarang,2021-11-03,Rp 175.786,24.0,No
+CUST-1616,Dewi,Pratama,Medan,2021-11-04,Rp 927.895,6.0,No
+CUST-0364,Budi,Purnomo,Makassar,2021-11-05,Rp 132.787,12.0,No
+CUST-0506,Joko,Handayani,Medan,2021-11-06,Rp 1.025.598,24.0,No
+CUST-1295,Joko,Handayani,Surabaya,2021-11-07,Rp 819.115,1.0,No
+CUST-1152,Dewi,Handayani,Makassar,2021-11-08,Rp 1.011.039,6.0,No
+CUST-1643,Agus,Handayani,Surabaya,2021-11-09,Rp 905.748,1.0,No
+CUST-1359,Maya,Suryono,Makassar,2021-11-10,Rp 662.919,1.0,No
+CUST-1638,Eko,Handayani,Jakarta,2021-11-11,Rp 341.272,6.0,No
+CUST-1091,Rini,Handayani,Bandung,2021-11-12,Rp 493.268,24.0,Yes
+CUST-1782,Joko,Handayani,Surabaya,2021-11-13,Rp 810.526,24.0,Yes
+CUST-0119,Dewi,Kusuma,Makassar,2021-11-14,Rp 995.209,6.0,No
+CUST-1601,Dewi,Suryono,Bandung,2021-11-15,Rp 1.180.250,6.0,No
+CUST-1443,Maya,Santoso,Surabaya,2021-11-16,Rp 1.162.398,12.0,No
+CUST-0523,Maya,Lestari,Semarang,2021-11-17,Rp 1.460.399,12.0,No
+CUST-0514,Siti,Lestari,Makassar,2021-11-18,Rp 464.470,1.0,No
+CUST-0082,Siti,Pratama,Semarang,2021-11-19,Rp 153.111,6.0,No
+CUST-1315,Agus,Kusuma,Jakarta,2021-11-20,Rp 551.203,24.0,Yes
+CUST-1217,Agus,Ningsih,Makassar,2021-11-21,Rp 1.127.777,1.0,No
+CUST-0381,Budi,Lestari,Jakarta,2021-11-22,Rp 685.262,1.0,No
+CUST-1658,Agus,Rahayu,Bandung,2021-11-23,Rp 1.235.793,1.0,No
+CUST-1731,Rina,Ningsih,Surabaya,2021-11-24,Rp 846.523,1.0,Yes
+CUST-0085,Maya,Handayani,Medan,2021-11-25,Rp 1.398.198,24.0,No
+CUST-1720,Rini,Handayani,Jakarta,2021-11-26,Rp 1.424.402,1.0,No
+CUST-1010,Rina,Suryono,Medan,2021-11-27,Rp 150.492,,No
+CUST-0330,Eko,Ningsih,Medan,2021-11-28,Rp 711.799,12.0,No
+CUST-0007,Dewi,Rahayu,Surabaya,2021-11-29,Rp 934.049,24.0,No
+CUST-1770,Agus,Suryono,Bandung,2021-11-30,Rp 421.015,6.0,No
+CUST-0789,Dewi,Pratama,Surabaya,2021-12-01,Rp 640.261,6.0,Yes
+CUST-1595,Joko,Ningsih,Makassar,2021-12-02,Rp 1.032.638,6.0,No
+CUST-1345,Budi,Kusuma,Jakarta,2021-12-03,Rp 378.765,12.0,Yes
+CUST-0452,Joko,Handayani,Medan,2021-12-04,Rp 922.873,12.0,No
+CUST-0491,Budi,Handayani,Surabaya,2021-12-05,Rp 1.061.299,12.0,No
+CUST-1519,Siti,Wijaya,Surabaya,2021-12-06,Rp 181.220,6.0,No
+CUST-0288,Dewi,Suryono,Surabaya,2021-12-07,Rp 771.418,,Yes
+CUST-0950,Budi,Santoso,Jakarta,2021-12-08,Rp 431.466,1.0,No
+CUST-0088,Bambang,Santoso,Bandung,2021-12-09,Rp 1.100.360,12.0,No
+CUST-1403,Rina,Suryono,Surabaya,2021-12-10,Rp 324.855,24.0,No
+CUST-1229,Budi,Kusuma,Jakarta,2021-12-11,Rp 1.343.745,6.0,No
+CUST-1560,Budi,Purnomo,Medan,2021-12-12,Rp 674.865,6.0,No
+CUST-0835,Rina,Suryono,Makassar,2021-12-13,Rp 337.104,1.0,Yes
+CUST-1744,Dewi,Kusuma,Semarang,2021-12-14,Rp 685.132,12.0,No
+CUST-0965,Dewi,Pratama,Jakarta,2021-12-15,Rp 642.678,12.0,No
+CUST-0967,Rina,Handayani,Semarang,2021-12-16,Rp 671.932,24.0,No
+CUST-1784,Joko,Rahayu,Surabaya,2021-12-17,Rp 899.064,1.0,No
+CUST-1117,Bambang,Purnomo,Surabaya,2021-12-18,Rp 805.702,24.0,No
+CUST-1691,Rini,Ningsih,Jakarta,2021-12-19,Rp 267.177,24.0,No
+CUST-0328,Eko,Purnomo,Semarang,2021-12-20,Rp 145.090,6.0,No
+CUST-0443,Bambang,Rahayu,Surabaya,2021-12-21,Rp 1.107.652,6.0,No
+CUST-0807,Dewi,Wijaya,Medan,2021-12-22,Rp 861.590,12.0,No
+CUST-1108,Rini,Handayani,Bandung,2021-12-23,Rp 570.551,12.0,Yes
+CUST-0964,Siti,Santoso,Bandung,2021-12-24,,24.0,Yes
+CUST-0917,Agus,Kusuma,Surabaya,2021-12-25,Rp 612.685,12.0,Yes
+CUST-0178,Budi,Suryono,Semarang,2021-12-26,Rp 1.204.149,24.0,Yes
+CUST-0768,Rina,Suryono,Makassar,2021-12-27,Rp 493.346,,No
+CUST-0734,Rina,Santoso,Surabaya,2021-12-28,,12.0,No
+CUST-0087,Budi,Purnomo,Makassar,2021-12-29,Rp 1.402.328,6.0,No
+CUST-1686,Agus,Handayani,Makassar,2021-12-30,Rp 622.099,6.0,Yes
+CUST-1949,Eko,Lestari,Semarang,2021-12-31,,6.0,No
+CUST-0458,Agus,Kusuma,Makassar,2022-01-01,,,No
+CUST-1876,Rini,Pratama,Medan,2022-01-02,Rp 987.229,1.0,No
+CUST-0055,Agus,Rahayu,Semarang,2022-01-03,Rp 1.316.301,6.0,No
+CUST-1631,Rini,Purnomo,Surabaya,2022-01-04,Rp 110.384,1.0,No
+CUST-0644,Agus,Ningsih,Medan,2022-01-05,,6.0,No
+CUST-0678,Eko,Wijaya,Jakarta,2022-01-06,Rp 878.433,12.0,No
+CUST-0222,Eko,Suryono,Bandung,2022-01-07,Rp 930.834,24.0,Yes
+CUST-0114,Dewi,Purnomo,Surabaya,2022-01-08,Rp 808.579,12.0,No
+CUST-1239,Budi,Wijaya,Surabaya,2022-01-09,Rp 1.317.989,12.0,Yes
+CUST-1259,Eko,Rahayu,Surabaya,2022-01-10,Rp 112.978,1.0,No
+CUST-1035,Rini,Suryono,Medan,2022-01-11,Rp 428.491,6.0,No
+CUST-0175,Eko,Suryono,Jakarta,2022-01-12,Rp 1.319.856,24.0,No
+CUST-1053,Dewi,Lestari,Semarang,2022-01-13,Rp 1.140.901,24.0,Yes
+CUST-0590,Rina,Purnomo,Jakarta,2022-01-14,Rp 75.585,6.0,No
+CUST-1835,Rini,Handayani,Medan,2022-01-15,Rp 799.659,1.0,No
+CUST-0019,Dewi,Santoso,Surabaya,2022-01-16,Rp 817.880,1.0,No
+CUST-0424,Joko,Santoso,Bandung,2022-01-17,Rp 631.279,1.0,No
+CUST-1376,Joko,Pratama,Surabaya,2022-01-18,Rp 481.220,24.0,Yes
+CUST-0286,Siti,Ningsih,Semarang,2022-01-19,Rp 1.038.501,1.0,No
+CUST-1622,Agus,Wijaya,Makassar,2022-01-20,Rp 351.296,1.0,No
+CUST-0429,Budi,Purnomo,Bandung,2022-01-21,Rp 1.208.475,24.0,No
+CUST-1548,Maya,Kusuma,Surabaya,2022-01-22,,24.0,No
+CUST-0781,Bambang,Ningsih,Bandung,2022-01-23,Rp 652.129,12.0,No
+CUST-0670,Dewi,Lestari,Makassar,2022-01-24,,24.0,No
+CUST-0032,Rina,Suryono,Jakarta,2022-01-25,Rp 461.623,6.0,No
+CUST-1748,Bambang,Handayani,Medan,2022-01-26,,,No
+CUST-0723,Rina,Purnomo,Surabaya,2022-01-27,Rp 1.093.390,24.0,No
+CUST-1171,Bambang,Ningsih,Semarang,2022-01-28,,1.0,No
+CUST-0215,Dewi,Ningsih,Jakarta,2022-01-29,Rp 934.563,12.0,No
+CUST-1429,Maya,Handayani,Surabaya,2022-01-30,Rp 604.602,1.0,No
+CUST-1344,Bambang,Pratama,Jakarta,2022-01-31,Rp 491.559,12.0,No
+CUST-0327,Dewi,Wijaya,Semarang,2022-02-01,Rp 86.046,1.0,Yes
+CUST-0561,Eko,Wijaya,Surabaya,2022-02-02,Rp 55.675,6.0,No
+CUST-1826,Maya,Ningsih,Makassar,2022-02-03,Rp 379.451,1.0,No
+CUST-0701,Rini,Rahayu,Makassar,2022-02-04,Rp 639.289,1.0,No
+CUST-1893,Rina,Ningsih,Semarang,2022-02-05,Rp 1.284.329,6.0,No
+CUST-1420,Joko,Ningsih,Bandung,2022-02-06,Rp 1.207.802,6.0,No
+CUST-0342,Agus,Handayani,Semarang,2022-02-07,Rp 437.390,24.0,No
+CUST-0630,Joko,Suryono,Bandung,2022-02-08,Rp 404.584,1.0,No
+CUST-0148,Maya,Handayani,Surabaya,2022-02-09,Rp 379.617,6.0,No
+CUST-1475,Rini,Purnomo,Bandung,2022-02-10,Rp 541.894,6.0,No
+CUST-0361,Rina,Ningsih,Surabaya,2022-02-11,Rp 772.388,,Yes
+CUST-0084,Rini,Wijaya,Surabaya,2022-02-12,Rp 686.068,12.0,No
+CUST-0049,Bambang,Kusuma,Medan,2022-02-13,Rp 366.496,6.0,No
+CUST-0469,Rina,Wijaya,Surabaya,2022-02-14,Rp 239.155,6.0,No
+CUST-0156,Bambang,Santoso,Bandung,2022-02-15,Rp 68.238,1.0,Yes
+CUST-1910,Dewi,Pratama,Medan,2022-02-16,,24.0,No
+CUST-1059,Maya,Lestari,Medan,2022-02-17,,1.0,Yes
+CUST-1231,Dewi,Purnomo,Surabaya,2022-02-18,Rp 403.276,12.0,No
+CUST-1438,Siti,Purnomo,Semarang,2022-02-19,Rp 729.473,24.0,No
+CUST-1233,Rini,Pratama,Semarang,2022-02-20,Rp 907.387,1.0,Yes
+CUST-1670,Bambang,Kusuma,Makassar,2022-02-21,Rp 1.335.919,6.0,Yes
+CUST-0501,Eko,Lestari,Medan,2022-02-22,Rp 1.338.840,6.0,No
+CUST-1809,Dewi,Suryono,Surabaya,2022-02-23,Rp 1.131.314,24.0,No
+CUST-0180,Siti,Ningsih,Semarang,2022-02-24,Rp 100.978,,Yes
+CUST-1135,Budi,Lestari,Surabaya,2022-02-25,Rp 883.852,1.0,No
+CUST-1800,Joko,Kusuma,Surabaya,2022-02-26,Rp 1.190.546,24.0,No
+CUST-1694,Rina,Rahayu,Medan,2022-02-27,Rp 75.068,6.0,Yes
+CUST-0916,Siti,Santoso,Makassar,2022-02-28,Rp 847.043,6.0,No
+CUST-1356,Maya,Lestari,Medan,2022-03-01,Rp 1.293.758,12.0,No
+CUST-1659,Dewi,Lestari,Jakarta,2022-03-02,Rp 737.448,12.0,Yes
+CUST-0529,Maya,Santoso,Semarang,2022-03-03,Rp 55.954,24.0,No
+CUST-0347,Joko,Ningsih,Semarang,2022-03-04,Rp 65.969,12.0,No
+CUST-1423,Eko,Lestari,Semarang,2022-03-05,Rp 654.122,1.0,No
+CUST-0475,Rini,Santoso,Bandung,2022-03-06,Rp 274.763,6.0,Yes
+CUST-1034,Rini,Santoso,Surabaya,2022-03-07,Rp 1.013.453,6.0,Yes
+CUST-0386,Maya,Santoso,Medan,2022-03-08,Rp 1.077.759,6.0,No
+CUST-1387,Bambang,Handayani,Semarang,2022-03-09,Rp 307.926,24.0,Yes
+CUST-0602,Eko,Kusuma,Jakarta,2022-03-10,Rp 1.338.373,24.0,No
+CUST-1539,Rini,Handayani,Semarang,2022-03-11,Rp 690.766,12.0,Yes
+CUST-0244,Eko,Rahayu,Makassar,2022-03-12,Rp 257.127,6.0,No
+CUST-1813,Siti,Suryono,Surabaya,2022-03-13,Rp 1.158.165,6.0,No
+CUST-0803,Eko,Handayani,Surabaya,2022-03-14,Rp 1.195.463,6.0,No
+CUST-1199,Agus,Handayani,Medan,2022-03-15,Rp 976.978,6.0,No
+CUST-1513,Joko,Kusuma,Bandung,2022-03-16,Rp 1.287.525,6.0,No
+CUST-0313,Rini,Suryono,Medan,2022-03-17,,,No
+CUST-0436,Eko,Pratama,Semarang,2022-03-18,Rp 1.329.198,6.0,No
+CUST-1948,Maya,Santoso,Makassar,2022-03-19,Rp 679.138,1.0,No
+CUST-0974,Budi,Purnomo,Jakarta,2022-03-20,Rp 1.134.016,6.0,No
+CUST-0309,Agus,Suryono,Medan,2022-03-21,Rp 1.499.640,24.0,Yes
+CUST-0431,Agus,Rahayu,Bandung,2022-03-22,Rp 1.101.150,24.0,No
+CUST-0661,Bambang,Ningsih,Medan,2022-03-23,Rp 215.566,,No
+CUST-0371,Eko,Rahayu,Surabaya,2022-03-24,Rp 801.562,6.0,No
+CUST-0567,Bambang,Santoso,Semarang,2022-03-25,Rp 901.654,24.0,No
+CUST-1023,Bambang,Suryono,Semarang,2022-03-26,Rp 302.605,24.0,No
+CUST-0182,Budi,Rahayu,Semarang,2022-03-27,Rp 1.446.193,6.0,Yes
+CUST-0906,Siti,Rahayu,Semarang,2022-03-28,Rp 304.591,6.0,No
+CUST-0622,Eko,Pratama,Semarang,2022-03-29,Rp 307.459,24.0,Yes
+CUST-1557,Dewi,Pratama,Semarang,2022-03-30,Rp 1.376.992,6.0,Yes
+CUST-1223,Rini,Suryono,Jakarta,2022-03-31,Rp 724.548,12.0,No
+CUST-0995,Bambang,Santoso,Bandung,2022-04-01,Rp 141.623,6.0,No
+CUST-0814,Joko,Handayani,Semarang,2022-04-02,Rp 917.372,24.0,No
+CUST-1457,Rina,Wijaya,Bandung,2022-04-03,Rp 922.648,24.0,No
+CUST-1888,Joko,Lestari,Makassar,2022-04-04,Rp 143.526,1.0,Yes
+CUST-1775,Budi,Purnomo,Semarang,2022-04-05,Rp 1.460.158,12.0,No
+CUST-1226,Budi,Lestari,Medan,2022-04-06,Rp 838.843,24.0,No
+CUST-0297,Maya,Kusuma,Semarang,2022-04-07,,12.0,No
+CUST-0941,Siti,Pratama,Surabaya,2022-04-08,,6.0,No
+CUST-0462,Rini,Suryono,Jakarta,2022-04-09,Rp 935.561,24.0,Yes
+CUST-1335,Bambang,Lestari,Medan,2022-04-10,Rp 433.235,1.0,No
+CUST-1207,Joko,Santoso,Medan,2022-04-11,Rp 466.500,24.0,No
+CUST-0378,Rina,Purnomo,Surabaya,2022-04-12,Rp 791.442,1.0,No
+CUST-0799,Budi,Lestari,Semarang,2022-04-13,Rp 1.219.694,12.0,No
+CUST-1133,Budi,Purnomo,Jakarta,2022-04-14,,1.0,No
+CUST-0106,Siti,Ningsih,Medan,2022-04-15,Rp 924.936,,Yes
+CUST-0127,Rina,Santoso,Jakarta,2022-04-16,Rp 1.219.828,6.0,No
+CUST-1899,Rina,Wijaya,Medan,2022-04-17,Rp 277.530,6.0,No
+CUST-1161,Siti,Rahayu,Semarang,2022-04-18,Rp 71.783,,Yes
+CUST-1324,Budi,Purnomo,Makassar,2022-04-19,Rp 503.434,6.0,No
+CUST-0356,Rini,Santoso,Medan,2022-04-20,Rp 902.808,6.0,Yes
+CUST-1656,Eko,Purnomo,Makassar,2022-04-21,Rp 250.511,24.0,No
+CUST-0683,Eko,Purnomo,Medan,2022-04-22,Rp 667.877,12.0,Yes
+CUST-1478,Siti,Handayani,Bandung,2022-04-23,Rp 850.866,6.0,No
+CUST-1269,Rina,Handayani,Semarang,2022-04-24,Rp 918.380,6.0,No
+CUST-1188,Bambang,Santoso,Surabaya,2022-04-25,Rp 447.897,24.0,No
+CUST-0210,Siti,Handayani,Makassar,2022-04-26,Rp 630.043,12.0,No
+CUST-0923,Rini,Kusuma,Surabaya,2022-04-27,,12.0,No
+CUST-0141,Siti,Wijaya,Semarang,2022-04-28,Rp 1.414.761,12.0,No
+CUST-1473,Agus,Suryono,Surabaya,2022-04-29,Rp 1.299.726,24.0,No
+CUST-1823,Joko,Santoso,Semarang,2022-04-30,Rp 868.211,1.0,No
+CUST-1088,Rina,Santoso,Surabaya,2022-05-01,Rp 644.925,1.0,Yes
+CUST-1613,Maya,Kusuma,Makassar,2022-05-02,Rp 532.787,6.0,No
+CUST-1126,Maya,Pratama,Bandung,2022-05-03,Rp 231.187,6.0,No
+CUST-0887,Rina,Pratama,Surabaya,2022-05-04,Rp 204.499,6.0,No
+CUST-0931,Rini,Handayani,Makassar,2022-05-05,Rp 1.048.119,1.0,Yes
+CUST-0712,Agus,Suryono,Medan,2022-05-06,Rp 426.702,24.0,No
+CUST-0857,Agus,Handayani,Semarang,2022-05-07,,6.0,Yes
+CUST-0904,Budi,Ningsih,Jakarta,2022-05-08,Rp 1.497.383,24.0,No
+CUST-1917,Joko,Ningsih,Jakarta,2022-05-09,Rp 322.493,6.0,No
+CUST-1051,Eko,Rahayu,Semarang,2022-05-10,Rp 264.687,24.0,No
+CUST-0011,Dewi,Ningsih,Bandung,2022-05-11,Rp 193.094,24.0,No
+CUST-1737,Rini,Pratama,Surabaya,2022-05-12,Rp 890.718,1.0,No
+CUST-1768,Dewi,Wijaya,Bandung,2022-05-13,Rp 960.403,24.0,Yes
+CUST-0283,Dewi,Ningsih,Jakarta,2022-05-14,Rp 579.580,12.0,Yes
+CUST-0811,Rina,Handayani,Makassar,2022-05-15,Rp 826.349,1.0,No
+CUST-1121,Maya,Purnomo,Semarang,2022-05-16,Rp 1.193.179,6.0,No
+CUST-0292,Maya,Santoso,Semarang,2022-05-17,Rp 1.236.251,1.0,No
+CUST-0755,Eko,Wijaya,Bandung,2022-05-18,Rp 1.438.973,12.0,No
+CUST-0627,Rina,Wijaya,Makassar,2022-05-19,Rp 1.245.189,12.0,No
+CUST-0985,Dewi,Handayani,Bandung,2022-05-20,Rp 869.020,24.0,No
+CUST-0901,Bambang,Santoso,Surabaya,2022-05-21,Rp 310.503,12.0,No
+CUST-0130,Maya,Pratama,Medan,2022-05-22,Rp 194.657,12.0,No
+CUST-1323,Rini,Wijaya,Makassar,2022-05-23,,12.0,No
+CUST-0844,Rini,Rahayu,Medan,2022-05-24,,12.0,No
+CUST-0324,Budi,Handayani,Surabaya,2022-05-25,Rp 1.220.928,6.0,No
+CUST-1119,Siti,Wijaya,Medan,2022-05-26,Rp 787.592,6.0,No
+CUST-1085,Bambang,Suryono,Jakarta,2022-05-27,,1.0,No
+CUST-1006,Maya,Santoso,Medan,2022-05-28,Rp 826.432,24.0,Yes
+CUST-1913,Agus,Ningsih,Surabaya,2022-05-29,Rp 1.406.836,6.0,Yes
+CUST-0905,Maya,Wijaya,Medan,2022-05-30,Rp 916.539,12.0,No
+CUST-1474,Budi,Handayani,Semarang,2022-05-31,Rp 1.223.670,24.0,No
+CUST-0696,Rini,Ningsih,Bandung,2022-06-01,Rp 1.210.221,6.0,No
+CUST-0216,Dewi,Rahayu,Jakarta,2022-06-02,Rp 1.401.587,1.0,No
+CUST-1845,Agus,Ningsih,Semarang,2022-06-03,Rp 1.166.832,12.0,No
+CUST-1125,Rina,Suryono,Semarang,2022-06-04,Rp 1.134.166,24.0,Yes
+CUST-1293,Joko,Pratama,Surabaya,2022-06-05,Rp 389.449,6.0,Yes
+CUST-0159,Dewi,Wijaya,Bandung,2022-06-06,Rp 136.891,24.0,No
+CUST-1911,Joko,Lestari,Bandung,2022-06-07,Rp 800.519,6.0,Yes
+CUST-1453,Bambang,Lestari,Makassar,2022-06-08,Rp 230.430,1.0,Yes
+CUST-0932,Siti,Ningsih,Jakarta,2022-06-09,Rp 1.445.184,12.0,No
+CUST-0842,Agus,Kusuma,Surabaya,2022-06-10,Rp 470.391,1.0,Yes
+CUST-0635,Eko,Santoso,Jakarta,2022-06-11,,12.0,No
+CUST-0517,Agus,Lestari,Makassar,2022-06-12,Rp 612.056,12.0,No
+CUST-1464,Maya,Kusuma,Medan,2022-06-13,,24.0,No
+CUST-1559,Rini,Lestari,Semarang,2022-06-14,Rp 1.405.980,6.0,No
+CUST-0598,Maya,Kusuma,Jakarta,2022-06-15,Rp 576.818,1.0,No
+CUST-0196,Maya,Santoso,Semarang,2022-06-16,Rp 615.917,1.0,Yes
+CUST-1697,Bambang,Purnomo,Surabaya,2022-06-17,Rp 203.833,1.0,Yes
+CUST-1250,Dewi,Lestari,Medan,2022-06-18,Rp 1.022.148,24.0,No
+CUST-0411,Eko,Suryono,Surabaya,2022-06-19,Rp 468.817,24.0,Yes
+CUST-0097,Eko,Wijaya,Medan,2022-06-20,Rp 899.126,24.0,Yes
+CUST-0441,Maya,Kusuma,Medan,2022-06-21,Rp 907.460,12.0,No
+CUST-0988,Joko,Wijaya,Semarang,2022-06-22,Rp 1.092.840,1.0,No
+CUST-0157,Bambang,Handayani,Surabaya,2022-06-23,,12.0,No
+CUST-0420,Maya,Handayani,Surabaya,2022-06-24,,1.0,Yes
+CUST-1850,Siti,Santoso,Jakarta,2022-06-25,Rp 529.938,1.0,No
+CUST-0478,Rini,Kusuma,Surabaya,2022-06-26,Rp 1.264.304,6.0,No
+CUST-1904,Dewi,Rahayu,Jakarta,2022-06-27,Rp 499.305,,Yes
+CUST-0669,Rina,Handayani,Bandung,2022-06-28,Rp 785.888,24.0,Yes
+CUST-1719,Siti,Santoso,Bandung,2022-06-29,Rp 631.816,24.0,No
+CUST-1921,Joko,Handayani,Bandung,2022-06-30,,24.0,No
+CUST-1332,Agus,Handayani,Makassar,2022-07-01,Rp 676.282,6.0,No
+CUST-0448,Agus,Rahayu,Surabaya,2022-07-02,Rp 609.844,6.0,Yes
+CUST-0554,Siti,Lestari,Makassar,2022-07-03,Rp 1.050.244,12.0,No
+CUST-0179,Maya,Ningsih,Surabaya,2022-07-04,Rp 923.540,1.0,No
+CUST-0391,Rina,Purnomo,Jakarta,2022-07-05,Rp 205.508,1.0,Yes
+CUST-0579,Budi,Handayani,Makassar,2022-07-06,Rp 786.845,24.0,Yes
+CUST-1041,Budi,Handayani,Makassar,2022-07-07,Rp 1.116.444,24.0,No
+CUST-1935,Joko,Suryono,Makassar,2022-07-08,Rp 1.488.508,24.0,No
+CUST-1319,Maya,Purnomo,Medan,2022-07-09,Rp 962.263,24.0,No
+CUST-1684,Eko,Rahayu,Jakarta,2022-07-10,Rp 586.925,24.0,No
+CUST-0938,Eko,Wijaya,Bandung,2022-07-11,Rp 377.920,24.0,No
+CUST-0821,Dewi,Kusuma,Jakarta,2022-07-12,Rp 1.315.604,1.0,No
+CUST-1872,Rina,Handayani,Medan,2022-07-13,Rp 1.231.120,6.0,No
+CUST-1028,Rina,Ningsih,Surabaya,2022-07-14,Rp 389.188,24.0,No
+CUST-1076,Agus,Kusuma,Jakarta,2022-07-15,Rp 340.917,1.0,No
+CUST-0665,Bambang,Purnomo,Makassar,2022-07-16,Rp 1.086.948,24.0,No
+CUST-0143,Joko,Kusuma,Bandung,2022-07-17,Rp 506.680,12.0,Yes
+CUST-1555,Budi,Lestari,Bandung,2022-07-18,Rp 494.278,12.0,No
+CUST-1465,Joko,Handayani,Surabaya,2022-07-19,Rp 270.821,1.0,Yes
+CUST-0865,Eko,Kusuma,Jakarta,2022-07-20,Rp 432.765,6.0,No
+CUST-0422,Eko,Wijaya,Medan,2022-07-21,Rp 669.886,12.0,No
+CUST-0637,Siti,Wijaya,Surabaya,2022-07-22,Rp 1.112.616,12.0,No
+CUST-1442,Dewi,Handayani,Jakarta,2022-07-23,,6.0,No
+CUST-0800,Rina,Pratama,Semarang,2022-07-24,Rp 526.476,,No
+CUST-1095,Rini,Wijaya,Bandung,2022-07-25,Rp 463.124,24.0,Yes
+CUST-0616,Joko,Kusuma,Medan,2022-07-26,Rp 743.511,6.0,Yes
+CUST-0295,Eko,Santoso,Makassar,2022-07-27,Rp 311.923,12.0,No
+CUST-0963,Bambang,Wijaya,Medan,2022-07-28,Rp 754.165,6.0,No
+CUST-0969,Agus,Purnomo,Makassar,2022-07-29,Rp 1.071.055,24.0,No
+CUST-0861,Budi,Pratama,Medan,2022-07-30,Rp 93.196,12.0,No
+CUST-0089,Dewi,Kusuma,Bandung,2022-07-31,Rp 64.180,1.0,Yes
+CUST-0042,Bambang,Rahayu,Makassar,2022-08-01,Rp 158.928,,No
+CUST-1849,Dewi,Suryono,Jakarta,2022-08-02,Rp 826.707,12.0,No
+CUST-0253,Siti,Rahayu,Makassar,2022-08-03,Rp 1.288.960,24.0,No
+CUST-0132,Rini,Lestari,Surabaya,2022-08-04,Rp 57.082,1.0,No
+CUST-1467,Eko,Suryono,Jakarta,2022-08-05,,1.0,Yes
+CUST-0410,Agus,Lestari,Surabaya,2022-08-06,,1.0,No
+CUST-1348,Bambang,Suryono,Medan,2022-08-07,Rp 1.270.876,24.0,Yes
+CUST-1903,Dewi,Suryono,Jakarta,2022-08-08,Rp 750.139,24.0,Yes
+CUST-1377,Rina,Santoso,Medan,2022-08-09,Rp 1.006.068,24.0,No
+CUST-1537,Siti,Ningsih,Semarang,2022-08-10,Rp 790.490,24.0,No
+CUST-0165,Rina,Purnomo,Medan,2022-08-11,Rp 741.720,24.0,No
+CUST-0725,Agus,Rahayu,Medan,2022-08-12,Rp 1.260.604,1.0,No
+CUST-0291,Bambang,Wijaya,Surabaya,2022-08-13,Rp 1.146.035,6.0,No
+CUST-1441,Siti,Kusuma,Makassar,2022-08-14,Rp 750.933,24.0,No
+CUST-1574,Bambang,Pratama,Semarang,2022-08-15,Rp 211.872,6.0,Yes
+CUST-1946,Eko,Purnomo,Medan,2022-08-16,,12.0,No
+CUST-1048,Maya,Lestari,Medan,2022-08-17,Rp 1.212.232,12.0,No
+CUST-1395,Siti,Santoso,Semarang,2022-08-18,Rp 817.616,24.0,No
+CUST-0779,Rina,Lestari,Semarang,2022-08-19,Rp 748.304,12.0,Yes
+CUST-0840,Agus,Ningsih,Jakarta,2022-08-20,Rp 1.036.822,6.0,Yes
+CUST-0349,Rini,Pratama,Surabaya,2022-08-21,Rp 1.295.320,12.0,No
+CUST-1807,Eko,Santoso,Semarang,2022-08-22,,12.0,No
+CUST-0572,Maya,Lestari,Semarang,2022-08-23,Rp 1.156.129,6.0,No
+CUST-0918,Rini,Ningsih,Bandung,2022-08-24,Rp 1.159.642,12.0,No
+CUST-1166,Budi,Kusuma,Makassar,2022-08-25,Rp 566.579,24.0,No
+CUST-1936,Eko,Kusuma,Semarang,2022-08-26,Rp 447.421,6.0,No
+CUST-1506,Agus,Lestari,Surabaya,2022-08-27,Rp 1.211.688,6.0,No
+CUST-1630,Dewi,Purnomo,Makassar,2022-08-28,Rp 596.909,1.0,Yes
+CUST-1740,Siti,Pratama,Makassar,2022-08-29,Rp 1.359.837,1.0,No
+CUST-1892,Bambang,Handayani,Medan,2022-08-30,Rp 151.052,6.0,No
+CUST-0137,Agus,Purnomo,Medan,2022-08-31,,6.0,Yes
+CUST-0459,Siti,Kusuma,Medan,2022-09-01,Rp 1.394.156,1.0,Yes
+CUST-0376,Rini,Pratama,Medan,2022-09-02,,24.0,Yes
+CUST-1375,Bambang,Ningsih,Bandung,2022-09-03,Rp 600.419,12.0,No
+CUST-0334,Joko,Santoso,Semarang,2022-09-04,Rp 1.144.838,12.0,No
+CUST-1339,Rina,Suryono,Medan,2022-09-05,Rp 1.024.874,,No
+CUST-1190,Budi,Lestari,Jakarta,2022-09-06,Rp 820.242,6.0,No
+CUST-1516,Eko,Rahayu,Medan,2022-09-07,Rp 193.366,24.0,No
+CUST-1805,Agus,Pratama,Semarang,2022-09-08,Rp 1.227.660,1.0,Yes
+CUST-1494,Budi,Wijaya,Medan,2022-09-09,Rp 1.305.734,24.0,Yes
+CUST-0817,Dewi,Ningsih,Bandung,2022-09-10,Rp 299.645,24.0,No
+CUST-1145,Siti,Handayani,Surabaya,2022-09-11,Rp 1.283.242,12.0,No
+CUST-0606,Siti,Suryono,Surabaya,2022-09-12,Rp 1.322.879,1.0,No
+CUST-1905,Agus,Wijaya,Semarang,2022-09-13,Rp 846.671,24.0,No
+CUST-1019,Maya,Handayani,Surabaya,2022-09-14,,1.0,No
+CUST-1652,Maya,Rahayu,Surabaya,2022-09-15,Rp 604.244,6.0,No
+CUST-0911,Joko,Kusuma,Jakarta,2022-09-16,Rp 458.598,12.0,Yes
+CUST-1279,Rina,Purnomo,Semarang,2022-09-17,Rp 1.096.876,1.0,No
+CUST-1185,Bambang,Lestari,Semarang,2022-09-18,Rp 1.299.719,6.0,Yes
+CUST-1707,Dewi,Santoso,Surabaya,2022-09-19,Rp 998.412,6.0,No
+CUST-0329,Budi,Handayani,Surabaya,2022-09-20,Rp 791.806,6.0,Yes
+CUST-1081,Maya,Suryono,Surabaya,2022-09-21,Rp 280.441,24.0,No
+CUST-0319,Joko,Pratama,Makassar,2022-09-22,Rp 127.515,24.0,No
+CUST-1568,Joko,Kusuma,Bandung,2022-09-23,Rp 696.253,12.0,No
+CUST-1392,Agus,Pratama,Medan,2022-09-24,Rp 121.557,12.0,No
+CUST-1777,Dewi,Suryono,Bandung,2022-09-25,,6.0,No
+CUST-0168,Rini,Pratama,Semarang,2022-09-26,Rp 604.957,12.0,No
+CUST-0013,Bambang,Handayani,Jakarta,2020-01-01,Rp 1.147.924,24.0,No
+CUST-1216,Rina,Ningsih,Medan,2020-01-02,Rp 493.190,12.0,No
+CUST-0172,Eko,Pratama,Jakarta,2020-01-03,Rp 909.825,1.0,Yes
+CUST-0650,Agus,Purnomo,Makassar,2020-01-04,Rp 829.641,24.0,No
+CUST-1090,Bambang,Rahayu,Semarang,2020-01-05,Rp 56.833,6.0,No
+CUST-0261,Eko,Santoso,Makassar,2020-01-06,Rp 154.965,6.0,No
+CUST-1314,Eko,Handayani,Semarang,2020-01-07,Rp 471.034,12.0,No
+CUST-1445,Dewi,Wijaya,Jakarta,2020-01-08,Rp 1.329.241,24.0,Yes
+CUST-0902,Dewi,Suryono,Jakarta,2020-01-09,Rp 263.172,6.0,No
+CUST-0673,Budi,Kusuma,Jakarta,2020-01-10,Rp 1.080.797,6.0,No
+CUST-0259,Joko,Handayani,Semarang,2020-01-11,Rp 1.461.382,24.0,Yes
+CUST-1544,Bambang,Ningsih,Surabaya,2020-01-12,Rp 1.196.323,24.0,No
+CUST-0845,Agus,Kusuma,Jakarta,2020-01-13,Rp 402.271,6.0,No
+CUST-0868,Siti,Purnomo,Makassar,2020-01-14,Rp 1.367.130,,Yes
+CUST-1256,Agus,Suryono,Medan,2020-01-15,Rp 185.005,12.0,Yes
+CUST-0139,Budi,Kusuma,Semarang,2020-01-16,Rp 728.806,12.0,No
+CUST-0894,Rina,Pratama,Makassar,2020-01-17,Rp 1.336.936,1.0,Yes
+CUST-1885,Joko,Handayani,Bandung,2020-01-18,,24.0,No
+CUST-0550,Siti,Rahayu,Bandung,2020-01-19,Rp 649.785,6.0,No
+CUST-0320,Maya,Suryono,Medan,2020-01-20,Rp 474.579,1.0,No
+CUST-1565,Rina,Lestari,Surabaya,2020-01-21,Rp 593.894,12.0,No
+CUST-1841,Dewi,Purnomo,Jakarta,2020-01-22,Rp 787.966,,No
+CUST-1757,Eko,Santoso,Semarang,2020-01-23,Rp 512.614,6.0,No
+CUST-0559,Maya,Suryono,Makassar,2020-01-24,Rp 1.455.003,6.0,No
+CUST-0140,Agus,Ningsih,Jakarta,2020-01-25,Rp 1.402.963,24.0,No
+CUST-1779,Agus,Handayani,Makassar,2020-01-26,Rp 1.312.474,12.0,No
+CUST-0532,Dewi,Pratama,Semarang,2020-01-27,Rp 661.653,12.0,No
+CUST-0225,Budi,Santoso,Bandung,2020-01-28,Rp 1.052.388,1.0,Yes
+CUST-0724,Bambang,Santoso,Jakarta,2020-01-29,Rp 1.359.102,12.0,No
+CUST-1933,Maya,Purnomo,Medan,2020-01-30,Rp 1.283.123,1.0,No
+CUST-0326,Maya,Kusuma,Surabaya,2020-01-31,Rp 650.774,6.0,No
+CUST-1294,Rini,Ningsih,Medan,2020-02-01,Rp 212.960,6.0,Yes
+CUST-0715,Rina,Kusuma,Surabaya,2020-02-02,Rp 159.664,6.0,No
+CUST-0847,Joko,Pratama,Makassar,2020-02-03,Rp 886.743,6.0,No
+CUST-0194,Rina,Santoso,Jakarta,2020-02-04,Rp 981.811,6.0,No
+CUST-0574,Bambang,Ningsih,Jakarta,2020-02-05,Rp 1.282.272,1.0,No
+CUST-0947,Agus,Ningsih,Surabaya,2020-02-06,Rp 474.147,6.0,No
+CUST-0504,Agus,Wijaya,Bandung,2020-02-07,Rp 292.832,1.0,No
+CUST-1203,Agus,Handayani,Semarang,2020-02-08,Rp 599.558,,No
+CUST-1194,Rini,Santoso,Medan,2020-02-09,Rp 562.684,1.0,Yes
+CUST-1833,Agus,Santoso,Makassar,2020-02-10,Rp 242.080,1.0,No
+CUST-0004,Bambang,Ningsih,Medan,2020-02-11,Rp 1.024.810,1.0,Yes
+CUST-1180,Dewi,Kusuma,Medan,2020-02-12,Rp 787.603,12.0,No
+CUST-0468,Joko,Santoso,Makassar,2020-02-13,Rp 1.095.628,1.0,Yes
+CUST-0006,Bambang,Ningsih,Makassar,2020-02-14,Rp 561.402,1.0,No
+CUST-1818,Joko,Santoso,Jakarta,2020-02-15,Rp 522.268,6.0,No
+CUST-0548,Bambang,Ningsih,Medan,2020-02-16,Rp 735.235,1.0,No
+CUST-0229,Agus,Wijaya,Semarang,2020-02-17,Rp 1.322.241,1.0,No
+CUST-0543,Dewi,Handayani,Semarang,2020-02-18,Rp 108.408,24.0,No
+CUST-0243,Maya,Ningsih,Surabaya,2020-02-19,Rp 1.217.008,12.0,Yes
+CUST-0899,Rina,Santoso,Makassar,2020-02-20,Rp 585.032,,No
+CUST-1164,Eko,Pratama,Jakarta,2020-02-21,Rp 1.289.198,,No
+CUST-1222,Dewi,Handayani,Semarang,2020-02-22,Rp 1.213.194,12.0,Yes
+CUST-1115,Maya,Wijaya,Bandung,2020-02-23,Rp 555.704,12.0,Yes
+CUST-0843,Budi,Ningsih,Jakarta,2020-02-24,Rp 1.056.121,24.0,No
+CUST-1454,Bambang,Pratama,Jakarta,2020-02-25,Rp 281.467,12.0,Yes
+CUST-1602,Budi,Ningsih,Semarang,2020-02-26,,,No
+CUST-0277,Maya,Kusuma,Bandung,2020-02-27,Rp 636.512,1.0,Yes
+CUST-0662,Dewi,Santoso,Surabaya,2020-02-28,Rp 710.657,24.0,No
+CUST-1241,Bambang,Suryono,Semarang,2020-02-29,Rp 1.073.351,12.0,Yes
+CUST-0315,Eko,Purnomo,Bandung,2020-03-01,Rp 1.240.218,12.0,No
+CUST-0692,Agus,Rahayu,Jakarta,2020-03-02,,6.0,No
+CUST-1542,Bambang,Kusuma,Bandung,2020-03-03,,6.0,No
+CUST-0425,Bambang,Pratama,Jakarta,2020-03-04,Rp 618.397,6.0,No
+CUST-0595,Dewi,Kusuma,Semarang,2020-03-05,Rp 584.619,6.0,No
+CUST-0748,Dewi,Lestari,Makassar,2020-03-06,Rp 1.050.537,12.0,Yes
+CUST-0623,Maya,Ningsih,Semarang,2020-03-07,Rp 611.416,6.0,Yes
+CUST-1201,Siti,Ningsih,Medan,2020-03-08,Rp 551.857,24.0,Yes
+CUST-1481,Bambang,Rahayu,Medan,2020-03-09,Rp 1.262.038,1.0,No
+CUST-0228,Rina,Rahayu,Medan,2020-03-10,Rp 196.850,12.0,No
+CUST-1742,Bambang,Lestari,Semarang,2020-03-11,Rp 1.030.044,6.0,No
+CUST-1828,Maya,Santoso,Surabaya,2020-03-12,Rp 410.652,12.0,No
+CUST-1585,Joko,Purnomo,Semarang,2020-03-13,Rp 72.472,6.0,No
+CUST-0067,Budi,Suryono,Makassar,2020-03-14,Rp 291.808,12.0,No
+CUST-0025,Agus,Suryono,Bandung,2020-03-15,Rp 929.659,6.0,No
+CUST-0145,Siti,Wijaya,Semarang,2020-03-16,Rp 1.078.234,1.0,No
+CUST-0537,Eko,Wijaya,Semarang,2020-03-17,,6.0,Yes
+CUST-0812,Eko,Santoso,Jakarta,2020-03-18,Rp 102.817,24.0,No
+CUST-1318,Eko,Wijaya,Jakarta,2020-03-19,Rp 1.358.686,12.0,No
+CUST-0086,Dewi,Wijaya,Jakarta,2020-03-20,Rp 156.293,12.0,No
+CUST-1365,Eko,Lestari,Semarang,2020-03-21,Rp 1.346.564,24.0,No
+CUST-1817,Agus,Lestari,Surabaya,2020-03-22,Rp 380.841,24.0,No
+CUST-1418,Budi,Wijaya,Bandung,2020-03-23,Rp 1.123.026,1.0,No
+CUST-1852,Eko,Kusuma,Bandung,2020-03-24,Rp 499.113,12.0,Yes
+CUST-1865,Bambang,Handayani,Makassar,2020-03-25,Rp 1.295.190,1.0,No
+CUST-1407,Bambang,Handayani,Surabaya,2020-03-26,Rp 1.065.660,12.0,No
+CUST-1915,Dewi,Santoso,Surabaya,2020-03-27,Rp 632.630,12.0,No
+CUST-0363,Agus,Suryono,Bandung,2020-03-28,Rp 160.639,1.0,No
+CUST-1651,Budi,Rahayu,Medan,2020-03-29,Rp 1.112.415,,Yes
+CUST-1183,Siti,Santoso,Jakarta,2020-03-30,Rp 944.483,12.0,No
+CUST-1027,Maya,Wijaya,Jakarta,2020-03-31,Rp 54.222,1.0,No
+CUST-1031,Budi,Lestari,Bandung,2020-04-01,,6.0,No
+CUST-1248,Maya,Ningsih,Surabaya,2020-04-02,Rp 1.222.750,1.0,No
+CUST-1388,Joko,Kusuma,Makassar,2020-04-03,Rp 426.130,,Yes
+CUST-1101,Maya,Pratama,Medan,2020-04-04,Rp 972.394,24.0,Yes
+CUST-0666,Rina,Lestari,Bandung,2020-04-05,,6.0,No
+CUST-0365,Bambang,Handayani,Jakarta,2020-04-06,Rp 1.301.974,,No
+CUST-0078,Agus,Lestari,Semarang,2020-04-07,Rp 1.379.594,6.0,No
+CUST-0028,Rini,Kusuma,Surabaya,2020-04-08,Rp 1.495.371,24.0,No
+CUST-1472,Dewi,Rahayu,Semarang,2020-04-09,Rp 272.842,6.0,Yes
+CUST-0526,Rina,Wijaya,Makassar,2020-04-10,Rp 1.301.298,1.0,Yes
+CUST-1882,Maya,Ningsih,Bandung,2020-04-11,Rp 435.731,6.0,No
+CUST-0056,Eko,Handayani,Jakarta,2020-04-12,Rp 906.683,6.0,No
+CUST-0639,Agus,Handayani,Medan,2020-04-13,Rp 783.371,6.0,No
+CUST-0303,Rina,Purnomo,Semarang,2020-04-14,Rp 76.083,12.0,No
+CUST-0719,Dewi,Suryono,Medan,2020-04-15,Rp 1.402.518,,No
+CUST-0625,Bambang,Rahayu,Makassar,2020-04-16,Rp 163.574,1.0,Yes
+CUST-0008,Agus,Handayani,Jakarta,2020-04-17,Rp 1.047.917,24.0,No
+CUST-0804,Dewi,Suryono,Semarang,2020-04-18,Rp 1.188.260,24.0,Yes
+CUST-1050,Joko,Handayani,Makassar,2020-04-19,Rp 1.203.167,1.0,No
+CUST-0337,Joko,Wijaya,Medan,2020-04-20,Rp 246.467,12.0,No
+CUST-0048,Dewi,Suryono,Medan,2020-04-21,Rp 698.976,6.0,No
+CUST-1518,Rina,Kusuma,Semarang,2020-04-22,Rp 1.252.672,12.0,No
+CUST-0107,Agus,Purnomo,Jakarta,2020-04-23,Rp 488.885,12.0,No
+CUST-0350,Rina,Wijaya,Medan,2020-04-24,Rp 728.236,6.0,No
+CUST-1080,Siti,Kusuma,Bandung,2020-04-25,Rp 445.551,24.0,Yes
+CUST-0239,Maya,Ningsih,Makassar,2020-04-26,Rp 722.150,6.0,Yes
+CUST-0214,Siti,Rahayu,Semarang,2020-04-27,Rp 1.337.365,1.0,No
+CUST-1284,Joko,Rahayu,Surabaya,2020-04-28,Rp 709.930,6.0,No
+CUST-1212,Bambang,Pratama,Surabaya,2020-04-29,Rp 856.072,24.0,No
+CUST-0794,Budi,Pratama,Jakarta,2020-04-30,Rp 635.766,,Yes
+CUST-1097,Maya,Suryono,Bandung,2020-05-01,Rp 717.170,12.0,No
+CUST-1362,Joko,Rahayu,Medan,2020-05-02,Rp 72.003,6.0,Yes
+CUST-1914,Rina,Suryono,Surabaya,2020-05-03,Rp 461.431,1.0,No
+CUST-1621,Rina,Pratama,Jakarta,2020-05-04,Rp 683.043,24.0,No
+CUST-1714,Rina,Ningsih,Makassar,2020-05-05,Rp 969.006,12.0,No
+CUST-0524,Bambang,Handayani,Bandung,2020-05-06,Rp 702.575,,No
+CUST-0233,Siti,Kusuma,Bandung,2020-05-07,Rp 539.835,1.0,No
+CUST-0645,Budi,Lestari,Jakarta,2020-05-08,Rp 612.743,1.0,Yes
+CUST-1546,Rina,Suryono,Jakarta,2020-05-09,Rp 401.325,12.0,No
+CUST-0534,Rini,Ningsih,Medan,2020-05-10,Rp 1.390.517,12.0,Yes
+CUST-1547,Maya,Kusuma,Jakarta,2020-05-11,Rp 806.528,24.0,No
+CUST-0604,Agus,Rahayu,Medan,2020-05-12,Rp 69.444,1.0,No
+CUST-1240,Rini,Handayani,Medan,2020-05-13,Rp 78.197,24.0,No
+CUST-1075,Budi,Kusuma,Semarang,2020-05-14,Rp 1.460.794,1.0,No
+CUST-1337,Bambang,Purnomo,Bandung,2020-05-15,Rp 371.104,1.0,Yes
+CUST-0061,Budi,Pratama,Makassar,2020-05-16,Rp 1.218.132,6.0,No
+CUST-1943,Agus,Kusuma,Bandung,2020-05-17,Rp 134.499,12.0,No
+CUST-0093,Maya,Lestari,Bandung,2020-05-18,Rp 1.385.686,1.0,No
+CUST-0667,Agus,Ningsih,Semarang,2020-05-19,,24.0,No
+CUST-0281,Dewi,Handayani,Medan,2020-05-20,Rp 878.085,12.0,No
+CUST-1690,Maya,Wijaya,Medan,2020-05-21,Rp 63.048,,No
+CUST-0360,Budi,Kusuma,Jakarta,2020-05-22,Rp 423.826,12.0,No
+CUST-1812,Rina,Santoso,Semarang,2020-05-23,Rp 639.893,12.0,Yes
+CUST-1582,Budi,Lestari,Jakarta,2020-05-24,Rp 717.093,1.0,No
+CUST-0848,Budi,Lestari,Semarang,2020-05-25,Rp 481.634,6.0,No
+CUST-0331,Maya,Santoso,Jakarta,2020-05-26,Rp 97.774,1.0,No
+CUST-0111,Dewi,Purnomo,Surabaya,2020-05-27,Rp 905.685,12.0,No
+CUST-0043,Budi,Wijaya,Bandung,2020-05-28,Rp 810.024,1.0,No
+CUST-0126,Rini,Pratama,Bandung,2020-05-29,Rp 460.351,1.0,Yes
+CUST-0205,Joko,Ningsih,Makassar,2020-05-30,,12.0,Yes
+CUST-0053,Eko,Handayani,Medan,2020-05-31,Rp 1.492.162,12.0,Yes
+CUST-0546,Eko,Ningsih,Makassar,2020-06-01,,1.0,No
+CUST-0069,Budi,Wijaya,Surabaya,2020-06-02,Rp 1.146.206,1.0,No
+CUST-1282,Rini,Ningsih,Makassar,2020-06-03,Rp 705.855,1.0,No
+CUST-0088,Rina,Santoso,Bandung,2020-06-04,Rp 112.597,24.0,Yes
+CUST-0184,Bambang,Lestari,Medan,2020-06-05,Rp 498.921,1.0,No
+CUST-0138,Bambang,Ningsih,Surabaya,2020-06-06,Rp 514.160,24.0,No
+CUST-0900,Maya,Suryono,Bandung,2020-06-07,Rp 1.265.612,6.0,No
+CUST-0797,Eko,Kusuma,Jakarta,2020-06-08,Rp 998.633,24.0,No
+CUST-0133,Budi,Wijaya,Semarang,2020-06-09,Rp 449.373,,No
+CUST-0081,Bambang,Purnomo,Surabaya,2020-06-10,Rp 1.453.223,6.0,No
+CUST-1792,Budi,Suryono,Medan,2020-06-11,Rp 516.236,24.0,No
+CUST-1579,Maya,Santoso,Makassar,2020-06-12,Rp 1.497.439,,No
+CUST-0542,Eko,Rahayu,Makassar,2020-06-13,Rp 1.494.437,12.0,Yes
+CUST-1750,Agus,Santoso,Surabaya,2020-06-14,Rp 327.255,6.0,No
+CUST-0984,Joko,Purnomo,Medan,2020-06-15,Rp 503.475,12.0,No
+CUST-0166,Joko,Purnomo,Surabaya,2020-06-16,Rp 754.764,6.0,Yes
+CUST-0249,Bambang,Suryono,Medan,2020-06-17,Rp 1.012.946,24.0,No
+CUST-0447,Joko,Kusuma,Makassar,2020-06-18,Rp 815.669,12.0,No
+CUST-1179,Agus,Wijaya,Bandung,2020-06-19,Rp 1.455.690,1.0,Yes
+CUST-0859,Budi,Pratama,Jakarta,2020-06-20,Rp 1.099.784,24.0,No
+CUST-1873,Maya,Lestari,Bandung,2020-06-21,Rp 357.465,6.0,No
+CUST-0098,Agus,Suryono,Jakarta,2020-06-22,Rp 202.391,6.0,No
+CUST-0806,Maya,Purnomo,Makassar,2020-06-23,Rp 1.048.182,12.0,Yes
+CUST-0738,Maya,Rahayu,Bandung,2020-06-24,,12.0,No
+CUST-1287,Eko,Handayani,Bandung,2020-06-25,Rp 1.192.131,6.0,Yes
+CUST-0103,Budi,Purnomo,Surabaya,2020-06-26,Rp 501.003,24.0,No
+CUST-0435,Rini,Kusuma,Semarang,2020-06-27,Rp 523.995,12.0,Yes
+CUST-0075,Joko,Kusuma,Makassar,2020-06-28,Rp 65.658,1.0,No
+CUST-1838,Rini,Purnomo,Medan,2020-06-29,Rp 1.066.466,6.0,Yes
+CUST-1232,Eko,Kusuma,Makassar,2020-06-30,Rp 214.241,1.0,Yes
+CUST-0919,Maya,Suryono,Medan,2020-07-01,Rp 1.170.677,6.0,Yes
+CUST-1754,Bambang,Purnomo,Medan,2020-07-02,Rp 763.208,1.0,No
+CUST-1713,Joko,Purnomo,Jakarta,2020-07-03,Rp 1.187.206,24.0,No
+CUST-1660,Joko,Wijaya,Medan,2020-07-04,Rp 896.693,6.0,Yes
+CUST-0763,Budi,Lestari,Medan,2020-07-05,Rp 169.528,24.0,No
+CUST-0990,Dewi,Rahayu,Surabaya,2020-07-06,Rp 1.160.196,12.0,No
+CUST-0389,Siti,Kusuma,Bandung,2020-07-07,Rp 151.209,6.0,No
+CUST-0236,Siti,Wijaya,Makassar,2020-07-08,Rp 744.117,24.0,Yes
+CUST-1545,Siti,Pratama,Makassar,2020-07-09,Rp 299.906,1.0,No
+CUST-0268,Dewi,Pratama,Medan,2020-07-10,Rp 1.140.886,24.0,No
+CUST-1336,Budi,Ningsih,Semarang,2020-07-11,Rp 1.371.807,6.0,No
+CUST-0118,Dewi,Suryono,Makassar,2020-07-12,Rp 853.483,24.0,No
+CUST-1646,Siti,Suryono,Medan,2020-07-13,Rp 814.364,1.0,Yes
+CUST-0674,Eko,Santoso,Jakarta,2020-07-14,Rp 1.157.747,1.0,No
+CUST-0250,Agus,Rahayu,Jakarta,2020-07-15,Rp 57.364,1.0,Yes
+CUST-1489,Maya,Purnomo,Jakarta,2020-07-16,Rp 1.380.750,12.0,No
+CUST-1096,Dewi,Kusuma,Medan,2020-07-17,Rp 336.301,,Yes
+CUST-0095,Budi,Rahayu,Surabaya,2020-07-18,Rp 1.476.972,1.0,No
+CUST-0034,Budi,Ningsih,Semarang,2020-07-19,Rp 1.117.568,12.0,Yes
+CUST-1829,Rini,Santoso,Medan,2020-07-20,Rp 1.172.664,1.0,No
+CUST-1710,Agus,Wijaya,Surabaya,2020-07-21,Rp 1.001.494,24.0,No
+CUST-0449,Bambang,Rahayu,Surabaya,2020-07-22,Rp 733.912,6.0,No
+CUST-0717,Joko,Wijaya,Makassar,2020-07-23,,24.0,Yes
+CUST-1901,Siti,Pratama,Medan,2020-07-24,Rp 117.284,12.0,No
+CUST-1556,Bambang,Kusuma,Medan,2020-07-25,Rp 954.741,24.0,No
+CUST-0001,Rini,Ningsih,Surabaya,2020-07-26,Rp 957.842,24.0,No
+CUST-1587,Siti,Purnomo,Surabaya,2020-07-27,Rp 1.342.241,1.0,Yes
+CUST-1102,Agus,Kusuma,Surabaya,2020-07-28,,24.0,No
+CUST-1109,Rini,Lestari,Makassar,2020-07-29,Rp 161.859,1.0,No
+CUST-1811,Siti,Suryono,Medan,2020-07-30,Rp 493.984,1.0,No
+CUST-0083,Agus,Ningsih,Surabaya,2020-07-31,Rp 1.000.663,6.0,Yes
+CUST-1320,Rina,Rahayu,Jakarta,2020-08-01,Rp 396.925,12.0,Yes
+CUST-0677,Bambang,Kusuma,Medan,2020-08-02,Rp 456.765,12.0,Yes
+CUST-1487,Bambang,Handayani,Makassar,2020-08-03,Rp 1.239.680,12.0,No
+CUST-1047,Joko,Suryono,Jakarta,2020-08-04,Rp 897.264,1.0,No
+CUST-0771,Agus,Suryono,Bandung,2020-08-05,Rp 787.365,12.0,No
+CUST-1246,Dewi,Handayani,Medan,2020-08-06,Rp 511.755,1.0,No
+CUST-1592,Rina,Santoso,Bandung,2020-08-07,Rp 1.109.846,6.0,No
+CUST-1619,Eko,Santoso,Surabaya,2020-08-08,Rp 467.192,12.0,No
+CUST-1527,Siti,Handayani,Makassar,2020-08-09,Rp 1.118.742,1.0,No
+CUST-0405,Rina,Lestari,Surabaya,2020-08-10,Rp 151.647,12.0,No
+CUST-1771,Agus,Pratama,Makassar,2020-08-11,Rp 1.303.585,12.0,No
+CUST-1331,Maya,Handayani,Semarang,2020-08-12,Rp 774.371,6.0,No
+CUST-1615,Siti,Pratama,Surabaya,2020-08-13,Rp 685.837,24.0,No
+CUST-0105,Budi,Kusuma,Bandung,2020-08-14,Rp 935.984,12.0,No
+CUST-0689,Bambang,Lestari,Makassar,2020-08-15,Rp 955.079,6.0,No
+CUST-1338,Agus,Ningsih,Surabaya,2020-08-16,Rp 241.451,,Yes
+CUST-0827,Budi,Pratama,Medan,2020-08-17,Rp 1.146.539,12.0,No
+CUST-0063,Joko,Suryono,Makassar,2020-08-18,Rp 450.096,12.0,Yes
+CUST-0853,Rini,Kusuma,Makassar,2020-08-19,Rp 1.362.195,12.0,Yes
+CUST-1386,Eko,Suryono,Surabaya,2020-08-20,Rp 1.235.883,24.0,No
+CUST-0224,Eko,Lestari,Semarang,2020-08-21,,24.0,No
+CUST-0146,Budi,Pratama,Surabaya,2020-08-22,Rp 1.221.222,12.0,No
+CUST-1089,Bambang,Wijaya,Bandung,2020-08-23,Rp 566.766,12.0,No
+CUST-0374,Joko,Lestari,Bandung,2020-08-24,Rp 196.374,6.0,Yes
+CUST-1456,Maya,Lestari,Makassar,2020-08-25,Rp 1.444.738,6.0,Yes
+CUST-1143,Bambang,Wijaya,Makassar,2020-08-26,Rp 996.273,1.0,No
+CUST-1874,Rina,Kusuma,Surabaya,2020-08-27,Rp 711.344,24.0,No
+CUST-1533,Eko,Pratama,Bandung,2020-08-28,,12.0,Yes
+CUST-1641,Rina,Pratama,Bandung,2020-08-29,,24.0,No
+CUST-1302,Siti,Suryono,Semarang,2020-08-30,Rp 1.473.099,6.0,No
+CUST-0010,Dewi,Lestari,Medan,2020-08-31,Rp 245.384,24.0,No
+CUST-0450,Agus,Lestari,Semarang,2020-09-01,Rp 506.467,24.0,No
+CUST-0709,Joko,Purnomo,Jakarta,2020-09-02,Rp 753.972,12.0,No
+CUST-0256,Bambang,Ningsih,Semarang,2020-09-03,Rp 743.099,12.0,No
+CUST-0883,Eko,Lestari,Surabaya,2020-09-04,Rp 733.481,6.0,No
+CUST-0390,Rina,Rahayu,Medan,2020-09-05,Rp 304.887,12.0,Yes
+CUST-0909,Rini,Ningsih,Surabaya,2020-09-06,Rp 260.152,6.0,No
+CUST-0925,Siti,Rahayu,Jakarta,2020-09-07,Rp 419.413,6.0,No
+CUST-1746,Agus,Pratama,Medan,2020-09-08,Rp 1.376.063,1.0,Yes
+CUST-1263,Agus,Ningsih,Makassar,2020-09-09,Rp 213.927,1.0,Yes
+CUST-0461,Bambang,Lestari,Bandung,2020-09-10,Rp 1.148.266,1.0,No
+CUST-0122,Joko,Wijaya,Semarang,2020-09-11,Rp 1.148.445,24.0,No
+CUST-1743,Maya,Suryono,Surabaya,2020-09-12,Rp 1.224.167,1.0,No
+CUST-1169,Rini,Rahayu,Jakarta,2020-09-13,Rp 1.335.592,12.0,Yes
+CUST-0959,Bambang,Ningsih,Bandung,2020-09-14,Rp 431.402,12.0,No
+CUST-0502,Rina,Lestari,Semarang,2020-09-15,Rp 375.611,1.0,No
+CUST-0740,Dewi,Ningsih,Bandung,2020-09-16,Rp 724.983,24.0,Yes
+CUST-1898,Budi,Lestari,Semarang,2020-09-17,Rp 434.379,6.0,No
+CUST-0869,Maya,Lestari,Makassar,2020-09-18,Rp 1.114.749,24.0,Yes
+CUST-0732,Joko,Lestari,Medan,2020-09-19,Rp 972.112,24.0,Yes
+CUST-0540,Siti,Purnomo,Bandung,2020-09-20,Rp 1.318.732,6.0,No
+CUST-1202,Maya,Suryono,Bandung,2020-09-21,Rp 169.971,6.0,No
+CUST-0698,Eko,Wijaya,Bandung,2020-09-22,Rp 1.376.871,6.0,Yes
+CUST-1428,Joko,Wijaya,Medan,2020-09-23,Rp 475.356,12.0,No
+CUST-1786,Dewi,Ningsih,Jakarta,2020-09-24,Rp 761.507,6.0,No
+CUST-1146,Eko,Ningsih,Semarang,2020-09-25,Rp 685.987,6.0,No
+CUST-1032,Maya,Lestari,Makassar,2020-09-26,Rp 1.152.452,24.0,No
+CUST-0373,Budi,Purnomo,Bandung,2020-09-27,Rp 659.483,24.0,No
+CUST-0668,Budi,Lestari,Medan,2020-09-28,Rp 1.418.152,1.0,Yes
+CUST-1564,Dewi,Purnomo,Jakarta,2020-09-29,Rp 1.358.674,24.0,No
+CUST-0358,Agus,Lestari,Semarang,2020-09-30,Rp 1.314.634,6.0,Yes
+CUST-0968,Rini,Rahayu,Medan,2020-10-01,,12.0,No
+CUST-0784,Siti,Rahayu,Makassar,2020-10-02,Rp 1.288.674,24.0,No
+CUST-0736,Agus,Pratama,Makassar,2020-10-03,Rp 1.183.371,24.0,No
+CUST-1036,Budi,Lestari,Semarang,2020-10-04,Rp 200.094,6.0,Yes
+CUST-0971,Budi,Suryono,Bandung,2020-10-05,Rp 205.751,,No
+CUST-1563,Rina,Pratama,Makassar,2020-10-06,Rp 196.688,24.0,No
+CUST-1525,Eko,Ningsih,Jakarta,2020-10-07,Rp 66.432,6.0,No
+CUST-1562,Maya,Kusuma,Medan,2020-10-08,Rp 845.520,24.0,No
+CUST-1810,Siti,Lestari,Jakarta,2020-10-09,Rp 1.461.422,12.0,No
+CUST-0976,Dewi,Rahayu,Bandung,2020-10-10,Rp 686.093,1.0,No
+CUST-1682,Maya,Kusuma,Jakarta,2020-10-11,Rp 834.098,24.0,No
+CUST-1253,Rina,Purnomo,Jakarta,2020-10-12,Rp 1.453.556,12.0,No
+CUST-1736,Budi,Kusuma,Surabaya,2020-10-13,Rp 420.014,24.0,No
+CUST-1853,Dewi,Suryono,Jakarta,2020-10-14,Rp 1.294.782,1.0,No
+CUST-1237,Budi,Lestari,Semarang,2020-10-15,Rp 842.266,6.0,No
+CUST-0886,Siti,Wijaya,Medan,2020-10-16,Rp 875.741,1.0,No
+CUST-0080,Eko,Kusuma,Surabaya,2020-10-17,Rp 547.602,24.0,No
+CUST-1173,Maya,Wijaya,Medan,2020-10-18,Rp 864.297,1.0,No
+CUST-0815,Maya,Purnomo,Medan,2020-10-19,,1.0,No
+CUST-1317,Agus,Pratama,Bandung,2020-10-20,Rp 1.158.733,6.0,No
+CUST-0672,Dewi,Wijaya,Bandung,2020-10-21,Rp 462.797,24.0,No
+CUST-1570,Rini,Pratama,Surabaya,2020-10-22,,1.0,No
+CUST-0058,Rina,Rahayu,Makassar,2020-10-23,Rp 583.384,,No
+CUST-0134,Rini,Lestari,Bandung,2020-10-24,Rp 257.095,6.0,No
+CUST-1141,Agus,Kusuma,Bandung,2020-10-25,Rp 1.059.028,12.0,Yes
+CUST-0934,Siti,Rahayu,Bandung,2020-10-26,Rp 288.638,24.0,No
+CUST-1727,Rina,Rahayu,Medan,2020-10-27,Rp 1.142.837,12.0,No
+CUST-0824,Eko,Handayani,Surabaya,2020-10-28,Rp 1.453.763,,No
+CUST-1215,Rini,Santoso,Medan,2020-10-29,,6.0,Yes
+CUST-0505,Eko,Suryono,Semarang,2020-10-30,Rp 82.551,6.0,No
+CUST-1839,Rini,Pratama,Medan,2020-10-31,Rp 919.834,24.0,No
+CUST-0348,Eko,Handayani,Semarang,2020-11-01,Rp 1.058.345,12.0,Yes
+CUST-0387,Rini,Santoso,Jakarta,2020-11-02,Rp 1.246.915,1.0,Yes
+CUST-1025,Eko,Suryono,Jakarta,2020-11-03,Rp 131.203,12.0,No
+CUST-0895,Agus,Pratama,Semarang,2020-11-04,Rp 746.156,6.0,No
+CUST-0829,Joko,Lestari,Semarang,2020-11-05,Rp 826.288,1.0,Yes
+CUST-1942,Rina,Suryono,Medan,2020-11-06,Rp 295.231,,No
+CUST-0476,Dewi,Kusuma,Semarang,2020-11-07,Rp 517.552,6.0,No
+CUST-1508,Siti,Rahayu,Surabaya,2020-11-08,Rp 688.322,1.0,No
+CUST-1483,Bambang,Santoso,Jakarta,2020-11-09,Rp 1.258.154,12.0,No
+CUST-1432,Budi,Santoso,Jakarta,2020-11-10,Rp 1.397.641,6.0,No
+CUST-0653,Dewi,Santoso,Makassar,2020-11-11,Rp 961.213,,No
+CUST-0173,Budi,Pratama,Semarang,2020-11-12,Rp 622.671,6.0,No
+CUST-1150,Rina,Kusuma,Bandung,2020-11-13,Rp 418.345,24.0,No
+CUST-0039,Dewi,Suryono,Bandung,2020-11-14,Rp 1.474.096,24.0,No
+CUST-0714,Eko,Rahayu,Semarang,2020-11-15,Rp 1.475.379,6.0,No
+CUST-0091,Eko,Kusuma,Surabaya,2020-11-16,Rp 1.391.217,6.0,No
+CUST-1585,Bambang,Handayani,Bandung,2020-11-17,Rp 1.189.220,24.0,Yes
+CUST-1206,Budi,Lestari,Makassar,2020-11-18,Rp 522.380,24.0,Yes
+CUST-0876,Siti,Wijaya,Semarang,2020-11-19,Rp 1.234.651,1.0,No
+CUST-1384,Rina,Kusuma,Surabaya,2020-11-20,Rp 642.750,6.0,No
+CUST-1939,Eko,Handayani,Surabaya,2020-11-21,Rp 523.821,6.0,No
+CUST-1094,Joko,Rahayu,Medan,2020-11-22,Rp 1.130.055,1.0,Yes
+CUST-1156,Agus,Wijaya,Surabaya,2020-11-23,Rp 165.498,6.0,Yes
+CUST-1325,Agus,Wijaya,Bandung,2020-11-24,Rp 120.416,1.0,No
+CUST-1620,Rini,Kusuma,Bandung,2020-11-25,Rp 699.533,1.0,No
+CUST-0511,Siti,Santoso,Semarang,2020-11-26,Rp 696.176,6.0,No
+CUST-0500,Agus,Ningsih,Semarang,2020-11-27,Rp 1.348.684,12.0,Yes
+CUST-0339,Rini,Rahayu,Surabaya,2020-11-28,Rp 232.922,24.0,No
+CUST-1189,Budi,Santoso,Makassar,2020-11-29,Rp 228.762,6.0,No
+CUST-0029,Eko,Rahayu,Jakarta,2020-11-30,Rp 263.806,12.0,No
+CUST-1218,Eko,Ningsih,Medan,2020-12-01,,,No
+CUST-1358,Joko,Lestari,Jakarta,2020-12-02,Rp 154.011,12.0,No
+CUST-1868,Dewi,Ningsih,Surabaya,2020-12-03,Rp 1.006.811,6.0,No
+CUST-0946,Agus,Purnomo,Surabaya,2020-12-04,Rp 675.797,6.0,No
+CUST-0170,Budi,Kusuma,Jakarta,2020-12-05,Rp 1.157.224,12.0,No
+CUST-1762,Maya,Kusuma,Medan,2020-12-06,Rp 1.489.267,6.0,Yes
+CUST-1198,Agus,Handayani,Jakarta,2020-12-07,Rp 1.005.600,24.0,Yes
+CUST-1254,Siti,Santoso,Semarang,2020-12-08,Rp 123.161,12.0,No
+CUST-1434,Dewi,Handayani,Bandung,2020-12-09,Rp 201.616,1.0,Yes
+CUST-0913,Agus,Purnomo,Makassar,2020-12-10,Rp 1.327.456,12.0,Yes
+CUST-0492,Budi,Ningsih,Semarang,2020-12-11,Rp 814.869,12.0,No
+CUST-0954,Agus,Kusuma,Bandung,2020-12-12,Rp 1.246.014,12.0,No
+CUST-1098,Siti,Pratama,Makassar,2020-12-13,Rp 1.292.088,12.0,No
+CUST-1033,Maya,Ningsih,Makassar,2020-12-14,Rp 1.395.128,1.0,No
+CUST-0588,Rina,Ningsih,Makassar,2020-12-15,Rp 1.427.252,1.0,No
+CUST-0751,Bambang,Purnomo,Surabaya,2020-12-16,Rp 854.497,1.0,No
+CUST-0658,Maya,Lestari,Makassar,2020-12-17,Rp 544.479,12.0,No
+CUST-0235,Rini,Rahayu,Medan,2020-12-18,Rp 1.444.704,24.0,Yes
+CUST-0733,Agus,Purnomo,Jakarta,2020-12-19,Rp 843.739,24.0,Yes
+CUST-1239,Eko,Rahayu,Medan,2020-12-20,Rp 143.166,1.0,No
+CUST-1672,Joko,Kusuma,Jakarta,2020-12-21,Rp 982.026,24.0,Yes
+CUST-1157,Eko,Purnomo,Semarang,2020-12-22,Rp 902.143,24.0,Yes
+CUST-1507,Maya,Rahayu,Semarang,2020-12-23,Rp 1.348.900,24.0,Yes
+CUST-1460,Eko,Handayani,Jakarta,2020-12-24,,24.0,No
+CUST-1667,Budi,Purnomo,Medan,2020-12-25,Rp 556.126,24.0,No
+CUST-0935,Eko,Kusuma,Jakarta,2020-12-26,,6.0,No
+CUST-1210,Dewi,Purnomo,Makassar,2020-12-27,,1.0,Yes
+CUST-1066,Rina,Kusuma,Surabaya,2020-12-28,Rp 964.106,12.0,No
+CUST-0109,Agus,Purnomo,Semarang,2020-12-29,Rp 474.742,24.0,Yes
+CUST-1581,Eko,Rahayu,Surabaya,2020-12-30,Rp 591.633,6.0,No
+CUST-0569,Siti,Lestari,Makassar,2020-12-31,,12.0,No
+CUST-1168,Rina,Suryono,Makassar,2021-01-01,Rp 154.372,6.0,No
+CUST-1175,Rina,Rahayu,Semarang,2021-01-02,Rp 422.187,24.0,No
+CUST-0891,Eko,Santoso,Semarang,2021-01-03,Rp 1.085.156,24.0,No
+CUST-0948,Rina,Wijaya,Makassar,2021-01-04,Rp 746.027,24.0,No
+CUST-1049,Joko,Lestari,Bandung,2021-01-05,Rp 633.471,24.0,No
+CUST-1385,Eko,Handayani,Surabaya,2021-01-06,Rp 269.614,,No
+CUST-1406,Budi,Ningsih,Surabaya,2021-01-07,Rp 690.681,12.0,No
+CUST-1482,Maya,Rahayu,Bandung,2021-01-08,Rp 1.167.503,6.0,No
+CUST-0885,Dewi,Purnomo,Medan,2021-01-09,Rp 432.819,1.0,No
+CUST-1861,Bambang,Rahayu,Surabaya,2021-01-10,Rp 57.828,24.0,No
+CUST-0851,Rini,Pratama,Jakarta,2021-01-11,Rp 1.019.332,6.0,Yes
+CUST-0735,Rina,Lestari,Makassar,2021-01-12,Rp 1.460.309,,No
+CUST-0718,Budi,Suryono,Makassar,2021-01-13,Rp 929.899,6.0,No
+CUST-0455,Agus,Handayani,Bandung,2021-01-14,Rp 223.887,24.0,No
+CUST-0265,Agus,Pratama,Surabaya,2021-01-15,Rp 515.063,24.0,Yes
+CUST-0076,Rini,Kusuma,Medan,2021-01-16,Rp 1.308.080,6.0,No
+CUST-1906,Dewi,Pratama,Surabaya,2021-01-17,Rp 387.224,24.0,No
+CUST-0445,Rina,Rahayu,Makassar,2021-01-18,Rp 931.159,6.0,No
+CUST-0396,Joko,Handayani,Semarang,2021-01-19,Rp 633.873,,No
+CUST-0177,Rini,Rahayu,Jakarta,2021-01-20,Rp 351.373,24.0,No
+CUST-1043,Dewi,Kusuma,Bandung,2021-01-21,,12.0,No
+CUST-1780,Rina,Ningsih,Semarang,2021-01-22,Rp 1.127.105,1.0,Yes
+CUST-1437,Budi,Handayani,Medan,2021-01-23,Rp 1.009.307,24.0,No
+CUST-1549,Maya,Ningsih,Semarang,2021-01-24,Rp 392.688,1.0,No
+CUST-1415,Joko,Lestari,Semarang,2021-01-25,Rp 191.893,6.0,No
+CUST-0596,Bambang,Lestari,Medan,2021-01-26,Rp 885.431,,No
+CUST-0062,Agus,Ningsih,Semarang,2021-01-27,Rp 852.833,24.0,No
+CUST-1297,Siti,Lestari,Bandung,2021-01-28,Rp 323.158,24.0,No
+CUST-0873,Budi,Handayani,Makassar,2021-01-29,Rp 131.558,1.0,No
+CUST-1937,Agus,Purnomo,Surabaya,2021-01-30,Rp 167.027,1.0,No
+CUST-1928,Eko,Santoso,Semarang,2021-01-31,Rp 1.489.518,6.0,No
+CUST-0279,Siti,Lestari,Bandung,2021-02-01,Rp 1.186.197,12.0,No
+CUST-1393,Agus,Lestari,Surabaya,2021-02-02,Rp 1.386.882,12.0,No
+CUST-0037,Dewi,Rahayu,Surabaya,2021-02-03,Rp 332.829,1.0,Yes
+CUST-1554,Joko,Ningsih,Semarang,2021-02-04,Rp 1.442.824,24.0,No
+CUST-0663,Agus,Wijaya,Bandung,2021-02-05,Rp 256.849,12.0,No
+CUST-1854,Bambang,Suryono,Makassar,2021-02-06,Rp 788.169,12.0,Yes
+CUST-1808,Maya,Pratama,Semarang,2021-02-07,Rp 1.253.059,1.0,No
+CUST-0978,Dewi,Lestari,Medan,2021-02-08,Rp 557.215,6.0,No
+CUST-1610,Budi,Pratama,Surabaya,2021-02-09,Rp 666.001,1.0,No
+CUST-0739,Budi,Handayani,Semarang,2021-02-10,Rp 235.868,1.0,No
+CUST-0192,Budi,Wijaya,Surabaya,2021-02-11,Rp 228.237,24.0,No
+CUST-0920,Budi,Suryono,Bandung,2021-02-12,Rp 948.374,1.0,No
+CUST-0457,Maya,Ningsih,Jakarta,2021-02-13,Rp 1.029.522,,No
+CUST-0676,Agus,Santoso,Semarang,2021-02-14,Rp 1.177.132,6.0,No
+CUST-0761,Rina,Suryono,Makassar,2021-02-15,Rp 857.189,24.0,No
+CUST-1855,Agus,Suryono,Semarang,2021-02-16,Rp 986.351,6.0,No
+CUST-1642,Eko,Santoso,Surabaya,2021-02-17,Rp 69.600,6.0,No
+CUST-0729,Joko,Purnomo,Bandung,2021-02-18,Rp 285.148,6.0,Yes
+CUST-1400,Siti,Ningsih,Medan,2021-02-19,Rp 1.478.126,1.0,Yes
+CUST-0413,Rina,Rahayu,Makassar,2021-02-20,Rp 160.191,24.0,No
+CUST-1099,Rina,Pratama,Bandung,2021-02-21,Rp 1.034.243,12.0,No
+CUST-0826,Agus,Lestari,Semarang,2021-02-22,Rp 305.320,1.0,No
+CUST-1732,Rina,Suryono,Medan,2021-02-23,Rp 1.089.242,6.0,No
+CUST-0617,Rini,Handayani,Bandung,2021-02-24,Rp 1.073.686,12.0,Yes
+CUST-0115,Rini,Santoso,Jakarta,2021-02-25,Rp 389.589,1.0,Yes
+CUST-0418,Eko,Pratama,Makassar,2021-02-26,Rp 440.970,12.0,No
+CUST-0467,Siti,Wijaya,Surabaya,2021-02-27,Rp 999.418,6.0,No
+CUST-0970,Bambang,Santoso,Bandung,2021-02-28,Rp 615.625,12.0,No
+CUST-0605,Maya,Wijaya,Bandung,2021-03-01,,12.0,No
+CUST-1686,Agus,Ningsih,Jakarta,2021-03-02,,6.0,Yes
+CUST-0090,Maya,Suryono,Semarang,2021-03-03,Rp 273.514,12.0,No
+CUST-0849,Bambang,Handayani,Makassar,2021-03-04,Rp 1.290.683,1.0,No
+CUST-1558,Agus,Lestari,Makassar,2021-03-05,Rp 796.271,12.0,No
+CUST-1688,Agus,Wijaya,Surabaya,2021-03-06,Rp 203.266,24.0,No
+CUST-0754,Siti,Pratama,Bandung,2021-03-07,Rp 1.056.405,1.0,No
+CUST-0499,Maya,Purnomo,Medan,2021-03-08,Rp 802.786,12.0,No
+CUST-1277,Rini,Ningsih,Bandung,2021-03-09,Rp 482.183,24.0,Yes
+CUST-1326,Budi,Purnomo,Surabaya,2021-03-10,,24.0,Yes
+CUST-0012,Maya,Ningsih,Bandung,2021-03-11,Rp 482.590,24.0,No
+CUST-0397,Joko,Rahayu,Jakarta,2021-03-12,Rp 431.387,12.0,No
+CUST-0285,Joko,Pratama,Bandung,2021-03-13,Rp 287.232,6.0,Yes
+CUST-1067,Agus,Purnomo,Bandung,2021-03-14,Rp 576.012,24.0,No
+CUST-1192,Budi,Handayani,Medan,2021-03-15,Rp 413.931,6.0,No
+CUST-1789,Dewi,Suryono,Jakarta,2021-03-16,,1.0,No
+CUST-0691,Bambang,Santoso,Jakarta,2021-03-17,,,Yes
+CUST-1671,Eko,Lestari,Bandung,2021-03-18,Rp 777.668,6.0,No
+CUST-1925,Budi,Suryono,Makassar,2021-03-19,Rp 1.178.020,6.0,No
+CUST-0690,Eko,Suryono,Medan,2021-03-20,Rp 1.269.943,6.0,Yes
+CUST-0852,Maya,Ningsih,Bandung,2021-03-21,Rp 890.661,6.0,No
+CUST-0160,Maya,Handayani,Bandung,2021-03-22,,1.0,No
+CUST-0896,Eko,Ningsih,Surabaya,2021-03-23,Rp 460.185,,No
+CUST-1614,Bambang,Kusuma,Surabaya,2021-03-24,Rp 1.347.560,6.0,No
+CUST-0258,Budi,Wijaya,Makassar,2021-03-25,Rp 85.099,6.0,No
+CUST-0336,Dewi,Lestari,Medan,2021-03-26,Rp 555.474,24.0,No
+CUST-1929,Agus,Wijaya,Semarang,2021-03-27,,1.0,No
+CUST-1040,Siti,Santoso,Surabaya,2021-03-28,Rp 166.130,12.0,No
+CUST-0516,Maya,Kusuma,Semarang,2021-03-29,Rp 315.596,1.0,No
+CUST-1349,Joko,Pratama,Jakarta,2021-03-30,,12.0,Yes
+CUST-1016,Bambang,Santoso,Surabaya,2021-03-31,Rp 861.991,24.0,No
+CUST-0769,Siti,Santoso,Surabaya,2021-04-01,Rp 1.121.446,6.0,Yes
+CUST-1791,Dewi,Rahayu,Medan,2021-04-02,Rp 1.228.288,24.0,Yes
+CUST-0762,Rina,Lestari,Makassar,2021-04-03,Rp 236.440,6.0,No
+CUST-1247,Agus,Ningsih,Semarang,2021-04-04,Rp 76.652,,No
+CUST-1204,Maya,Handayani,Surabaya,2021-04-05,Rp 1.049.976,6.0,Yes
+CUST-1636,Agus,Wijaya,Surabaya,2021-04-06,Rp 487.018,12.0,No
+CUST-1124,Siti,Santoso,Medan,2021-04-07,Rp 957.677,12.0,No
+CUST-0522,Agus,Wijaya,Medan,2021-04-08,Rp 268.290,24.0,No
+CUST-0023,Rina,Wijaya,Makassar,2021-04-09,,1.0,No
+CUST-0357,Siti,Pratama,Semarang,2021-04-10,Rp 781.416,12.0,Yes
+CUST-1278,Maya,Lestari,Jakarta,2021-04-11,,24.0,No
+CUST-1313,Budi,Lestari,Makassar,2021-04-12,,1.0,No
+CUST-1725,Joko,Purnomo,Jakarta,2021-04-13,Rp 768.752,1.0,Yes
+CUST-0341,Siti,Suryono,Bandung,2021-04-14,,24.0,Yes
+CUST-0432,Rini,Lestari,Surabaya,2021-04-15,Rp 153.211,12.0,No
+CUST-0474,Rina,Wijaya,Semarang,2021-04-16,,12.0,No
+CUST-0218,Siti,Ningsih,Makassar,2021-04-17,Rp 678.978,24.0,No
+CUST-0912,Siti,Wijaya,Surabaya,2021-04-18,,12.0,Yes
+CUST-1228,Rini,Ningsih,Semarang,2021-04-19,,24.0,No
+CUST-1717,Maya,Purnomo,Semarang,2021-04-20,Rp 492.015,12.0,No
+CUST-1012,Siti,Ningsih,Semarang,2021-04-21,Rp 1.047.470,12.0,Yes
+CUST-0958,Joko,Lestari,Surabaya,2021-04-22,Rp 1.302.734,,No
+CUST-0094,Agus,Pratama,Makassar,2021-04-23,Rp 483.352,24.0,Yes
+CUST-1009,Maya,Ningsih,Medan,2021-04-24,Rp 329.827,12.0,No
+CUST-1071,Joko,Wijaya,Surabaya,2021-04-25,Rp 218.462,24.0,No
+CUST-1093,Maya,Handayani,Semarang,2021-04-26,,12.0,No
+CUST-1624,Joko,Lestari,Makassar,2021-04-27,Rp 693.591,6.0,Yes
+CUST-1309,Rina,Handayani,Bandung,2021-04-28,Rp 322.623,1.0,No
+CUST-0697,Joko,Kusuma,Jakarta,2021-04-29,Rp 997.048,1.0,No
+CUST-1840,Eko,Kusuma,Semarang,2021-04-30,Rp 265.301,12.0,No
+CUST-0997,Joko,Wijaya,Bandung,2021-05-01,,1.0,Yes
+CUST-1459,Budi,Kusuma,Medan,2021-05-02,Rp 814.365,12.0,Yes
+CUST-0154,Budi,Suryono,Semarang,2021-05-03,Rp 1.114.630,24.0,No
+CUST-1100,Bambang,Purnomo,Bandung,2021-05-04,Rp 129.909,6.0,No
+CUST-1761,Eko,Lestari,Semarang,2021-05-05,,1.0,Yes
+CUST-0861,Eko,Handayani,Surabaya,2021-05-06,Rp 1.069.338,1.0,No
+CUST-0790,Agus,Wijaya,Makassar,2021-05-07,Rp 363.383,24.0,No
+CUST-0581,Eko,Suryono,Bandung,2021-05-08,Rp 315.938,6.0,No
+CUST-1471,Agus,Wijaya,Makassar,2021-05-09,Rp 675.907,6.0,No
+CUST-0704,Bambang,Suryono,Surabaya,2021-05-10,Rp 1.235.470,,No
+CUST-1213,Bambang,Kusuma,Surabaya,2021-05-11,Rp 1.272.277,24.0,Yes
+CUST-1296,Rina,Kusuma,Makassar,2021-05-12,Rp 804.661,1.0,Yes
+CUST-1766,Budi,Ningsih,Bandung,2021-05-13,Rp 1.298.176,1.0,No
+CUST-1261,Joko,Rahayu,Makassar,2021-05-14,Rp 57.893,6.0,No
+CUST-0488,Joko,Wijaya,Makassar,2021-05-15,Rp 101.003,24.0,No
+CUST-0560,Rini,Ningsih,Jakarta,2021-05-16,Rp 1.372.141,24.0,No
+CUST-1142,Rini,Lestari,Bandung,2021-05-17,Rp 1.174.231,24.0,No
+CUST-1120,Dewi,Ningsih,Jakarta,2021-05-18,Rp 703.524,6.0,Yes
+CUST-0802,Maya,Santoso,Semarang,2021-05-19,,24.0,No
+CUST-0513,Rina,Kusuma,Makassar,2021-05-20,Rp 1.435.677,6.0,No
+CUST-0634,Dewi,Santoso,Semarang,2021-05-21,,6.0,No
+CUST-1517,Dewi,Wijaya,Bandung,2021-05-22,Rp 1.271.438,6.0,No
+CUST-1834,Siti,Handayani,Makassar,2021-05-23,Rp 1.152.880,12.0,No
+CUST-1584,Siti,Handayani,Semarang,2021-05-24,Rp 293.906,,No
+CUST-1151,Dewi,Lestari,Medan,2021-05-25,Rp 1.258.682,24.0,Yes
+CUST-0791,Eko,Ningsih,Surabaya,2021-05-26,Rp 332.908,12.0,Yes
+CUST-0117,Maya,Handayani,Makassar,2021-05-27,Rp 1.344.286,1.0,No
+CUST-1498,Rina,Suryono,Surabaya,2021-05-28,Rp 715.042,1.0,No
+CUST-0741,Dewi,Suryono,Jakarta,2021-05-29,Rp 1.031.616,24.0,Yes
+CUST-1733,Joko,Lestari,Semarang,2021-05-30,Rp 770.999,24.0,No
+CUST-1082,Maya,Purnomo,Jakarta,2021-05-31,,24.0,No
+CUST-0831,Siti,Kusuma,Makassar,2021-06-01,Rp 471.547,24.0,No
+CUST-0120,Joko,Ningsih,Surabaya,2021-06-02,Rp 1.476.411,12.0,No
+CUST-0657,Siti,Wijaya,Surabaya,2021-06-03,Rp 1.443.036,24.0,No
+CUST-1045,Siti,Pratama,Semarang,2021-06-04,Rp 514.706,6.0,Yes
+CUST-0636,Maya,Pratama,Makassar,2021-06-05,,1.0,No
+CUST-0370,Siti,Pratama,Medan,2021-06-06,Rp 1.276.049,24.0,No
+CUST-0269,Bambang,Handayani,Medan,2021-06-07,Rp 935.891,6.0,Yes
+CUST-0656,Budi,Purnomo,Semarang,2021-06-08,Rp 108.181,24.0,No
+CUST-0936,Bambang,Purnomo,Makassar,2021-06-09,Rp 1.357.098,6.0,No
+CUST-0823,Budi,Ningsih,Semarang,2021-06-10,Rp 858.272,12.0,No
+CUST-0867,Rini,Ningsih,Makassar,2021-06-11,Rp 1.309.290,1.0,No
+CUST-0047,Rini,Purnomo,Jakarta,2021-06-12,Rp 1.259.922,1.0,No
+CUST-1374,Siti,Lestari,Semarang,2021-06-13,Rp 1.257.859,12.0,No
+CUST-1940,Rina,Ningsih,Makassar,2021-06-14,Rp 1.062.352,6.0,Yes
+CUST-0992,Rina,Lestari,Medan,2021-06-15,Rp 472.552,24.0,No
+CUST-0877,Budi,Santoso,Makassar,2021-06-16,Rp 537.432,6.0,No
+CUST-0774,Joko,Suryono,Makassar,2021-06-17,Rp 497.280,1.0,Yes
+CUST-1220,Maya,Kusuma,Semarang,2021-06-18,Rp 79.067,12.0,No
+CUST-1127,Siti,Ningsih,Jakarta,2021-06-19,Rp 894.725,12.0,No
+CUST-0005,Maya,Purnomo,Jakarta,2021-06-20,Rp 1.063.309,6.0,No
+CUST-1004,Bambang,Suryono,Jakarta,2021-06-21,Rp 1.288.106,6.0,Yes
+CUST-1767,Rina,Suryono,Jakarta,2021-06-22,Rp 253.240,12.0,No
+CUST-0264,Eko,Rahayu,Bandung,2021-06-23,,1.0,Yes
+CUST-1608,Bambang,Purnomo,Semarang,2021-06-24,Rp 61.612,24.0,No
+CUST-1878,Bambang,Kusuma,Surabaya,2021-06-25,Rp 187.886,24.0,No
+CUST-0444,Budi,Purnomo,Semarang,2021-06-26,Rp 128.607,6.0,No
+CUST-1003,Agus,Ningsih,Bandung,2021-06-27,Rp 1.101.943,12.0,No
+CUST-1078,Bambang,Wijaya,Jakarta,2021-06-28,,,Yes
+CUST-0838,Siti,Santoso,Bandung,2021-06-29,Rp 1.088.857,12.0,No
+CUST-1920,Dewi,Lestari,Medan,2021-06-30,Rp 411.956,,No
+CUST-0305,Dewi,Wijaya,Medan,2021-07-01,,6.0,No
+CUST-1366,Siti,Santoso,Semarang,2021-07-02,,6.0,No
+CUST-1711,Agus,Wijaya,Semarang,2021-07-03,Rp 1.438.854,6.0,Yes
+CUST-0314,Agus,Lestari,Surabaya,2021-07-04,Rp 1.331.455,1.0,Yes
+CUST-0150,Budi,Handayani,Surabaya,2021-07-05,Rp 1.403.328,6.0,Yes
+CUST-1149,Rina,Purnomo,Medan,2021-07-06,Rp 1.295.176,24.0,No
+CUST-1214,Maya,Wijaya,Jakarta,2021-07-07,Rp 1.055.404,6.0,Yes
+CUST-0575,Agus,Ningsih,Bandung,2021-07-08,Rp 296.876,6.0,Yes
+CUST-0051,Eko,Kusuma,Surabaya,2021-07-09,Rp 443.976,6.0,No
+CUST-0958,Budi,Pratama,Makassar,2021-07-10,Rp 358.454,1.0,No
+CUST-0727,Rini,Ningsih,Surabaya,2021-07-11,Rp 925.199,24.0,No
+CUST-0834,Joko,Lestari,Jakarta,2021-07-12,Rp 780.249,24.0,No
+CUST-1378,Rini,Kusuma,Jakarta,2021-07-13,,12.0,No
+CUST-1116,Budi,Ningsih,Semarang,2021-07-14,Rp 1.431.376,12.0,No
+CUST-1167,Bambang,Suryono,Bandung,2021-07-15,Rp 637.047,24.0,No
+CUST-0471,Maya,Purnomo,Jakarta,2021-07-16,,6.0,No
+CUST-0972,Joko,Kusuma,Surabaya,2021-07-17,Rp 1.458.699,6.0,Yes
+CUST-0654,Rini,Suryono,Surabaya,2021-07-18,Rp 450.546,6.0,Yes
+CUST-0400,Joko,Ningsih,Medan,2021-07-19,Rp 1.198.967,1.0,No
+CUST-0512,Eko,Santoso,Jakarta,2021-07-20,Rp 376.598,6.0,No
+CUST-0321,Eko,Rahayu,Makassar,2021-07-21,Rp 1.038.117,1.0,No
+CUST-0020,Eko,Santoso,Semarang,2021-07-22,,24.0,No
+CUST-0685,Budi,Purnomo,Bandung,2021-07-23,,6.0,Yes
+CUST-0036,Maya,Kusuma,Makassar,2021-07-24,Rp 864.143,6.0,No
+CUST-0903,Budi,Kusuma,Semarang,2021-07-25,,12.0,No
+CUST-1824,Dewi,Purnomo,Surabaya,2021-07-26,Rp 375.335,24.0,No
+CUST-0828,Bambang,Suryono,Makassar,2021-07-27,Rp 766.081,6.0,Yes
+CUST-1844,Bambang,Rahayu,Semarang,2021-07-28,Rp 1.444.323,1.0,Yes
+CUST-0408,Eko,Ningsih,Surabaya,2021-07-29,Rp 1.165.981,24.0,No
+CUST-0921,Dewi,Lestari,Surabaya,2021-07-30,Rp 758.049,12.0,No
+CUST-0538,Agus,Santoso,Surabaya,2021-07-31,Rp 539.693,24.0,Yes
+CUST-0759,Agus,Santoso,Surabaya,2021-08-01,Rp 846.439,1.0,Yes
+CUST-1131,Eko,Pratama,Surabaya,2021-08-02,Rp 1.135.123,12.0,No
+CUST-1063,Rini,Rahayu,Medan,2021-08-03,Rp 1.186.696,1.0,No
+CUST-1200,Budi,Lestari,Makassar,2021-08-04,Rp 520.683,24.0,Yes
+CUST-0246,Eko,Santoso,Semarang,2021-08-05,Rp 1.095.681,12.0,No
+CUST-1417,Rina,Lestari,Medan,2021-08-06,Rp 1.003.794,1.0,No
+CUST-1128,Joko,Ningsih,Medan,2021-08-07,Rp 1.440.713,24.0,No
+CUST-0785,Bambang,Kusuma,Jakarta,2021-08-08,Rp 1.400.081,1.0,No
+CUST-1787,Agus,Lestari,Jakarta,2021-08-09,Rp 1.194.600,6.0,No
+CUST-0490,Siti,Santoso,Jakarta,2021-08-10,Rp 1.098.922,24.0,No
+CUST-0155,Agus,Suryono,Bandung,2021-08-11,Rp 447.360,12.0,No
+CUST-0962,Bambang,Rahayu,Jakarta,2021-08-12,Rp 1.276.650,12.0,No
+CUST-0854,Joko,Purnomo,Semarang,2021-08-13,Rp 669.883,6.0,No
+CUST-1312,Bambang,Wijaya,Medan,2021-08-14,Rp 444.749,1.0,No
+CUST-0626,Siti,Handayani,Semarang,2021-08-15,Rp 607.033,1.0,No
+CUST-0686,Eko,Handayani,Makassar,2021-08-16,Rp 1.262.106,12.0,Yes
+CUST-1600,Dewi,Wijaya,Jakarta,2021-08-17,Rp 265.518,1.0,No
+CUST-0570,Siti,Lestari,Bandung,2021-08-18,Rp 711.430,24.0,No
+CUST-1639,Bambang,Rahayu,Makassar,2021-08-19,,24.0,No
+CUST-0018,Bambang,Lestari,Bandung,2021-08-20,Rp 103.113,12.0,No
+CUST-0128,Rina,Purnomo,Makassar,2021-08-21,Rp 333.832,24.0,Yes
+CUST-1347,Rina,Rahayu,Medan,2021-08-22,Rp 1.248.777,12.0,No
+CUST-1280,Maya,Wijaya,Semarang,2021-08-23,,,No
+CUST-1185,Rina,Lestari,Surabaya,2021-08-24,,1.0,No
+CUST-0928,Budi,Pratama,Semarang,2021-08-25,Rp 1.318.601,1.0,No
+CUST-0981,Dewi,Santoso,Jakarta,2021-08-26,Rp 1.169.085,6.0,No
+CUST-0253,Joko,Suryono,Surabaya,2021-08-27,Rp 655.966,12.0,No
+CUST-0191,Siti,Kusuma,Bandung,2021-08-28,Rp 1.135.189,24.0,No
+CUST-1140,Bambang,Suryono,Medan,2021-08-29,,1.0,No
+CUST-0993,Maya,Purnomo,Medan,2021-08-30,Rp 715.506,6.0,No
+CUST-0700,Maya,Lestari,Bandung,2021-08-31,Rp 395.719,24.0,No
+CUST-1698,Joko,Ningsih,Jakarta,2021-09-01,Rp 1.415.634,24.0,No
+CUST-0607,Dewi,Rahayu,Bandung,2021-09-02,Rp 925.429,,Yes
+CUST-0181,Siti,Lestari,Makassar,2021-09-03,,1.0,No
+CUST-0302,Agus,Rahayu,Jakarta,2021-09-04,Rp 880.390,24.0,No
+CUST-0497,Rina,Kusuma,Surabaya,2021-09-05,Rp 775.842,12.0,No
+CUST-1738,Eko,Pratama,Bandung,2021-09-06,Rp 1.290.604,6.0,No
+CUST-1886,Maya,Suryono,Jakarta,2021-09-07,Rp 819.508,24.0,No
+CUST-1703,Rina,Santoso,Surabaya,2021-09-08,Rp 420.087,24.0,No
+CUST-1678,Rina,Kusuma,Bandung,2021-09-09,Rp 1.029.684,12.0,No
+CUST-0518,Budi,Kusuma,Medan,2021-09-10,Rp 836.734,24.0,No
+CUST-1397,Dewi,Suryono,Bandung,2021-09-11,Rp 387.915,1.0,Yes
+CUST-1070,Eko,Kusuma,Semarang,2021-09-12,Rp 881.760,1.0,No
+CUST-0477,Agus,Ningsih,Bandung,2021-09-13,Rp 1.241.227,1.0,No
+CUST-0158,Bambang,Ningsih,Semarang,2021-09-14,Rp 91.428,24.0,No
+CUST-1244,Budi,Handayani,Surabaya,2021-09-15,Rp 964.734,6.0,No
+CUST-1196,Rina,Handayani,Bandung,2021-09-16,Rp 556.899,6.0,No
+CUST-0017,Rina,Ningsih,Surabaya,2021-09-17,Rp 474.374,24.0,No
+CUST-1536,Rini,Wijaya,Surabaya,2021-09-18,Rp 619.252,6.0,Yes
+CUST-1073,Eko,Pratama,Jakarta,2021-09-19,,6.0,No
+CUST-1216,Eko,Rahayu,Surabaya,2021-09-20,Rp 1.256.747,24.0,No
+CUST-0547,Rini,Pratama,Surabaya,2021-09-21,Rp 448.457,1.0,No
+CUST-1540,Eko,Purnomo,Bandung,2021-09-22,Rp 1.113.072,24.0,No
+CUST-0659,Rina,Kusuma,Bandung,2021-09-23,Rp 186.387,1.0,No
+CUST-1665,Maya,Santoso,Medan,2021-09-24,Rp 1.429.525,1.0,No
+CUST-1020,Siti,Kusuma,Jakarta,2021-09-25,Rp 952.359,6.0,No
+CUST-1704,Rina,Pratama,Surabaya,2021-09-26,Rp 1.074.742,6.0,No
+CUST-1505,Budi,Ningsih,Jakarta,2021-09-27,Rp 482.157,1.0,No
+CUST-0960,Dewi,Suryono,Semarang,2021-09-28,Rp 647.540,1.0,No
+CUST-1931,Rini,Purnomo,Surabaya,2021-09-29,Rp 374.479,6.0,Yes
+CUST-0284,Agus,Ningsih,Jakarta,2021-09-30,Rp 1.402.177,12.0,Yes
+CUST-1633,Bambang,Pratama,Medan,2021-10-01,Rp 757.751,1.0,Yes
+CUST-0798,Agus,Suryono,Medan,2021-10-02,Rp 964.150,1.0,Yes
+CUST-1666,Rina,Santoso,Surabaya,2021-10-03,Rp 1.114.694,1.0,Yes
+CUST-0226,Budi,Pratama,Semarang,2021-10-04,Rp 588.104,6.0,Yes
+CUST-0027,Rina,Rahayu,Medan,2021-10-05,Rp 1.094.147,24.0,Yes
+CUST-1816,Dewi,Lestari,Medan,2021-10-06,,1.0,No
+CUST-0438,Maya,Suryono,Semarang,2021-10-07,Rp 1.073.206,1.0,No
+CUST-0958,Bambang,Pratama,Jakarta,2021-10-08,Rp 759.383,1.0,No
+CUST-1389,Dewi,Ningsih,Medan,2021-10-09,,24.0,Yes
+CUST-0230,Rini,Rahayu,Bandung,2021-10-10,Rp 372.019,24.0,No
+CUST-0038,Rini,Wijaya,Makassar,2021-10-11,Rp 1.245.708,1.0,No
+CUST-0750,Rina,Suryono,Makassar,2021-10-12,Rp 932.108,1.0,Yes
+CUST-1046,Budi,Rahayu,Medan,2021-10-13,Rp 694.311,12.0,No
+CUST-1399,Dewi,Ningsih,Jakarta,2021-10-14,Rp 1.418.794,24.0,No
+CUST-0470,Joko,Pratama,Jakarta,2021-10-15,Rp 119.366,12.0,No
+CUST-1735,Budi,Kusuma,Surabaya,2021-10-16,Rp 1.282.749,1.0,No
+CUST-0460,Maya,Santoso,Bandung,2021-10-17,Rp 1.496.495,1.0,No
+CUST-0688,Rini,Kusuma,Jakarta,2021-10-18,Rp 1.336.066,1.0,No
+CUST-1891,Rina,Lestari,Semarang,2021-10-19,Rp 1.225.133,1.0,Yes
+CUST-0640,Eko,Rahayu,Bandung,2021-10-20,,6.0,Yes
+CUST-1755,Rini,Lestari,Makassar,2021-10-21,,6.0,No
+CUST-1219,Bambang,Santoso,Bandung,2021-10-22,Rp 1.115.533,6.0,Yes
+CUST-1159,Siti,Rahayu,Semarang,2021-10-23,Rp 491.634,12.0,Yes
+CUST-1416,Eko,Handayani,Medan,2021-10-24,Rp 305.258,24.0,No
+CUST-1528,Rina,Ningsih,Semarang,2021-10-25,Rp 1.190.463,1.0,No
+CUST-1764,Joko,Rahayu,Semarang,2021-10-26,Rp 503.188,24.0,Yes
+CUST-1301,Eko,Ningsih,Medan,2021-10-27,Rp 1.375.941,6.0,No
+CUST-1870,Bambang,Kusuma,Medan,2021-10-28,Rp 1.268.917,1.0,No
+CUST-0801,Budi,Purnomo,Medan,2021-10-29,Rp 1.279.078,1.0,No
+CUST-1604,Joko,Suryono,Medan,2021-10-30,,12.0,Yes
+CUST-0161,Rini,Purnomo,Medan,2021-10-31,Rp 1.327.278,24.0,No
+CUST-0957,Joko,Pratama,Semarang,2021-11-01,Rp 1.218.333,12.0,No
+CUST-1187,Dewi,Suryono,Surabaya,2021-11-02,Rp 923.641,6.0,No
+CUST-0822,Bambang,Suryono,Surabaya,2021-11-03,Rp 478.943,24.0,Yes
+CUST-1724,Eko,Wijaya,Jakarta,2021-11-04,Rp 1.337.903,6.0,No
+CUST-0878,Dewi,Suryono,Surabaya,2021-11-05,Rp 1.268.875,12.0,No
+CUST-0914,Joko,Santoso,Makassar,2021-11-06,Rp 735.675,12.0,Yes
+CUST-0153,Dewi,Purnomo,Surabaya,2021-11-07,Rp 106.664,1.0,No
+CUST-1884,Agus,Kusuma,Semarang,2021-11-08,Rp 975.888,24.0,Yes
+CUST-1827,Bambang,Ningsih,Medan,2021-11-09,Rp 123.365,24.0,No
+CUST-0510,Maya,Pratama,Medan,2021-11-10,Rp 1.393.106,1.0,Yes
+CUST-1136,Budi,Suryono,Semarang,2021-11-11,Rp 1.444.365,24.0,No
+CUST-1251,Joko,Pratama,Makassar,2021-11-12,Rp 324.761,6.0,No
+CUST-1706,Bambang,Kusuma,Surabaya,2021-11-13,Rp 1.030.765,6.0,No
+CUST-0104,Maya,Pratama,Semarang,2021-11-14,Rp 183.790,12.0,No
+CUST-1446,Maya,Kusuma,Jakarta,2021-11-15,Rp 1.107.800,6.0,Yes
+CUST-1444,Rina,Suryono,Medan,2021-11-16,Rp 553.567,24.0,No
+CUST-1783,Dewi,Kusuma,Bandung,2021-11-17,Rp 1.037.523,1.0,No
+CUST-0587,Maya,Suryono,Jakarta,2021-11-18,Rp 590.671,,Yes
+CUST-1814,Agus,Wijaya,Makassar,2021-11-19,Rp 261.073,1.0,No
+CUST-1144,Bambang,Wijaya,Jakarta,2021-11-20,Rp 638.859,12.0,Yes
+CUST-0054,Siti,Kusuma,Semarang,2021-11-21,Rp 213.377,12.0,No
+CUST-0152,Siti,Wijaya,Surabaya,2021-11-22,Rp 886.481,1.0,No
+CUST-0404,Joko,Ningsih,Medan,2021-11-23,Rp 109.380,6.0,Yes
+CUST-0700,Rini,Ningsih,Makassar,2021-11-24,Rp 814.614,6.0,No
+CUST-0208,Dewi,Wijaya,Makassar,2021-11-25,Rp 1.335.235,6.0,No
+CUST-1944,Rini,Wijaya,Bandung,2021-11-26,Rp 1.264.916,6.0,No
+CUST-1683,Maya,Handayani,Jakarta,2021-11-27,Rp 1.330.033,1.0,No
+CUST-1123,Bambang,Handayani,Bandung,2021-11-28,Rp 1.386.971,24.0,Yes
+CUST-1795,Joko,Suryono,Surabaya,2021-11-29,Rp 201.565,12.0,No
+CUST-0009,Eko,Kusuma,Surabaya,2021-11-30,Rp 236.683,1.0,No
+CUST-1015,Maya,Lestari,Bandung,2021-12-01,Rp 857.660,6.0,Yes
+CUST-1706,Dewi,Lestari,Medan,2021-12-02,Rp 1.346.260,6.0,No
+CUST-1061,Siti,Wijaya,Surabaya,2021-12-03,Rp 1.462.807,1.0,Yes
+CUST-0453,Rina,Pratama,Bandung,2021-12-04,Rp 117.080,12.0,No
+CUST-1676,Bambang,Wijaya,Jakarta,2021-12-05,,1.0,No
+CUST-0254,Budi,Handayani,Bandung,2021-12-06,Rp 358.697,1.0,No
+CUST-1328,Rini,Suryono,Bandung,2021-12-07,Rp 1.146.150,24.0,No
+CUST-0897,Joko,Wijaya,Semarang,2021-12-08,Rp 978.281,1.0,No
+CUST-1778,Rini,Purnomo,Surabaya,2021-12-09,Rp 223.838,24.0,No
+CUST-0881,Bambang,Pratama,Medan,2021-12-10,Rp 751.107,12.0,No
+CUST-1596,Rini,Purnomo,Medan,2021-12-11,Rp 1.043.889,1.0,No
+CUST-1938,Bambang,Suryono,Semarang,2021-12-12,Rp 1.179.558,1.0,No
+CUST-0624,Rini,Suryono,Makassar,2021-12-13,Rp 79.076,6.0,No
+CUST-0346,Agus,Ningsih,Medan,2021-12-14,Rp 1.341.181,,Yes
+CUST-1745,Eko,Rahayu,Bandung,2021-12-15,Rp 875.458,6.0,No
+CUST-0263,Maya,Purnomo,Semarang,2021-12-16,Rp 1.227.268,6.0,No
+CUST-1635,Maya,Ningsih,Jakarta,2021-12-17,Rp 1.221.510,6.0,No
+CUST-1322,Dewi,Handayani,Surabaya,2021-12-18,Rp 325.286,12.0,Yes
+CUST-1439,Budi,Santoso,Surabaya,2021-12-19,Rp 209.750,24.0,Yes
+CUST-0151,Budi,Pratama,Surabaya,2021-12-20,Rp 1.095.867,6.0,No
+CUST-0473,Dewi,Santoso,Bandung,2021-12-21,Rp 276.819,1.0,No
+CUST-0641,Rina,Kusuma,Jakarta,2021-12-22,Rp 1.282.409,1.0,No
+CUST-0872,Maya,Handayani,Semarang,2021-12-23,Rp 1.102.975,6.0,No
+CUST-1932,Rina,Handayani,Semarang,2021-12-24,Rp 1.270.647,6.0,No
+CUST-0551,Bambang,Santoso,Surabaya,2021-12-25,Rp 483.568,1.0,No
+CUST-1825,Bambang,Purnomo,Jakarta,2021-12-26,Rp 509.067,6.0,No
+CUST-0929,Siti,Rahayu,Jakarta,2021-12-27,Rp 1.023.271,24.0,No
+CUST-0489,Rini,Purnomo,Jakarta,2021-12-28,,24.0,Yes
+CUST-1859,Budi,Santoso,Medan,2021-12-29,Rp 1.103.420,12.0,Yes
+CUST-1172,Siti,Kusuma,Medan,2021-12-30,Rp 1.261.885,6.0,No
+CUST-0147,Eko,Purnomo,Surabaya,2021-12-31,Rp 651.987,12.0,No
+CUST-1747,Dewi,Lestari,Jakarta,2022-01-01,Rp 1.159.074,12.0,Yes
+CUST-0277,Dewi,Purnomo,Makassar,2022-01-02,Rp 303.186,12.0,No
+CUST-0403,Bambang,Suryono,Jakarta,2022-01-03,Rp 517.278,6.0,Yes
+CUST-0955,Maya,Ningsih,Semarang,2022-01-04,Rp 1.462.742,12.0,No
+CUST-1927,Rina,Pratama,Semarang,2022-01-05,Rp 1.480.176,24.0,Yes
+CUST-0660,Budi,Purnomo,Surabaya,2022-01-06,Rp 793.277,12.0,No
+CUST-1373,Siti,Rahayu,Makassar,2022-01-07,Rp 1.404.691,24.0,Yes
+CUST-0464,Rina,Rahayu,Jakarta,2022-01-08,Rp 807.959,24.0,No
+CUST-1350,Siti,Purnomo,Makassar,2022-01-09,Rp 472.803,6.0,No
+CUST-0187,Rini,Wijaya,Surabaya,2022-01-10,Rp 437.004,12.0,Yes
+CUST-1148,Eko,Handayani,Semarang,2022-01-11,Rp 1.397.783,6.0,No
+CUST-1225,Eko,Purnomo,Semarang,2022-01-12,Rp 300.047,24.0,Yes
+CUST-0609,Rina,Handayani,Medan,2022-01-13,,1.0,No
+CUST-0144,Rina,Lestari,Surabaya,2022-01-14,Rp 855.511,12.0,No
+CUST-0752,Rina,Santoso,Surabaya,2022-01-15,,6.0,No
+CUST-1535,Siti,Lestari,Jakarta,2022-01-16,Rp 773.902,1.0,No
+CUST-0982,Rini,Purnomo,Jakarta,2022-01-17,Rp 444.814,12.0,No
+CUST-0198,Agus,Rahayu,Medan,2022-01-18,Rp 295.625,12.0,Yes
+CUST-1634,Rina,Wijaya,Bandung,2022-01-19,Rp 950.187,6.0,No
+CUST-0884,Maya,Kusuma,Makassar,2022-01-20,,1.0,No
+CUST-0280,Budi,Handayani,Bandung,2022-01-21,Rp 875.806,6.0,No
+CUST-0294,Budi,Ningsih,Bandung,2022-01-22,Rp 1.120.609,12.0,Yes
+CUST-1871,Siti,Handayani,Surabaya,2022-01-23,Rp 255.206,12.0,No
+CUST-0401,Rina,Suryono,Makassar,2022-01-24,Rp 1.329.582,24.0,No
+CUST-0123,Bambang,Pratama,Surabaya,2022-01-25,Rp 894.473,12.0,No
+CUST-1208,Dewi,Purnomo,Makassar,2022-01-26,Rp 233.924,12.0,No
+CUST-0203,Agus,Lestari,Semarang,2022-01-27,Rp 719.792,1.0,No
+CUST-1463,Maya,Ningsih,Surabaya,2022-01-28,Rp 1.274.948,1.0,No
+CUST-0836,Rini,Rahayu,Surabaya,2022-01-29,Rp 1.351.465,24.0,Yes
+CUST-0247,Bambang,Rahayu,Surabaya,2022-01-30,Rp 433.742,24.0,No
+CUST-1440,Eko,Rahayu,Medan,2022-01-31,Rp 1.081.335,24.0,Yes
+CUST-1734,Bambang,Kusuma,Surabaya,2022-02-01,Rp 194.979,6.0,No
+CUST-1798,Siti,Suryono,Jakarta,2022-02-02,Rp 98.642,6.0,No
+CUST-1460,Agus,Rahayu,Jakarta,2022-02-03,Rp 862.578,,No
+CUST-1708,Joko,Rahayu,Makassar,2022-02-04,Rp 1.057.500,6.0,No
+CUST-1930,Joko,Purnomo,Semarang,2022-02-05,Rp 1.203.891,12.0,No
+CUST-1154,Rina,Suryono,Medan,2022-02-06,Rp 543.314,24.0,No
+CUST-1662,Rina,Wijaya,Makassar,2022-02-07,Rp 59.462,24.0,No
+CUST-1427,Siti,Wijaya,Jakarta,2022-02-08,Rp 745.303,,No
+CUST-0385,Rini,Suryono,Medan,2022-02-09,Rp 72.988,1.0,No
+CUST-1803,Rina,Pratama,Medan,2022-02-10,Rp 183.378,24.0,No
+CUST-1760,Dewi,Kusuma,Semarang,2022-02-11,Rp 523.699,6.0,No
+CUST-0855,Agus,Ningsih,Medan,2022-02-12,Rp 683.899,6.0,No
+CUST-1590,Siti,Handayani,Surabaya,2022-02-13,Rp 455.231,1.0,No
+CUST-0220,Budi,Purnomo,Medan,2022-02-14,Rp 893.705,24.0,No
+CUST-0642,Eko,Santoso,Semarang,2022-02-15,Rp 130.257,1.0,No
+CUST-0002,Siti,Wijaya,Makassar,2022-02-16,,12.0,No
+CUST-0113,Siti,Suryono,Semarang,2022-02-17,Rp 1.058.125,1.0,Yes
+CUST-0699,Joko,Ningsih,Semarang,2022-02-18,,1.0,No
+CUST-1124,Maya,Suryono,Jakarta,2022-02-19,Rp 977.674,6.0,No
+CUST-0952,Rini,Handayani,Surabaya,2022-02-20,Rp 129.293,1.0,No
+CUST-1649,Maya,Ningsih,Jakarta,2022-02-21,Rp 640.704,12.0,No
+CUST-1637,Dewi,Wijaya,Makassar,2022-02-22,Rp 307.244,6.0,No
+CUST-1875,Budi,Rahayu,Bandung,2022-02-23,Rp 208.973,,No
+CUST-1411,Joko,Suryono,Makassar,2022-02-24,Rp 872.198,,No
+CUST-1410,Budi,Santoso,Surabaya,2022-02-25,Rp 1.396.087,12.0,No
+CUST-1534,Dewi,Wijaya,Medan,2022-02-26,Rp 129.441,12.0,No
+CUST-1292,Maya,Lestari,Semarang,2022-02-27,Rp 661.254,1.0,Yes
+CUST-1856,Siti,Santoso,Bandung,2022-02-28,Rp 1.075.926,1.0,Yes
+CUST-0442,Rina,Pratama,Surabaya,2022-03-01,Rp 720.897,6.0,No
+CUST-1521,Rina,Kusuma,Jakarta,2022-03-02,Rp 1.219.419,6.0,No
+CUST-1137,Bambang,Wijaya,Semarang,2022-03-03,Rp 310.486,24.0,Yes
+CUST-1716,Eko,Rahayu,Makassar,2022-03-04,Rp 1.441.412,6.0,No
+CUST-1257,Rini,Wijaya,Jakarta,2022-03-05,Rp 608.486,1.0,No
+CUST-1912,Dewi,Handayani,Surabaya,2022-03-06,Rp 545.276,12.0,Yes
+CUST-1632,Eko,Ningsih,Surabaya,2022-03-07,Rp 1.318.178,12.0,No
+CUST-1696,Rini,Suryono,Makassar,2022-03-08,Rp 867.607,6.0,No
+CUST-1398,Eko,Ningsih,Bandung,2022-03-09,Rp 798.844,6.0,No
+CUST-0664,Maya,Ningsih,Makassar,2022-03-10,Rp 1.104.118,1.0,Yes
+CUST-1883,Rini,Wijaya,Medan,2022-03-11,Rp 890.760,12.0,Yes
+CUST-1258,Maya,Handayani,Jakarta,2022-03-12,Rp 285.648,,No
+CUST-1819,Siti,Suryono,Bandung,2022-03-13,Rp 1.027.587,,No
+CUST-1701,Joko,Suryono,Semarang,2022-03-14,Rp 243.530,6.0,No
+CUST-0318,Maya,Ningsih,Medan,2022-03-15,Rp 1.218.494,24.0,No
+CUST-0649,Rina,Pratama,Bandung,2022-03-16,Rp 1.485.118,1.0,Yes
+CUST-1435,Eko,Kusuma,Jakarta,2022-03-17,Rp 597.212,24.0,No
+CUST-1480,Bambang,Handayani,Surabaya,2022-03-18,Rp 694.896,6.0,No
+CUST-0710,Agus,Pratama,Semarang,2022-03-19,Rp 117.329,1.0,No
+CUST-1383,Rini,Purnomo,Makassar,2022-03-20,Rp 69.913,12.0,No
+CUST-1283,Dewi,Purnomo,Jakarta,2022-03-21,Rp 1.386.058,,No
+CUST-1769,Bambang,Santoso,Medan,2022-03-22,Rp 236.505,6.0,No
+CUST-0973,Rina,Ningsih,Medan,2022-03-23,Rp 696.379,6.0,No
+CUST-0628,Maya,Suryono,Surabaya,2022-03-24,Rp 1.232.264,24.0,No
+CUST-0633,Joko,Wijaya,Surabaya,2022-03-25,Rp 1.339.512,24.0,No
+CUST-1307,Siti,Suryono,Semarang,2022-03-26,Rp 803.127,12.0,No
+CUST-1401,Agus,Suryono,Makassar,2022-03-27,Rp 869.297,12.0,Yes
+CUST-1409,Budi,Rahayu,Semarang,2022-03-28,Rp 1.021.042,6.0,Yes
+CUST-1249,Bambang,Suryono,Surabaya,2022-03-29,,6.0,No
+CUST-0190,Joko,Santoso,Surabaya,2022-03-30,,6.0,No
+CUST-1255,Budi,Pratama,Medan,2022-03-31,Rp 861.239,12.0,No
+CUST-1497,Agus,Purnomo,Surabaya,2022-04-01,Rp 71.074,6.0,No
+CUST-1372,Dewi,Suryono,Bandung,2022-04-02,,12.0,No
+CUST-1530,Dewi,Suryono,Jakarta,2022-04-03,Rp 886.899,6.0,Yes
+CUST-1664,Eko,Rahayu,Surabaya,2022-04-04,Rp 1.407.549,1.0,No
+CUST-1355,Agus,Handayani,Semarang,2022-04-05,Rp 1.306.702,1.0,No
+CUST-1822,Agus,Wijaya,Makassar,2022-04-06,Rp 1.474.739,6.0,No
+CUST-0386,Budi,Handayani,Makassar,2022-04-07,Rp 815.359,1.0,No
+CUST-1127,Joko,Wijaya,Makassar,2022-04-08,,12.0,No
+CUST-1644,Rini,Kusuma,Bandung,2022-04-09,Rp 1.268.580,24.0,No
+CUST-1897,Budi,Suryono,Semarang,2022-04-10,Rp 989.646,1.0,No
+CUST-0796,Siti,Rahayu,Bandung,2022-04-11,Rp 541.187,24.0,Yes
+CUST-0646,Dewi,Lestari,Surabaya,2022-04-12,Rp 731.469,1.0,No
+CUST-1013,Dewi,Ningsih,Jakarta,2022-04-13,Rp 1.293.980,12.0,No
+CUST-1945,Eko,Purnomo,Makassar,2022-04-14,Rp 482.894,1.0,No
+CUST-0557,Siti,Pratama,Semarang,2022-04-15,Rp 1.389.428,1.0,No
+CUST-0682,Dewi,Purnomo,Makassar,2022-04-16,Rp 383.219,6.0,No
+CUST-0578,Budi,Pratama,Bandung,2022-04-17,Rp 1.136.799,24.0,No
+CUST-1820,Siti,Kusuma,Medan,2022-04-18,Rp 964.311,24.0,No
+CUST-1110,Budi,Handayani,Surabaya,2022-04-19,,12.0,No
+CUST-1267,Rini,Santoso,Jakarta,2022-04-20,Rp 684.154,12.0,No
+CUST-1723,Rini,Suryono,Surabaya,2022-04-21,Rp 1.402.330,24.0,No
+CUST-1184,Dewi,Lestari,Medan,2022-04-22,Rp 967.085,6.0,No
+CUST-0525,Dewi,Pratama,Jakarta,2022-04-23,,6.0,No
+CUST-1060,Joko,Ningsih,Medan,2022-04-24,Rp 975.760,,No
+CUST-0541,Rini,Pratama,Surabaya,2022-04-25,,,Yes
+CUST-1195,Bambang,Santoso,Bandung,2022-04-26,,24.0,No
+CUST-1679,Bambang,Purnomo,Surabaya,2022-04-27,Rp 629.418,1.0,No
+CUST-0749,Eko,Rahayu,Surabaya,2022-04-28,Rp 1.286.024,24.0,No
+CUST-0687,Rini,Purnomo,Surabaya,2022-04-29,,1.0,No
+CUST-1431,Budi,Kusuma,Semarang,2022-04-30,,6.0,No
+CUST-0485,Budi,Rahayu,Medan,2022-05-01,,24.0,No
+CUST-1758,Rina,Purnomo,Medan,2022-05-02,Rp 432.228,12.0,No
+CUST-0096,Siti,Ningsih,Makassar,2022-05-03,Rp 1.434.228,1.0,No
+CUST-1021,Maya,Purnomo,Medan,2022-05-04,,6.0,No
+CUST-0564,Bambang,Ningsih,Makassar,2022-05-05,Rp 1.404.229,12.0,Yes
+CUST-1265,Dewi,Ningsih,Semarang,2022-05-06,Rp 344.949,6.0,No
+CUST-0743,Eko,Rahayu,Bandung,2022-05-07,Rp 262.997,1.0,Yes
+CUST-0864,Maya,Handayani,Makassar,2022-05-08,Rp 1.290.943,24.0,No
+CUST-1599,Agus,Wijaya,Surabaya,2022-05-09,Rp 1.037.330,6.0,No
+CUST-1715,Eko,Suryono,Bandung,2022-05-10,Rp 320.539,24.0,No
+CUST-1485,Agus,Pratama,Semarang,2022-05-11,Rp 440.572,24.0,Yes
+CUST-0892,Rini,Wijaya,Medan,2022-05-12,Rp 1.210.963,6.0,Yes
+CUST-1578,Agus,Santoso,Makassar,2022-05-13,Rp 708.109,6.0,No
+CUST-1039,Agus,Handayani,Surabaya,2022-05-14,Rp 1.022.284,6.0,No
+CUST-0207,Joko,Wijaya,Jakarta,2022-05-15,Rp 511.610,24.0,No
+CUST-0393,Joko,Rahayu,Jakarta,2022-05-16,Rp 602.783,12.0,Yes
+CUST-0795,Joko,Santoso,Bandung,2022-05-17,Rp 1.486.533,1.0,Yes
+CUST-0871,Rini,Lestari,Medan,2022-05-18,Rp 409.045,12.0,No
+CUST-0398,Maya,Handayani,Jakarta,2022-05-19,Rp 784.362,24.0,Yes
+CUST-0767,Eko,Wijaya,Bandung,2022-05-20,,6.0,No
+CUST-1889,Eko,Santoso,Semarang,2022-05-21,Rp 396.874,6.0,No
+CUST-1242,Dewi,Lestari,Bandung,2022-05-22,Rp 652.060,1.0,Yes
+CUST-1029,Joko,Purnomo,Bandung,2022-05-23,,1.0,Yes
+CUST-1793,Rini,Santoso,Bandung,2022-05-24,,12.0,Yes
+CUST-0643,Dewi,Rahayu,Surabaya,2022-05-25,Rp 716.278,12.0,No
+CUST-1941,Siti,Purnomo,Bandung,2022-05-26,Rp 575.639,1.0,No
+CUST-0613,Dewi,Rahayu,Makassar,2022-05-27,Rp 900.637,24.0,No
+CUST-1763,Maya,Wijaya,Bandung,2022-05-28,,12.0,No
+CUST-0961,Bambang,Suryono,Surabaya,2022-05-29,Rp 997.270,6.0,No
+CUST-1571,Agus,Wijaya,Surabaya,2022-05-30,Rp 152.034,6.0,Yes
+CUST-0726,Joko,Purnomo,Semarang,2022-05-31,Rp 965.000,24.0,No
+CUST-0684,Bambang,Ningsih,Medan,2022-06-01,Rp 1.432.194,1.0,No
+CUST-0099,Dewi,Wijaya,Jakarta,2022-06-02,Rp 834.430,12.0,No
+CUST-0805,Rini,Purnomo,Jakarta,2022-06-03,Rp 1.087.137,6.0,No
+CUST-1752,Agus,Santoso,Bandung,2022-06-04,Rp 857.262,1.0,No
+CUST-1598,Eko,Kusuma,Semarang,2022-06-05,Rp 1.289.374,12.0,Yes
+CUST-0407,Budi,Wijaya,Bandung,2022-06-06,Rp 1.397.895,24.0,No
+CUST-0503,Agus,Santoso,Jakarta,2022-06-07,Rp 317.119,6.0,No
+CUST-1072,Maya,Rahayu,Surabaya,2022-06-08,Rp 683.447,24.0,No
+CUST-1057,Maya,Handayani,Medan,2022-06-09,Rp 618.954,24.0,No
+CUST-0930,Dewi,Suryono,Semarang,2022-06-10,,24.0,No
+CUST-0780,Siti,Rahayu,Surabaya,2022-06-11,Rp 232.010,12.0,No
+CUST-1864,Maya,Rahayu,Medan,2022-06-12,Rp 1.229.743,24.0,No
+CUST-0201,Maya,Purnomo,Semarang,2022-06-13,Rp 101.861,12.0,No
+CUST-0135,Rini,Ningsih,Semarang,2022-06-14,Rp 815.929,12.0,No
+CUST-1052,Dewi,Pratama,Jakarta,2022-06-15,,24.0,No
+CUST-0041,Agus,Kusuma,Surabaya,2022-06-16,Rp 350.831,24.0,No
+CUST-1018,Siti,Ningsih,Semarang,2022-06-17,Rp 1.363.483,1.0,No
+CUST-0231,Bambang,Purnomo,Makassar,2022-06-18,Rp 1.265.896,6.0,No
+CUST-1514,Budi,Suryono,Semarang,2022-06-19,Rp 733.071,1.0,No
+CUST-1797,Joko,Kusuma,Medan,2022-06-20,Rp 646.166,6.0,No
+CUST-0379,Eko,Kusuma,Jakarta,2022-06-21,Rp 393.023,6.0,No
+CUST-0289,Maya,Purnomo,Bandung,2022-06-22,Rp 1.108.490,1.0,No
+CUST-0419,Dewi,Lestari,Jakarta,2022-06-23,Rp 241.029,1.0,Yes
+CUST-1699,Joko,Rahayu,Bandung,2022-06-24,Rp 1.036.345,6.0,No
+CUST-0392,Eko,Handayani,Surabaya,2022-06-25,Rp 1.271.563,6.0,No
+CUST-0593,Eko,Lestari,Surabaya,2022-06-26,Rp 381.284,6.0,No
+CUST-1523,Bambang,Purnomo,Semarang,2022-06-27,,12.0,No
+CUST-1163,Bambang,Lestari,Makassar,2022-06-28,Rp 98.319,6.0,Yes
+CUST-1087,Bambang,Handayani,Surabaya,2022-06-29,,24.0,No
+CUST-1496,Rina,Purnomo,Semarang,2022-06-30,,24.0,Yes
+CUST-0648,Rina,Purnomo,Jakarta,2022-07-01,Rp 986.351,24.0,No
+CUST-1153,Eko,Kusuma,Surabaya,2022-07-02,Rp 412.620,1.0,No
+CUST-1368,Bambang,Lestari,Jakarta,2022-07-03,Rp 1.263.001,1.0,No
+CUST-0521,Rini,Santoso,Jakarta,2022-07-04,Rp 792.836,1.0,No
+CUST-1863,Maya,Wijaya,Makassar,2022-07-05,Rp 246.100,6.0,No
+CUST-1881,Joko,Purnomo,Surabaya,2022-07-06,Rp 877.938,24.0,No
+CUST-0065,Joko,Lestari,Jakarta,2022-07-07,Rp 641.430,6.0,Yes
+CUST-1837,Rina,Pratama,Makassar,2022-07-08,Rp 1.009.099,12.0,No
+CUST-0015,Eko,Suryono,Makassar,2022-07-09,Rp 1.328.760,12.0,No
+CUST-1181,Dewi,Pratama,Surabaya,2022-07-10,Rp 643.614,1.0,Yes
+CUST-1065,Agus,Lestari,Makassar,2022-07-11,Rp 470.327,12.0,No
+CUST-0493,Agus,Rahayu,Surabaya,2022-07-12,Rp 71.047,24.0,No
+CUST-0380,Rina,Rahayu,Surabaya,2022-07-13,Rp 883.517,12.0,Yes
+CUST-0188,Dewi,Lestari,Bandung,2022-07-14,Rp 633.298,1.0,No
+CUST-0764,Rina,Kusuma,Jakarta,2022-07-15,Rp 593.241,6.0,Yes
+CUST-0217,Agus,Kusuma,Medan,2022-07-16,Rp 315.256,12.0,No
+CUST-0792,Dewi,Purnomo,Surabaya,2022-07-17,Rp 673.580,24.0,No
+CUST-1077,Bambang,Handayani,Jakarta,2022-07-18,,24.0,No
+CUST-0879,Eko,Wijaya,Makassar,2022-07-19,Rp 481.744,24.0,No
+CUST-0338,Joko,Purnomo,Semarang,2022-07-20,Rp 919.571,6.0,Yes
+CUST-1773,Rini,Pratama,Surabaya,2022-07-21,Rp 1.175.906,24.0,No
+CUST-0720,Siti,Wijaya,Makassar,2022-07-22,Rp 1.136.279,1.0,No
+CUST-1749,Eko,Pratama,Makassar,2022-07-23,Rp 526.723,1.0,Yes
+CUST-0296,Bambang,Kusuma,Makassar,2022-07-24,Rp 935.747,24.0,No
+CUST-1726,Agus,Lestari,Makassar,2022-07-25,Rp 1.313.334,12.0,Yes
+CUST-1017,Bambang,Handayani,Makassar,2022-07-26,Rp 72.399,24.0,No
+CUST-1276,Rina,Pratama,Surabaya,2022-07-27,Rp 681.815,1.0,No
+CUST-1751,Dewi,Kusuma,Medan,2022-07-28,Rp 375.196,1.0,Yes
+CUST-1486,Joko,Handayani,Bandung,2022-07-29,Rp 613.517,1.0,No
+CUST-0456,Maya,Purnomo,Makassar,2022-07-30,Rp 653.185,12.0,No
+CUST-1295,Rina,Lestari,Makassar,2022-07-31,Rp 1.132.673,12.0,No
+CUST-0816,Eko,Suryono,Bandung,2022-08-01,Rp 186.042,12.0,No
+CUST-1887,Rina,Rahayu,Surabaya,2022-08-02,Rp 793.247,1.0,Yes
+CUST-0270,Eko,Ningsih,Jakarta,2022-08-03,Rp 868.082,6.0,No
+CUST-0996,Maya,Handayani,Semarang,2022-08-04,Rp 766.529,24.0,No
+CUST-0202,Budi,Suryono,Semarang,2022-08-05,Rp 1.111.216,24.0,Yes
+CUST-0162,Joko,Suryono,Jakarta,2022-08-06,Rp 606.497,1.0,No
+CUST-1580,Rini,Handayani,Surabaya,2022-08-07,Rp 1.420.202,12.0,No
+CUST-0730,Rini,Suryono,Semarang,2022-08-08,Rp 748.615,6.0,Yes
+CUST-0402,Siti,Pratama,Bandung,2022-08-09,Rp 878.260,6.0,No
+CUST-0703,Bambang,Suryono,Jakarta,2022-08-10,Rp 1.247.020,12.0,No
+CUST-1501,Budi,Kusuma,Medan,2022-08-11,Rp 449.092,24.0,Yes
+CUST-1846,Rini,Wijaya,Surabaya,2022-08-12,Rp 159.043,24.0,No
+CUST-1796,Rina,Pratama,Jakarta,2022-08-13,Rp 1.076.287,6.0,No
+CUST-1130,Bambang,Suryono,Semarang,2022-08-14,Rp 750.367,6.0,Yes
+CUST-0566,Budi,Purnomo,Surabaya,2022-08-15,Rp 1.349.931,12.0,No
+CUST-1414,Dewi,Rahayu,Bandung,2022-08-16,Rp 1.474.886,24.0,No
+CUST-1022,Dewi,Lestari,Surabaya,2022-08-17,Rp 628.709,6.0,No
+CUST-1026,Bambang,Suryono,Surabaya,2022-08-18,Rp 652.387,24.0,No
+CUST-1412,Eko,Santoso,Bandung,2022-08-19,Rp 641.546,6.0,No
+CUST-1896,Eko,Rahayu,Makassar,2022-08-20,Rp 520.603,12.0,Yes
+CUST-1586,Rina,Purnomo,Bandung,2022-08-21,Rp 1.183.446,24.0,No
+CUST-1725,Budi,Kusuma,Surabaya,2022-08-22,Rp 1.150.544,6.0,Yes
+CUST-1105,Budi,Suryono,Bandung,2022-08-23,Rp 744.035,6.0,No
+CUST-0206,Bambang,Kusuma,Makassar,2022-08-24,Rp 114.759,6.0,Yes
+CUST-0035,Agus,Suryono,Jakarta,2022-08-25,Rp 498.861,6.0,No
+CUST-0872,Dewi,Ningsih,Bandung,2022-08-26,Rp 473.839,12.0,No
+CUST-0776,Budi,Wijaya,Bandung,2022-08-27,Rp 1.226.077,24.0,No
+CUST-0509,Bambang,Kusuma,Surabaya,2022-08-28,Rp 176.985,24.0,No
+CUST-1452,Maya,Wijaya,Jakarta,2022-08-29,Rp 1.218.229,1.0,Yes
+CUST-1479,Siti,Rahayu,Medan,2022-08-30,,24.0,No
+CUST-0956,Maya,Ningsih,Medan,2022-08-31,Rp 1.112.040,1.0,No
+CUST-1391,Joko,Lestari,Semarang,2022-09-01,Rp 676.709,6.0,No
+CUST-0092,Rina,Pratama,Bandung,2022-09-02,Rp 1.035.602,12.0,No
+CUST-1364,Budi,Wijaya,Bandung,2022-09-03,Rp 933.092,12.0,No
+CUST-0898,Joko,Ningsih,Jakarta,2022-09-04,Rp 1.165.021,6.0,Yes
+CUST-0565,Rini,Wijaya,Makassar,2022-09-05,Rp 697.816,1.0,No
+CUST-1370,Joko,Handayani,Medan,2022-09-06,Rp 735.597,6.0,No
+CUST-0777,Bambang,Purnomo,Semarang,2022-09-07,Rp 983.186,12.0,No
+CUST-0242,Budi,Lestari,Jakarta,2022-09-08,Rp 206.712,12.0,No
+CUST-0014,Siti,Purnomo,Bandung,2022-09-09,Rp 682.554,24.0,No
+CUST-0316,Bambang,Suryono,Medan,2022-09-10,,1.0,No
+CUST-0601,Bambang,Wijaya,Semarang,2022-09-11,Rp 104.451,24.0,Yes
+CUST-0388,Rina,Suryono,Surabaya,2022-09-12,Rp 508.207,12.0,Yes
+CUST-1298,Rina,Santoso,Medan,2022-09-13,Rp 505.459,12.0,No
+CUST-0167,Dewi,Wijaya,Semarang,2022-09-14,Rp 968.523,24.0,Yes
+CUST-0841,Dewi,Ningsih,Jakarta,2022-09-15,Rp 203.411,,No
+CUST-0021,Eko,Lestari,Surabaya,2022-09-16,Rp 961.389,12.0,Yes
+CUST-0647,Agus,Suryono,Semarang,2022-09-17,Rp 187.808,24.0,Yes
+CUST-1843,Budi,Wijaya,Semarang,2022-09-18,Rp 187.683,24.0,No
+CUST-1509,Budi,Santoso,Bandung,2022-09-19,Rp 1.105.866,1.0,No
+CUST-1155,Joko,Purnomo,Makassar,2022-09-20,Rp 519.996,12.0,No
+CUST-1529,Budi,Ningsih,Medan,2022-09-21,Rp 1.467.263,6.0,No
+CUST-0832,Budi,Handayani,Bandung,2022-09-22,Rp 104.162,1.0,No
+CUST-1268,Agus,Wijaya,Surabaya,2022-09-23,Rp 695.405,6.0,No
+CUST-1591,Rini,Handayani,Makassar,2022-09-24,Rp 214.047,24.0,No
+CUST-1900,Dewi,Rahayu,Semarang,2022-09-25,Rp 559.500,24.0,No
+CUST-0563,Dewi,Lestari,Bandung,2022-09-26,,6.0,No
