@@ -1,0 +1,26 @@
+product_id,product_name,category,base_cost,unit_price,merchant_id,merchant_name,merchant_city
+PRD-101,Smartphone Pro 5G,Electronics,36000,61017,MCH-1002,Urban Apparel Official,Bandung
+PRD-102,Noise Canceling Headphone,Electronics,87000,116033,MCH-1004,Modern Living Furniture,Tangerang
+PRD-103,4K Ultra Monitor,Electronics,203000,343963,MCH-1002,Urban Apparel Official,Bandung
+PRD-104,Mechanical Keyboard,Electronics,181000,272070,MCH-1002,Urban Apparel Official,Bandung
+PRD-105,Smart Watch Series 7,Electronics,53000,73202,MCH-1001,Techno Central Store,Jakarta Selatan
+PRD-106,Slim Fit Chinos,Fashion,173000,236889,MCH-1001,Techno Central Store,Jakarta Selatan
+PRD-107,Oversized Cotton Hoodie,Fashion,86000,130679,MCH-1007,Style Haven Boutique,Semarang
+PRD-108,Running Sneakers,Fashion,237000,419864,MCH-1005,Nusantara Organic Market,Yogyakarta
+PRD-109,Leather Cardholder,Fashion,208000,312742,MCH-1003,Aura Glow Skincare,Surabaya
+PRD-110,Casual Polo Shirt,Fashion,69000,95163,MCH-1005,Nusantara Organic Market,Yogyakarta
+PRD-111,Hyaluronic Acid Serum,Beauty,56000,73116,MCH-1006,Galaxy Digital Hub,Jakarta Barat
+PRD-112,Mineral Sunscreen SPF50,Beauty,121000,212778,MCH-1002,Urban Apparel Official,Bandung
+PRD-113,Gentle Cleanser,Beauty,236000,301152,MCH-1005,Nusantara Organic Market,Yogyakarta
+PRD-114,Vitamin C Brightening Cream,Beauty,167000,221257,MCH-1008,Pure Beauty Wellness,Denpasar
+PRD-115,Matte Lip Cream,Beauty,50000,79061,MCH-1007,Style Haven Boutique,Semarang
+PRD-116,Ergonomic Desk Chair,Home,177000,241671,MCH-1006,Galaxy Digital Hub,Jakarta Barat
+PRD-117,Aroma Diffuser Ultrasonic,Home,41000,67517,MCH-1002,Urban Apparel Official,Bandung
+PRD-118,Stainless Cookware Set,Home,50000,88159,MCH-1005,Nusantara Organic Market,Yogyakarta
+PRD-119,Orthopedic Latex Pillow,Home,127000,179931,MCH-1002,Urban Apparel Official,Bandung
+PRD-120,Smart LED Lamp,Home,71000,104519,MCH-1006,Galaxy Digital Hub,Jakarta Barat
+PRD-121,Organic Arabica Coffee 500g,Groceries,201000,283447,MCH-1004,Modern Living Furniture,Tangerang
+PRD-122,Pure Honey Blossom 1kg,Groceries,185000,301732,MCH-1002,Urban Apparel Official,Bandung
+PRD-123,Extra Virgin Olive Oil 500ml,Groceries,71000,108442,MCH-1004,Modern Living Furniture,Tangerang
+PRD-124,Almond Milk Unsweetened,Groceries,193000,320939,MCH-1005,Nusantara Organic Market,Yogyakarta
+PRD-125,Rolled Oats 1kg,Groceries,205000,296136,MCH-1004,Modern Living Furniture,Tangerang
